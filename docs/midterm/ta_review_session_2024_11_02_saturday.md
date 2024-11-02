@@ -4,13 +4,14 @@
 - [Consumer Spending Analysis (2020 to 2021)](#consumer-spending-analysis-2020-to-2021)
 - [Saving Rate Calculation](#saving-rate-calculation)
 - [Permanent Income Hypothesis and Spending Decisions](#permanent-income-hypothesis-and-spending-decisions)
+- [Understanding the Permanent Income Hypothesis and Consumption Smoothing](#understanding-the-permanent-income-hypothesis-and-consumption-smoothing)
 - [Understanding the Relationship Between Marginal Propensity to Consume and the Government Spending Multiplier](#understanding-the-relationship-between-marginal-propensity-to-consume-and-the-government-spending-multiplier)
 - [Explanation of the Downward Sloping Money Demand Curve](#explanation-of-the-downward-sloping-money-demand-curve)
 - [Identifying the Spread Reflecting a Convenience Yield](#identifying-the-spread-reflecting-a-convenience-yield)
 - [Understanding the Downward Sloping Money Demand Curve](#understanding-the-downward-sloping-money-demand-curve)
 - [Identifying Spreads Reflecting Convenience Yield](#identifying-spreads-reflecting-convenience-yield)
 - [Effects of Money Demand Volatility on Interest Rates with Fixed Money Supply](#effects-of-money-demand-volatility-on-interest-rates-with-fixed-money-supply)
- - [The Role of Interest on Reserves in the Ample Reserves Regime](#the-role-of-interest-on-reserves-in-the-ample-reserves-regime)
+- [The Role of Interest on Reserves in the Ample Reserves Regime](#the-role-of-interest-on-reserves-in-the-ample-reserves-regime)
 - [Impact of Open Market Operations on Bank Reserves and Treasury Holdings](#impact-of-open-market-operations-on-bank-reserves-and-treasury-holdings)
 - [Impact of Used Metal Press Purchase on US GDP](#impact-of-used-metal-press-purchase-on-us-gdp)
 - [Impact of Capital Replacement on Investment and Capital Stock](#impact-of-capital-replacement-on-investment-and-capital-stock)
@@ -20,6 +21,11 @@
 - [Effect of Increase in Capital per Worker on Output per Worker](#effect-of-increase-in-capital-per-worker-on-output-per-worker)
 - [Understanding Labor Income Share in a Cobb-Douglas Production Function](#understanding-labor-income-share-in-a-cobb-douglas-production-function)
 - [Impact of Market Power on Labor Income Share in a Production Function](#impact-of-market-power-on-labor-income-share-in-a-production-function)
+- [Equilibrium Output in a Closed Economy Macroeconomic Model](#equilibrium-output-in-a-closed-economy-macroeconomic-model)
+- [Fiscal Multiplier in a Closed Economy Macroeconomic Model](#fiscal-multiplier-in-a-closed-economy-macroeconomic-model)
+- [Effect of $c_0$ on the Fiscal Policy Multiplier](#effect-of-c_0-on-the-fiscal-policy-multiplier)
+- [Effect of an Increase in the Marginal Propensity to Consume ($c_1$) on the Fiscal Policy Multiplier](#effect-of-an-increase-in-the-marginal-propensity-to-consume-c_1-on-the-fiscal-policy-multiplier)
+- [Effect of an Increase in the Proportional Tax Rate ($t$) on the Fiscal Policy Multiplier](#effect-of-an-increase-in-the-proportional-tax-rate-t-on-the-fiscal-policy-multiplier)
 
 
 # Nominal GDP vs Real GDP
@@ -32,7 +38,7 @@ To find the real GDP growth rate, we use the relationship between nominal GDP gr
 
 ### Formula
 
-$ Real\ GDP\ Growth = \frac{(1 + Nominal\ GDP\ Growth)}{(1 + Inflation)} - 1 $
+$$ Real\ GDP\ Growth = \frac{(1 + Nominal\ GDP\ Growth)}{(1 + Inflation)} - 1 $$
 
 Given:
 - Nominal GDP growth = 2% = 0.02
@@ -42,21 +48,23 @@ Let's plug in these values and calculate:
 
 1. Substitute values:
 
-$ Real\ GDP\ Growth = \frac{(1 + 0.02)}{(1 + 0.02)} - 1 $
+$$ Real\ GDP\ Growth = \frac{(1 + 0.02)}{(1 + 0.02)} - 1 $$
 
 2. Calculate the numerator and denominator:
 
-$ Real\ GDP\ Growth = \frac{1.02}{1.02} - 1 $
+$$ Real\ GDP\ Growth = \frac{1.02}{1.02} - 1 $$
 
 3. Simplify:
 
-$ Real\ GDP\ Growth = 1 - 1 = 0 $
+$$ Real\ GDP\ Growth = 1 - 1 = 0 $$
 
 Therefore, the real GDP growth is **0%**. 
 
 ## Answer
 
 This result means that the increase in nominal GDP was entirely due to inflation, with no actual growth in real GDP.
+
+Go back to the content, click [here](#table-of-content).
 
 # Consumer Spending Analysis (2020 to 2021)
 
@@ -141,6 +149,8 @@ $$
 - **Inflation Rate**: 10%
 - **Real Increase in Consumption**: 7.33%
 
+Go back to the content, click [here](#table-of-content).
+
 # Saving Rate Calculation
 
 If disposable income is 200 and consumption is 150, the saving rate is what?
@@ -178,6 +188,8 @@ $$
 ### Answer:
 The saving rate is **25%**.
 
+Go back to the content, click [here](#table-of-content).
+
 # Permanent Income Hypothesis and Spending Decisions
 
 According to the **Permanent Income Hypothesis (PIH)**, individuals base their consumption decisions on their expected lifetime income rather than on temporary fluctuations in their income. This means that when people receive information about future income changes, they adjust their spending immediately to smooth consumption over time.
@@ -207,6 +219,54 @@ If we denote:
 The PIH suggests that **Consumption (C)** depends primarily on $Y_P$ rather than $Y_T$. Thus, an expected future raise effectively increases $Y_P$, prompting an increase in $C$ even before the actual raise.
 
 In summary, under the PIH, **individuals smooth consumption by responding immediately to changes in expected permanent income**. This aligns with option **A**.
+
+Go back to the content, click [here](#table-of-content).
+
+# Understanding the Permanent Income Hypothesis and Consumption Smoothing
+
+## Problem Statement
+The Permanent Income Hypothesis is built on the idea that people like to "smooth" consumption. What does this mean?
+
+Options:
+- **A.** People do not like large changes in their spending habits from year to year.
+- **B.** People like to keep consumption aligned with income.
+- **C.** People like to adjust their spending habits to those of their neighbors.
+
+## Explanation and Answer
+
+The **Permanent Income Hypothesis** (PIH), developed by economist Milton Friedman, suggests that people make spending decisions based not on their current income but on their "permanent" income, which represents an average or expected income over time. This hypothesis implies that people prefer to **smooth their consumption** over time, meaning they aim to maintain stable spending levels regardless of short-term fluctuations in income.
+
+**Answer: A. People do not like large changes in their spending habits from year to year.**
+
+### Explanation
+
+Consumption smoothing reflects people’s desire to avoid drastic changes in their lifestyle from year to year, even if their income fluctuates significantly. Rather than spending more when income temporarily rises or cutting back sharply when income falls, individuals tend to even out their consumption patterns over time.
+
+This behavior is driven by two main factors:
+1. **Permanent vs. Transitory Income**: According to PIH, individuals distinguish between permanent income (long-term expected average income) and transitory income (temporary deviations from this average). People base their consumption on permanent income rather than reacting to short-term income changes.
+   
+2. **Utility Maximization**: Utility theory in economics states that people derive more satisfaction when consumption is smooth and predictable rather than volatile. Sharp changes in consumption can lead to lower utility, as individuals tend to prefer a steady lifestyle.
+
+### Formula for Consumption Based on Permanent Income
+
+The consumption function under the Permanent Income Hypothesis is given by:
+
+$$
+C = k \times Y_p
+$$
+
+where:
+- $C$ is the desired level of consumption,
+- $Y_p$ is the permanent income, and
+- $k$ is a constant that reflects the marginal propensity to consume out of permanent income.
+
+Thus, consumption is tied closely to an individual's long-term income expectations rather than yearly income, allowing for consumption smoothing.
+
+## Summary
+
+The correct answer is **A**. The concept of consumption smoothing under the Permanent Income Hypothesis explains that people prefer to avoid large year-to-year changes in their consumption, maintaining stable spending habits despite income fluctuations.
+
+Go back to the content, click [here](#table-of-content).
 
 # Understanding the Relationship Between Marginal Propensity to Consume and the Government Spending Multiplier
 
@@ -260,6 +320,8 @@ In other words, when consumers spend a larger portion of any additional income (
 #### Conclusion
 
 A high MPC implies a higher government spending multiplier. This relationship is directly captured by the formula for the multiplier, which shows that the greater the MPC, the larger the impact of government spending on the economy’s total output ($Z$).
+
+Go back to the content, click [here](#table-of-content).
 
 # Explanation of the Downward Sloping Money Demand Curve
 
@@ -317,6 +379,8 @@ The correct answer is:
 
 This explains why the money demand curve is downward sloping, as people demand less money when the nominal interest rate (and thus the opportunity cost of holding money) is high.
 
+Go back to the content, click [here](#table-of-content).
+
 # Identifying the Spread Reflecting a Convenience Yield
 
 ## Problem Statement
@@ -362,6 +426,8 @@ where:
 A positive convenience yield indicates that the Treasury yield is lower than the corporate yield, reflecting the liquidity and safety premium of Treasuries.
 
 In summary, both **Options A and C** demonstrate the concept of convenience yield, where the preference for liquidity or safety results in a lower yield on certain assets.
+
+Go back to the content, click [here](#table-of-content).
 
 # Understanding the Downward Sloping Money Demand Curve
 
@@ -418,6 +484,8 @@ The function $L(Y, i)$ shows that the demand for money is positively related to 
 
 Therefore, **Option C** best explains why the money demand curve is downward sloping: the **higher the nominal interest rate, the higher the opportunity cost of holding money**.
 
+Go back to the content, click [here](#table-of-content).
+
 # Identifying Spreads Reflecting Convenience Yield
 
 In financial markets, the concept of a **convenience yield** refers to the additional return or benefit that investors receive from holding a particular asset, often due to its ease of conversion to cash, security, or flexibility in meeting immediate needs. Convenience yield is commonly associated with assets that provide immediate liquidity or access to cash.
@@ -458,6 +526,8 @@ This spread reflects the **presence of a convenience yield**, as Treasury bonds 
 - **Convenience yield** arises from holding assets with high liquidity and low risk.
 - **Treasury bonds** provide security and liquidity, resulting in lower yields compared to corporate bonds with similar terms.
 - **Answer**: The yield spread in option **C** most closely represents a convenience yield, where investors accept lower yields in exchange for the safety and liquidity of government-backed securities.
+
+Go back to the content, click [here](#table-of-content).
 
 # Effects of Money Demand Volatility on Interest Rates with Fixed Money Supply
 
@@ -510,6 +580,8 @@ Thus, with a fixed money supply and fluctuating money demand, interest rates wil
 ### Conclusion
 
 Given a volatile money demand, targeting a fixed money supply leads to more variable interest rates because interest rates must adjust to maintain equilibrium in the money market. The correct answer is therefore **A. Targeting a fixed money supply delivers more volatile interest rates**.
+
+Go back to the content, click [here](#table-of-content).
 
 # The Role of Interest on Reserves in the Ample Reserves Regime
 
@@ -571,6 +643,8 @@ When banks receive interest on reserves, the IOR sets a benchmark rate. Banks wi
 ## Conclusion
 The key tool for ensuring effective monetary policy in an ample reserves regime is for the Fed to pay interest on reserves (Option A). The IOR allows the central bank to control short-term interest rates and influence the economic environment, even with an abundant supply of reserves in the banking system.
 
+Go back to the content, click [here](#table-of-content).
+
 # Impact of Open Market Operations on Bank Reserves and Treasury Holdings
 
 ## Problem Statement
@@ -626,6 +700,8 @@ then **OMOs increase reserves ($D$)** when the Fed purchases securities, impacti
 ### Summary
 Through open market purchases, the Fed lowers banks' holdings of treasuries and raises reserves. The professor's hint could illustrate that the total monetary base is balanced between currency in circulation and reserves in the banking system, both of which impact the money supply.
 
+Go back to the content, click [here](#table-of-content).
+
 # Impact of Used Metal Press Purchase on US GDP
 
 ## Problem Statement
@@ -672,6 +748,8 @@ Consequently, **U.S. GDP remains unaffected** by this purchase of used equipment
 
 Purchasing a used asset from another country does not increase or decrease U.S. GDP because GDP only accounts for new production within national borders. This transaction simply transfers ownership without impacting current production levels in the U.S.
 
+Go back to the content, click [here](#table-of-content).
+
 # Impact of Capital Replacement on Investment and Capital Stock
 
 ## Problem Statement
@@ -680,6 +758,13 @@ A U.S. steel factory purchases a new metal press to replace an old one that is o
 
 - **Investment (I)**: The measure of expenditures on new capital in an economy.
 - **Capital Stock (K)**: The total value of physical assets used in production within an economy at a given time.
+
+A US steel factory buys a new metal press to replace one that is out of commission and gets scrapped. This:
+
+- A. increases investment I, does not change the stock of capital K
+- B. increases investment I and the stock of capital K
+- C. does not chnage investment I, but increases the capital stock K
+
 
 ## Analysis and Answer
 
@@ -720,6 +805,8 @@ To further clarify, let’s look at the formulas for **Investment** and **Capita
 ### Conclusion
 
 Since the factory is replacing an asset without expanding the total productive assets, this transaction increases **investment (I)** but does **not change the capital stock (K)**.
+
+Go back to the content, click [here](#table-of-content).
 
 # Relationship Between Capital and Labor as Complements in Production
 
@@ -791,6 +878,8 @@ This relationship confirms that **capital and labor are complements** in this pr
 
 The formula provided, $Y = AK^{1-\alpha}N^{\alpha}$, is indeed a Cobb-Douglas production function, which is suitable for analyzing how capital and labor interact as complements. By examining the **marginal products** of labor and capital, we confirm that an increase in one input raises the productivity of the other, consistent with the concept of complements in production.
 
+Go back to the content, click [here](#table-of-content).
+
 # Effects of Capital Stock Increase on the Neoclassical Labor Market
 
 ## Problem Restatement
@@ -846,6 +935,87 @@ In the neoclassical labor market model, an increase in capital stock $K$ leads t
 
 This understanding is essential in macroeconomics as it demonstrates how capital investment can drive both wage growth and employment, improving the overall economic well-being.
 
+Go back to the content, click [here](#table-of-content).
+
+# Impact of Capital Stock on Labor Market Equilibrium
+
+## Problem Overview
+In the neoclassical labor market model, an increase in the stock of capital $K$ has notable effects on the demand for labor, real wages, and employment levels. Specifically, an increase in $K$ generally leads to:
+
+- **A shift in the Marginal Product of Labor (MPL) Curve**: A higher stock of capital $K$ increases MPL at every labor level $N$, shifting the demand curve for labor to the right.
+- **Increased Real Wages ($W/P$)**: Since wages are based on labor productivity, an increase in MPL leads to higher real wages $W/P$.
+- **Higher Employment ($N^*$)**: As real wages increase due to higher MPL, firms hire more labor, raising the equilibrium employment level $N^*$.
+
+Suppose we assume the above effects are correct. If this is the case, under what condition could these effects be reversed? Given the options below, choose the most plausible answer and explain the reasoning.
+
+### Options:
+A. Changing the assumption about whether labor and capital are complements
+B. Using a labor market model with imperfect competition
+C. Looking at the long run instead of the short run
+
+## Answer
+### Choice: **C. Looking at the long run instead of the short run**
+
+In the long run, the effects of an increase in the stock of capital $K$ on the labor market may differ from the short-run outcomes. Here’s how each effect changes in the long run:
+
+1. **MPL Curve Shift**: In the short run, an increase in $K$ typically raises the Marginal Product of Labor (MPL), resulting in a higher demand for labor. However, in the long run, the neoclassical model assumes that firms can adjust both capital and labor to their optimal levels. As firms expand capacity with increased capital, the additional productivity effect on labor may be diminished, leading to a less pronounced rightward shift in the MPL.
+
+2. **Real Wages ($W/P$)**: In the short run, the increase in MPL due to higher capital raises real wages as firms compete for labor. In the long run, however, with full adjustments in capital and labor, the labor market might reach a new equilibrium where real wages stabilize. Additionally, adjustments in labor supply and increased labor force participation could counterbalance wage increases, resulting in smaller wage changes than initially observed.
+
+3. **Employment Level ($N^*$)**: With long-run adjustments, firms may reach a level where the additional capital no longer increases labor demand at the same rate as in the short run. Equilibrium employment ($N^*$) could stabilize or even decline if capital becomes more productive independently, reducing the need for labor. Thus, the long-run equilibrium effect on $N^*$ may not align with the short-run increase observed when capital initially rises.
+
+## Analysis
+
+### A. Changing the Complementarity of Labor and Capital
+
+In the neoclassical model, labor and capital are typically considered complementary, meaning an increase in $K$ raises the MPL, thereby increasing labor demand. However, if we change our assumption such that labor and capital are **substitutes**, an increase in $K$ could reduce labor demand as capital replaces labor in production processes. This substitution effect would lead to:
+
+- A **leftward shift** in the MPL curve as the need for labor diminishes.
+- A **decrease in real wages** $W/P$.
+- A **reduction in equilibrium employment** $N^*$.
+
+### B. Labor Market Model with Imperfect Competition
+
+In a labor market with **imperfect competition**, firms may possess some market power, leading to different wage-setting and hiring practices. Here, wages are not solely determined by the MPL:
+
+- Firms may set wages below the MPL to maximize profits.
+- An increase in $K$ could lead to **smaller increases in real wages** $W/P$, as firms exert their power to contain wage growth.
+- **Employment levels ($N^*$) may not increase** as much as in a perfectly competitive market, due to wage-setting frictions and potentially lower labor demand.
+
+### C. Long-Run Versus Short-Run Analysis
+
+In the **long run**, capital and labor adjustments are more flexible, and firms can fully optimize their production processes. This scenario may result in different impacts:
+
+- In the long run, the economy can reach a new equilibrium where **both capital and labor inputs are optimized**.
+- Real wages $W/P$ may stabilize as labor productivity increases due to technology and capital improvements.
+- **Employment $N^*$ might not increase** significantly if technological advancements reduce the reliance on labor.
+
+### Conclusion
+
+In summary, the implications of an increase in capital stock $K$ on the labor market differ depending on assumptions about capital-labor complementarity, market structure, and time horizon. Each factor can influence the direction of shifts in the MPL curve, real wages, and employment levels.
+
+## Mathematical Representation
+
+If we represent the production function as $Y = F(K, N)$, where $Y$ is output, $K$ is capital, and $N$ is labor:
+
+1. **MPL**: $ \frac{\partial Y}{\partial N} $
+   
+2. **Real Wage**: $W/P = \text{MPL}$
+
+In the neoclassical case with complements, an increase in $K$ leads to an increase in $\frac{\partial Y}{\partial N}$, raising both $W/P$ and $N^*$. This changes, however, under different assumptions.
+
+## Mathematical Representation
+
+If we represent the production function as $Y = F(K, N)$, where $Y$ is output, $K$ is capital, and $N$ is labor:
+
+1. **MPL**: $ \frac{\partial Y}{\partial N} $
+   
+2. **Real Wage**: $W/P = \text{MPL}$
+
+In the neoclassical case with complements, an increase in $K$ leads to an increase in $\frac{\partial Y}{\partial N}$, raising both $W/P$ and $N^*$. This changes, however, under different assumptions.
+
+Go back to the content, click [here](#table-of-content).
+
 # Market Expectation of Future Interest Rates: Yield Curve Analysis
 
 ## Problem Statement
@@ -859,81 +1029,6 @@ Assuming investors are risk-neutral, we want to find the market's expectation of
 
 The professor provided a formula to approach this problem:
 
-\[
-(1 + i_{1,t})(1 + i_{1,t+1}^e) = (1 + i_{2,t})^2
-\]
-
-Additionally, an approximation is given by:
-
-\[
-\frac{1}{2} i_{1,t} + \frac{1}{2} i_{1,t+1}^e = i_{2,t}
-\]
-
-This formula helps estimate the expected future one-year interest rate, given current yield information.
-
-## Explanation of the Problem
-
-The task is to use the given interest rates and the formula to find the market’s expectation for next year's one-year interest rate. This involves using information from the yield curve, which reflects interest rates across different maturities.
-
-In a risk-neutral setting, the yield on longer-term bonds reflects the market's expectation of future short-term rates. Here, we want to leverage this relationship to estimate next year’s one-year rate, $i_{1,t+1}^e$, using the current one-year rate $i_{1,t}$ and the two-year yield $i_{2,t}$.
-
-### Explanation of the Formula
-
-The formula:
-
-\[
-(1 + i_{1,t})(1 + i_{1,t+1}^e) = (1 + i_{2,t})^2
-\]
-
-is based on the principle of forward interest rates. Under the assumption of risk neutrality, it implies that investing for one year and then reinvesting at the future one-year rate should yield the same return as a two-year investment today.
-
-In approximate terms, this can be expressed as:
-
-\[
-\frac{1}{2} i_{1,t} + \frac{1}{2} i_{1,t+1}^e = i_{2,t}
-\]
-
-This approximation simplifies the calculation by averaging the current and expected future one-year rates to match the two-year rate.
-
-### Application of the Formula
-
-Using the approximation formula, we can isolate $i_{1,t+1}^e$ and calculate the market's expected one-year rate starting next year.
-
-1. Substitute $i_{1,t} = 4.3\%$ and $i_{2,t} = 3.95\%$ into the equation:
-
-   \[
-   \frac{1}{2}(4.3\%) + \frac{1}{2} i_{1,t+1}^e = 3.95\%
-   \]
-
-2. Simplify and solve for $i_{1,t+1}^e$:
-
-   \[
-   2 \times 3.95\% - 4.3\% = i_{1,t+1}^e
-   \]
-
-   \[
-   i_{1,t+1}^e = 3.6\%
-   \]
-
-Thus, the market’s expectation for the one-year interest rate starting next year is **3.6%**.
-
-## Conclusion
-
-Using the given yield curve information, we calculated the expected one-year rate starting next year to be 3.6%. This result was derived by assuming a risk-neutral investor and applying an approximation formula to relate the current one-year rate and two-year zero-coupon bond yield.
-
-# Market Expectation of Future Interest Rates: Yield Curve Analysis
-
-## Problem Statement
-
-Given the following values from the yield curve on October 22, 2024:
-
-- The one-year interest rate today is 4.3%, denoted as $i_{1,t} = 4.3\%$.
-- The yield on a two-year zero-coupon bond is 3.95%, denoted as $i_{2,t} = 3.95\%$.
-
-Assuming investors are risk-neutral, we want to find the market's expectation of the one-year interest rate starting next year, denoted as $i_{1,t+1}^e$.
-
-The professor provided a formula to approach this problem:
-
 $$
 (1 + i_{1,t})(1 + i_{1,t+1}^e) = (1 + i_{2,t})^2
 $$
@@ -995,6 +1090,8 @@ Thus, the market’s expectation for the one-year interest rate starting next ye
 ## Conclusion
 
 Using the given yield curve information, we calculated the expected one-year rate starting next year to be 3.6%. This result was derived by assuming a risk-neutral investor and applying an approximation formula to relate the current one-year rate and two-year zero-coupon bond yield.
+
+Go back to the content, click [here](#table-of-content).
 
 # Effect of Increase in Capital per Worker on Output per Worker
 
@@ -1066,6 +1163,8 @@ $$
 ### Final Answer
 A 10% increase in capital per worker will increase output per worker by **3.5%**.
 
+Go back to the content, click [here](#table-of-content).
+
 # Understanding Labor Income Share in a Cobb-Douglas Production Function
 
 ## Problem Statement
@@ -1084,7 +1183,7 @@ We aim to:
 1. Explain the formula $\frac{WN}{PY}$ and its interpretation as the share of labor income over total domestic income.
 2. Derive this ratio from the Cobb-Douglas production function and understand its relation to $\alpha$.
 
-## Explanation of $ \frac{WN}{PY} $
+## Explanation of $\frac{WN}{PY}$
 
 In macroeconomics, **labor income** (or wage income) represents the portion of total income in the economy that goes to labor. The **share of labor income** over total income is expressed as:
 
@@ -1156,6 +1255,8 @@ The coefficient $\alpha$ in the Cobb-Douglas function represents the **labor sha
 
 The formula $\frac{WN}{PY} = \alpha$ is derived from the Cobb-Douglas function under the assumption of perfect competition. It shows that the share of labor income in the economy is directly determined by the output elasticity of labor, represented by $\alpha$.
 
+Go back to the content, click [here](#table-of-content).
+
 # Impact of Market Power on Labor Income Share in a Production Function
 
 ## Problem Statement
@@ -1208,3 +1309,412 @@ $$
 
 With market power, however, the labor income share is expected to be **lower than $\alpha$** as firms divert a portion of total income to profits rather than to labor compensation.
 
+Go back to the content, click [here](#table-of-content).
+
+# Equilibrium Output in a Closed Economy Macroeconomic Model
+
+## Problem Description
+
+In a closed economy, the equilibrium level of output, $Y$, is determined by the aggregate demand. The aggregate demand is the sum of consumption ($C$), investment ($I$), and government spending ($G$). 
+
+The model is given as follows:
+
+1. **Aggregate Demand Equation**:
+   $$
+   Y = C + I + G
+   $$
+
+2. **Consumption Function**:
+   $$
+   C = c_0 + c_1 (Y - T)
+   $$
+   where:
+   - $c_0$ is autonomous consumption (i.e., the baseline level of consumption independent of income),
+   - $c_1$ is the marginal propensity to consume (the fraction of additional income spent on consumption),
+   - $(Y - T)$ is disposable income.
+
+3. **Tax Function**:
+   $$
+   T = tY
+   $$
+   where $t$ is the tax rate as a fraction of income.
+
+### Given Values
+- Investment, $I = 2500$
+- Government spending, $G = 500$
+- Autonomous consumption, $c_0 = 600$
+- Marginal propensity to consume, $c_1 = 0.5$
+- Tax rate, $t = 0.2$
+
+Our goal is to solve for the **equilibrium level of output**, $Y$.
+
+## Solution
+
+### Step 1: Substitute the Consumption and Tax Equations
+
+Starting from the aggregate demand equation:
+$$
+Y = C + I + G
+$$
+
+Substitute the consumption function $C = c_0 + c_1 (Y - T)$ and the tax function $T = tY$:
+
+$$
+Y = \left( c_0 + c_1 (Y - tY) \right) + I + G
+$$
+
+### Step 2: Simplify the Equation
+
+Expand and simplify the equation:
+
+$$
+Y = c_0 + c_1 Y - c_1 t Y + I + G
+$$
+
+Factor out $Y$ terms on the right-hand side:
+
+$$
+Y = c_0 + I + G + Y(c_1 - c_1 t)
+$$
+
+Rearrange the terms to isolate $Y$:
+
+$$
+Y - Y(c_1 - c_1 t) = c_0 + I + G
+$$
+
+Factor out $Y$ on the left side:
+
+$$
+Y(1 - c_1 + c_1 t) = c_0 + I + G
+$$
+
+### Step 3: Substitute the Given Values
+
+Now, substitute the given values:
+
+- $c_0 = 600$
+- $c_1 = 0.5$
+- $t = 0.2$
+- $I = 2500$
+- $G = 500$
+
+Substitute into the equation:
+
+$$
+Y \left( 1 - 0.5 + 0.5 \times 0.2 \right) = 600 + 2500 + 500
+$$
+
+Calculate the expression in the parentheses:
+
+$$
+1 - 0.5 + 0.1 = 0.6
+$$
+
+Thus, we have:
+
+$$
+Y \times 0.6 = 3600
+$$
+
+### Step 4: Solve for $Y$
+
+Finally, solve for $Y$:
+
+$$
+Y = \frac{3600}{0.6}
+$$
+
+$$
+Y = 6000
+$$
+
+## Answer
+
+The equilibrium level of output, $Y$, is **6000**.
+
+Go back to the content, click [here](#table-of-content).
+
+# Fiscal Multiplier in a Closed Economy Macroeconomic Model
+
+## Problem Description
+
+In a closed economy with aggregate demand, the **fiscal multiplier** measures the effect of an increase in government spending on the equilibrium output level $Y$. This multiplier indicates how much total output will change for each additional unit of government spending, $G$.
+
+Our model is given by:
+
+1. **Aggregate Demand Equation**:
+   $$
+   Y = C + I + G
+   $$
+
+2. **Consumption Function**:
+   $$
+   C = c_0 + c_1 (Y - T)
+   $$
+   where:
+   - $c_0$ is autonomous consumption,
+   - $c_1$ is the marginal propensity to consume,
+   - $(Y - T)$ is disposable income.
+
+3. **Tax Function**:
+   $$
+   T = tY
+   $$
+   where $t$ is the tax rate as a fraction of income.
+
+### Given Values
+- Marginal propensity to consume, $c_1 = 0.5$
+- Tax rate, $t = 0.2$
+
+Our goal is to solve for the **fiscal multiplier** in this model.
+
+## Solution
+
+### Step 1: Derive the Fiscal Multiplier Formula
+
+The fiscal multiplier, denoted as $m$, is given by the derivative of output $Y$ with respect to government spending $G$:
+
+$$
+m = \frac{dY}{dG}
+$$
+
+To find this, we need to express $Y$ in terms of $G$ in the equilibrium condition.
+
+### Step 2: Set up the Equilibrium Condition
+
+From the aggregate demand equation, we have:
+
+$$
+Y = c_0 + c_1 (Y - tY) + I + G
+$$
+
+Expanding and simplifying:
+
+$$
+Y = c_0 + c_1 Y - c_1 t Y + I + G
+$$
+
+Rearranging terms to isolate $Y$:
+
+$$
+Y(1 - c_1 + c_1 t) = c_0 + I + G
+$$
+
+### Step 3: Solve for $Y$ in Terms of $G$
+
+From the previous problem, we derived that:
+
+$$
+Y = \frac{c_0 + I + G}{1 - c_1 + c_1 t}
+$$
+
+Now, we take the derivative of $Y$ with respect to $G$:
+
+$$
+\frac{dY}{dG} = \frac{1}{1 - c_1 + c_1 t}
+$$
+
+### Step 4: Substitute the Given Values
+
+Using the given values for $c_1$ and $t$:
+
+- $c_1 = 0.5$
+- $t = 0.2$
+
+Substitute these values into the multiplier formula:
+
+$$
+m = \frac{1}{1 - 0.5 + (0.5 \times 0.2)}
+$$
+
+Calculate the denominator:
+
+$$
+1 - 0.5 + 0.1 = 0.6
+$$
+
+Thus, the fiscal multiplier is:
+
+$$
+m = \frac{1}{0.6} = 1.67
+$$
+
+## Answer
+
+The fiscal multiplier in this model is **1.67**. This means that for each additional unit of government spending $G$, the equilibrium output $Y$ will increase by 1.67 units.
+
+Go back to the content, click [here](#table-of-content).
+
+# Effect of $c_0$ on the Fiscal Policy Multiplier
+
+## Problem Description
+
+In the closed economy model described previously, the **fiscal policy multiplier** indicates how much equilibrium output $Y$ changes with each additional unit of government spending $G$. The multiplier, derived in the previous solution, is:
+
+$$
+m = \frac{1}{1 - c_1 + c_1 t}
+$$
+
+where:
+- $c_1$ is the marginal propensity to consume,
+- $t$ is the tax rate.
+
+The term $c_0$ represents **autonomous consumption**, which is the level of consumption when income is zero.
+
+### Question
+
+What happens to the fiscal multiplier $m$ if $c_0$ increases?
+
+### Answer Choices
+
+A. **Does not change**
+
+B. **Increases**
+
+C. **Decreases**
+
+## Solution
+
+### Step 1: Analyze the Fiscal Multiplier Formula
+
+From the multiplier formula:
+
+$$
+m = \frac{1}{1 - c_1 + c_1 t}
+$$
+
+we observe that the fiscal multiplier depends only on $c_1$ (marginal propensity to consume) and $t$ (tax rate). The autonomous consumption term, $c_0$, does not appear in this formula.
+
+### Step 2: Determine the Effect of $c_0$ on $m$
+
+Since $c_0$ is not part of the multiplier formula, changes in $c_0$ will **not affect the fiscal policy multiplier**. This is because $c_0$ only shifts the aggregate demand level but does not influence the sensitivity of output $Y$ to changes in government spending $G$.
+
+### Conclusion
+
+The correct answer is:
+
+**A. Does not change**
+
+An increase in $c_0$ will not impact the fiscal multiplier, as $c_0$ does not appear in the multiplier formula.
+
+Go back to the content, click [here](#table-of-content).
+
+# Effect of an Increase in the Marginal Propensity to Consume ($c_1$) on the Fiscal Policy Multiplier
+
+## Problem Description
+
+In the closed economy model from the previous problems, the **fiscal multiplier** measures the impact of government spending on the equilibrium output level $Y$. The fiscal multiplier is given by:
+
+$$
+m = \frac{1}{1 - c_1 + c_1 t}
+$$
+
+where:
+- $c_1$ is the marginal propensity to consume, representing the fraction of additional income spent on consumption,
+- $t$ is the tax rate, a fraction of income.
+
+In this problem, we examine what happens to the fiscal multiplier, $m$, when the **marginal propensity to consume** $c_1$ **increases**.
+
+### Possible Answers
+
+A. The fiscal policy multiplier **increases**
+
+B. The fiscal policy multiplier **decreases**
+
+C. The fiscal policy multiplier **does not change**
+
+## Solution
+
+### Step 1: Understand the Fiscal Multiplier Formula
+
+The fiscal multiplier $m$ is:
+
+$$
+m = \frac{1}{1 - c_1 + c_1 t}
+$$
+
+### Step 2: Analyze the Effect of an Increase in $c_1$
+
+Since $m$ depends on the term $1 - c_1 + c_1 t$ in the denominator, an increase in $c_1$ affects this term in the following ways:
+
+1. **$1 - c_1$ Decreases**: As $c_1$ increases, the term $1 - c_1$ decreases.
+2. **$c_1 t$ Increases**: An increase in $c_1$ also increases the term $c_1 t$.
+
+Combining these effects, we see that an increase in $c_1$ generally makes the **denominator smaller** because $1 - c_1 + c_1 t$ decreases as $c_1$ increases.
+
+### Step 3: Determine the Impact on $m$
+
+With a smaller denominator, the value of the fiscal multiplier $m$ **increases** because:
+
+$$
+m = \frac{1}{1 - c_1 + c_1 t}
+$$
+
+Thus, an increase in $c_1$ leads to a higher fiscal multiplier, meaning that each additional unit of government spending has a larger impact on the equilibrium output $Y$.
+
+### Answer
+
+The correct answer is:
+
+**A. The fiscal policy multiplier increases.**
+
+When the marginal propensity to consume $c_1$ increases, the fiscal multiplier becomes larger, amplifying the effect of government spending on output.
+
+Go back to the content, click [here](#table-of-content).
+
+# Effect of an Increase in the Proportional Tax Rate ($t$) on the Fiscal Policy Multiplier
+
+## Problem Description
+
+In the closed economy model from the previous problems, the **fiscal multiplier** measures the impact of government spending on the equilibrium output level $Y$. The fiscal multiplier is given by:
+
+$$
+m = \frac{1}{1 - c_1 + c_1 t}
+$$
+
+where:
+- $c_1$ is the marginal propensity to consume,
+- $t$ is the proportional tax rate as a fraction of income.
+
+In this problem, we examine what happens to the fiscal multiplier, $m$, when the **tax rate** $t$ **increases**.
+
+### Possible Answers
+
+A. The fiscal policy multiplier **decreases**
+
+B. The fiscal policy multiplier **increases**
+
+C. The fiscal policy multiplier **does not change**
+
+## Solution
+
+### Step 1: Understand the Fiscal Multiplier Formula
+
+The fiscal multiplier $m$ is:
+
+$$
+m = \frac{1}{1 - c_1 + c_1 t}
+$$
+
+### Step 2: Analyze the Effect of an Increase in $t$
+
+The denominator of the fiscal multiplier formula is $1 - c_1 + c_1 t$. When $t$ increases, the term $c_1 t$ **increases**, which results in a **larger denominator**.
+
+### Step 3: Determine the Impact on $m$
+
+With a larger denominator, the value of the fiscal multiplier $m$ **decreases** because:
+
+$$
+m = \frac{1}{1 - c_1 + c_1 t}
+$$
+
+An increase in $t$ raises the denominator, thereby reducing the fiscal multiplier.
+
+### Answer
+
+The correct answer is:
+
+**A. The fiscal policy multiplier decreases.**
+
+An increase in the tax rate $t$ reduces the fiscal multiplier, meaning that each additional unit of government spending has a smaller impact on the equilibrium output $Y$.
