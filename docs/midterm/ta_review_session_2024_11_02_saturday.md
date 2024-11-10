@@ -212,11 +212,28 @@ The PIH suggests that individuals aim to maintain a stable level of consumption 
 
 #### Mathematical Representation (Optional)
 
-If we denote:
-- $Y_P$ as **Permanent Income** (long-term expected income),
-- $Y_T$ as **Transitory Income** (temporary income fluctuations),
-
 The PIH suggests that **Consumption (C)** depends primarily on $Y_P$ rather than $Y_T$. Thus, an expected future raise effectively increases $Y_P$, prompting an increase in $C$ even before the actual raise.
+
+The Permanent Income Hypothesis (PIH), formulated by Milton Friedman, suggests that people base their consumption primarily on their **permanent income** (long-term average income expectations) rather than temporary, short-term changes in income (transitory income).
+
+If we denote:
+- $Y_P$ as **Permanent Income** (the stable, long-term income people expect),
+- $Y_T$ as **Transitory Income** (temporary fluctuations that are not expected to last),
+
+Then **Consumption (C)** under the PIH can be represented as a function of permanent income, usually expressed as:
+
+$$
+C = \alpha \cdot Y_P
+$$
+
+where:
+- $\alpha$ is the **marginal propensity to consume** out of permanent income, which represents the proportion of permanent income that individuals choose to consume. 
+
+In this framework, $C$ is primarily influenced by $Y_P$ and not by $Y_TR$. According to the PIH:
+- **Permanent income** $Y_P$ is the main determinant of consumption, because individuals smooth their consumption based on their long-term income expectations.
+- **Transitory income** $Y_T$ has little effect on consumption, as people tend to save temporary income fluctuations rather than adjusting their consumption significantly.
+
+Thus, an expected future raise would increase $Y_P$ (permanent income) and therefore increase $C$, even before the actual raise occurs, as individuals anticipate and adjust consumption based on their expectations of stable, long-term income.
 
 In summary, under the PIH, **individuals smooth consumption by responding immediately to changes in expected permanent income**. This aligns with option **A**.
 
