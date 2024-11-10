@@ -212,7 +212,7 @@ The PIH suggests that individuals aim to maintain a stable level of consumption 
 
 #### Mathematical Representation (Optional)
 
-The PIH suggests that **Consumption (C)** depends primarily on $Y_P$ rather than $Y_T$. Thus, an expected future raise effectively increases $Y_P$, prompting an increase in $C$ even before the actual raise.
+The PIH suggests that **Consumption (C)** depends primarily on $Y_P$ rather than $Y_T$. Thus, an expected future raise effectively increases $Y_P$, prompting an increase in $C$ even before the actual raise. More details can be found [here](https://harris.uchicago.edu/files/permanentincome_1.pdf).
 
 The Permanent Income Hypothesis (PIH), formulated by Milton Friedman, suggests that people base their consumption primarily on their **permanent income** (long-term average income expectations) rather than temporary, short-term changes in income (transitory income).
 
