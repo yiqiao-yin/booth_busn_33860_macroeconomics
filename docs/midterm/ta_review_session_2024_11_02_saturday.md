@@ -1105,7 +1105,9 @@ Using the approximation formula, we can isolate $i_{1,t+1}^e$ and calculate the 
 
 1. Substitute $i_{1,t} = 4.3\%$ and $i_{2,t} = 3.95\%$ into the equation:
 
-   $$\frac{1}{2}(4.3\%) + \frac{1}{2} i_{1,t+1}^e = 3.95\%$$
+   $$
+   \frac{1}{2}(4.3\%) + \frac{1}{2} i_{1,t+1}^e = 3.95\%
+   $$
 
 2. Simplify and solve for $i_{1,t+1}^e$:
 
