@@ -2716,7 +2716,7 @@ The inversion signals that investors expect **central banks to lower interest ra
 Mathematically, we can represent the relationship in terms of **yield differentials** along the curve:
 
 $$
-\text{Yield Difference} = \text{Yield}_{\text{Long-term}} - \text{Yield}_{\text{Short-term}}
+\text{Yield Difference} = \text{Yield}\_{\text{Long-term}} - \text{Yield}\_{\text{Short-term}}
 $$
 
 When this **yield difference** is negative, the yield curve is inverted.
