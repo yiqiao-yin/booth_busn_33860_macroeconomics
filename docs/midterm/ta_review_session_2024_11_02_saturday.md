@@ -124,7 +124,7 @@ $$
 Substituting values:
 
 $$
-\text{Nominal Spending Growth Rate} = \frac{3520 - 3000}{3000} \times 100 \approx 17.33\%
+\text{Nominal Spending Growth Rate} = \frac{3520 - 3000}{3000} \times 100 \approx 17.33\text{ percent}
 $$
 
 ### 3. Inflation Rate Calculation
@@ -145,7 +145,7 @@ $$
 Substitute values:
 
 $$
-\text{Inflation Rate} = \frac{3520 - 3200}{3200} \times 100 = 10\%
+\text{Inflation Rate} = \frac{3520 - 3200}{3200} \times 100 = 10\text{ percent}
 $$
 
 ### 4. Real Increase in Consumption
@@ -159,7 +159,7 @@ $$
 Substitute values:
 
 $$
-\text{Real Spending Growth} = 17.33\% - 10\% = 7.33\%
+\text{Real Spending Growth} = 17.33\text{ percent} - 10\text{ percent} = 7.33\text{ percent}
 $$
 
 ## Summary
@@ -199,7 +199,7 @@ $$
 Substitute the values:
 
 $$
-\text{Saving Rate} = \frac{50}{200} \times 100 = 25\%
+\text{Saving Rate} = \frac{50}{200} \times 100 = 25\text{ percent}
 $$
 
 ### Answer:
@@ -1056,8 +1056,8 @@ Go back to the content, click [here](#table-of-content).
 
 Given the following values from the yield curve on October 22, 2024:
 
-- The one-year interest rate today is 4.3%, denoted as $i_{1,t} = 4.3\%$.
-- The yield on a two-year zero-coupon bond is 3.95%, denoted as $i_{2,t} = 3.95\%$.
+- The one-year interest rate today is 4.3%, denoted as $i_{1,t} = 4.3\text{ percent}$.
+- The yield on a two-year zero-coupon bond is 3.95%, denoted as $i_{2,t} = 3.95\text{ percent}$.
 
 Assuming investors are risk-neutral, we want to find the market's expectation of the one-year interest rate starting next year, denoted as $i_{1,t+1}^e$.
 
@@ -1112,11 +1112,11 @@ $$
 2. Simplify and solve for $i_{1,t+1}^e$:
 
 $$
-2 \times 3.95 \text{ percent} - 4.3 \% = i_{1,t+1}^e
+2 \times 3.95 \text{ percent} - 4.3 \text{ percent} = i_{1,t+1}^e
 $$
 
 $$
-i_{1,t+1}^e = 3.6 \%
+i_{1,t+1}^e = 3.6 \text{ percent}
 $$
 
 Thus, the market’s expectation for the one-year interest rate starting next year is **3.6%**.
@@ -1191,7 +1191,7 @@ Thus, a 1% increase in capital per worker ($K/N$) will increase output per worke
 If capital per worker increases by 10%, the percentage increase in output per worker is:
 
 $$
-0.35 \times 10\% = 3.5\%
+0.35 \times 10\text{ percent} = 3.5\text{ percent}
 $$
 
 ### Final Answer
@@ -1830,7 +1830,7 @@ $$
 This simplifies to:
 
 $$
-\text{Nominal GDP Growth Rate} = \frac{15000}{25000} \times 100 = 60\%
+\text{Nominal GDP Growth Rate} = \frac{15000}{25000} \times 100 = 60\text{ percent}
 $$
 
 ### Answer
@@ -1905,7 +1905,7 @@ $$
 $$
 
 $$
-\text{Real GDP Growth Rate} = 24\%
+\text{Real GDP Growth Rate} = 24\text{ percent}
 $$
 
 ## Conclusion
@@ -1999,7 +1999,7 @@ $$
 Substitute the values:
 
 $$
-\text{Inflation Rate} = \frac{129.03 - 100}{100} \times 100 = 29.03\%
+\text{Inflation Rate} = \frac{129.03 - 100}{100} \times 100 = 29.03\text{ percent}
 $$
 
 ### Conclusion
@@ -2511,10 +2511,10 @@ where:
 
 1. **Nominal Interest Rate**: In a liquidity trap, the nominal interest rate ($i$) is close to zero because monetary policy cannot lower it further.
    
-2. **Inflation Rate**: If the inflation rate ($\pi$) is positive, even a nominal interest rate close to zero would result in a **negative real interest rate**. For example, if $i = 0\%$ and $\pi = 2\%$, then:
+2. **Inflation Rate**: If the inflation rate ($\pi$) is positive, even a nominal interest rate close to zero would result in a **negative real interest rate**. For example, if $i = 0\text{ percent}$ and $\pi = 2\text{ percent}$, then:
 
 $$
-   r = 0\% - 2\% = -2\%
+   r = 0\text{ percent} - 2\text{ percent} = -2\text{ percent}
 $$
 
 This indicates that the real interest rate is likely to be **negative** rather than zero.
