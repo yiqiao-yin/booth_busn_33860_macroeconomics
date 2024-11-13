@@ -996,7 +996,7 @@ In the long run, the effects of an increase in the stock of capital $K$ on the l
 
 2. **Real Wages ($W/P$)**: In the short run, the increase in MPL due to higher capital raises real wages as firms compete for labor. In the long run, however, with full adjustments in capital and labor, the labor market might reach a new equilibrium where real wages stabilize. Additionally, adjustments in labor supply and increased labor force participation could counterbalance wage increases, resulting in smaller wage changes than initially observed.
 
-3. **Employment Level ($N^*$)**: With long-run adjustments, firms may reach a level where the additional capital no longer increases labor demand at the same rate as in the short run. Equilibrium employment ($N^*$) could stabilize or even decline if capital becomes more productive independently, reducing the need for labor. Thus, the long-run equilibrium effect on $N^*$ may not align with the short-run increase observed when capital initially rises.
+3. **Employment Level ($N^*$)**: With long-run adjustments, firms may reach a level where the additional capital no longer increases labor demand at the same rate as in the short run. Equilibrium employment ($N^\*$) could stabilize or even decline if capital becomes more productive independently, reducing the need for labor. Thus, the long-run equilibrium effect on $N^\*$ may not align with the short-run increase observed when capital initially rises.
 
 ## Analysis
 
