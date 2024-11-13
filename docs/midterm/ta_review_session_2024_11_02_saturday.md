@@ -1354,23 +1354,22 @@ In a closed economy, the equilibrium level of output, $Y$, is determined by the 
 The model is given as follows:
 
 1. **Aggregate Demand Equation**:
-   $$
-   Y = C + I + G
-   $$
+
+   $$Y = C + I + G$$
 
 2. **Consumption Function**:
-   $$
-   C = c_0 + c_1 (Y - T)
-   $$
+
+   $$C = c_0 + c_1 (Y - T)$$
+
    where:
    - $c_0$ is autonomous consumption (i.e., the baseline level of consumption independent of income),
    - $c_1$ is the marginal propensity to consume (the fraction of additional income spent on consumption),
    - $(Y - T)$ is disposable income.
 
 3. **Tax Function**:
-   $$
-   T = tY
-   $$
+
+   $$T = tY$$
+
    where $t$ is the tax rate as a fraction of income.
 
 ### Given Values
@@ -1387,41 +1386,30 @@ Our goal is to solve for the **equilibrium level of output**, $Y$.
 ### Step 1: Substitute the Consumption and Tax Equations
 
 Starting from the aggregate demand equation:
-$$
-Y = C + I + G
-$$
+
+$$Y = C + I + G$$
 
 Substitute the consumption function $C = c_0 + c_1 (Y - T)$ and the tax function $T = tY$:
 
-$$
-Y = \left( c_0 + c_1 (Y - tY) \right) + I + G
-$$
+$$Y = \left( c_0 + c_1 (Y - tY) \right) + I + G$$
 
 ### Step 2: Simplify the Equation
 
 Expand and simplify the equation:
 
-$$
-Y = c_0 + c_1 Y - c_1 t Y + I + G
-$$
+$$Y = c_0 + c_1 Y - c_1 t Y + I + G$$
 
 Factor out $Y$ terms on the right-hand side:
 
-$$
-Y = c_0 + I + G + Y(c_1 - c_1 t)
-$$
+$$Y = c_0 + I + G + Y(c_1 - c_1 t)$$
 
 Rearrange the terms to isolate $Y$:
 
-$$
-Y - Y(c_1 - c_1 t) = c_0 + I + G
-$$
+$$Y - Y(c_1 - c_1 t) = c_0 + I + G$$
 
 Factor out $Y$ on the left side:
 
-$$
-Y(1 - c_1 + c_1 t) = c_0 + I + G
-$$
+$$Y(1 - c_1 + c_1 t) = c_0 + I + G$$
 
 ### Step 3: Substitute the Given Values
 
@@ -1435,33 +1423,23 @@ Now, substitute the given values:
 
 Substitute into the equation:
 
-$$
-Y \left( 1 - 0.5 + 0.5 \times 0.2 \right) = 600 + 2500 + 500
-$$
+$$Y \left( 1 - 0.5 + 0.5 \times 0.2 \right) = 600 + 2500 + 500$$
 
 Calculate the expression in the parentheses:
 
-$$
-1 - 0.5 + 0.1 = 0.6
-$$
+$$1 - 0.5 + 0.1 = 0.6$$
 
 Thus, we have:
 
-$$
-Y \times 0.6 = 3600
-$$
+$$Y \times 0.6 = 3600$$
 
 ### Step 4: Solve for $Y$
 
 Finally, solve for $Y$:
 
-$$
-Y = \frac{3600}{0.6}
-$$
+$$Y = \frac{3600}{0.6}$$
 
-$$
-Y = 6000
-$$
+$$Y = 6000$$
 
 ## Answer
 
@@ -1478,23 +1456,22 @@ In a closed economy with aggregate demand, the **fiscal multiplier** measures th
 Our model is given by:
 
 1. **Aggregate Demand Equation**:
-   $$
-   Y = C + I + G
-   $$
+
+   $$Y = C + I + G$$
 
 2. **Consumption Function**:
-   $$
-   C = c_0 + c_1 (Y - T)
-   $$
+
+   $$C = c_0 + c_1 (Y - T)$$
+
    where:
    - $c_0$ is autonomous consumption,
    - $c_1$ is the marginal propensity to consume,
    - $(Y - T)$ is disposable income.
 
 3. **Tax Function**:
-   $$
-   T = tY
-   $$
+
+   $$T = tY$$
+
    where $t$ is the tax rate as a fraction of income.
 
 ### Given Values
@@ -1509,9 +1486,7 @@ Our goal is to solve for the **fiscal multiplier** in this model.
 
 The fiscal multiplier, denoted as $m$, is given by the derivative of output $Y$ with respect to government spending $G$:
 
-$$
-m = \frac{dY}{dG}
-$$
+$$m = \frac{dY}{dG}$$
 
 To find this, we need to express $Y$ in terms of $G$ in the equilibrium condition.
 
