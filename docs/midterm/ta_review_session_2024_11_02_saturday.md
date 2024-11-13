@@ -55,7 +55,7 @@ To find the real GDP growth rate, we use the relationship between nominal GDP gr
 
 ### Formula
 
-$$ Real\ GDP\ Growth = \frac{(1 + Nominal\ GDP\ Growth)}{(1 + Inflation)} - 1 $$
+$$Real\ GDP\ Growth = \frac{(1 + Nominal\ GDP\ Growth)}{(1 + Inflation)} - 1 $$
 
 Given:
 - Nominal GDP growth = 2% = 0.02
@@ -65,15 +65,15 @@ Let's plug in these values and calculate:
 
 1. Substitute values:
 
-$$ Real\ GDP\ Growth = \frac{(1 + 0.02)}{(1 + 0.02)} - 1 $$
+$$Real\ GDP\ Growth = \frac{(1 + 0.02)}{(1 + 0.02)} - 1 $$
 
 2. Calculate the numerator and denominator:
 
-$$ Real\ GDP\ Growth = \frac{1.02}{1.02} - 1 $$
+$$Real\ GDP\ Growth = \frac{1.02}{1.02} - 1 $$
 
 3. Simplify:
 
-$$ Real\ GDP\ Growth = 1 - 1 = 0 $$
+$$Real\ GDP\ Growth = 1 - 1 = 0$$
 
 Therefore, the real GDP growth is **0%**. 
 
@@ -1032,7 +1032,7 @@ In summary, the implications of an increase in capital stock $K$ on the labor ma
 
 If we represent the production function as $Y = F(K, N)$, where $Y$ is output, $K$ is capital, and $N$ is labor:
 
-1. **MPL**: $ \frac{\partial Y}{\partial N} $
+1. **MPL**: $\frac{\partial Y}{\partial N}$
    
 2. **Real Wage**: $W/P = \text{MPL}$
 
@@ -1042,7 +1042,7 @@ In the neoclassical case with complements, an increase in $K$ leads to an increa
 
 If we represent the production function as $Y = F(K, N)$, where $Y$ is output, $K$ is capital, and $N$ is labor:
 
-1. **MPL**: $ \frac{\partial Y}{\partial N} $
+1. **MPL**: $\frac{\partial Y}{\partial N}$
    
 2. **Real Wage**: $W/P = \text{MPL}$
 
@@ -1209,9 +1209,9 @@ $$
 Y = A N^{\alpha} K^{1-\alpha} \frac{1}{N}
 $$
 
-where $ \alpha = 0.65 $, we know the following:
+where $\alpha = 0.65$, we know the following:
 - An increase in capital per worker of 10% leads to a 3.5% increase in output per worker.
-- The share of labor income over total domestic income is represented by the ratio $ \frac{WN}{PY} $.
+- The share of labor income over total domestic income is represented by the ratio $\frac{WN}{PY}$.
 
 We aim to:
 1. Explain the formula $\frac{WN}{PY}$ and its interpretation as the share of labor income over total domestic income.
@@ -1226,10 +1226,10 @@ $$
 $$
 
 In a perfectly competitive market:
-- $ W $ represents the **wage rate**.
-- $ N $ is the **number of workers (labor quantity)**.
-- $ P $ is the **price level**.
-- $ Y $ is **total output** or **GDP**.
+- $W$ represents the **wage rate**.
+- $N$ is the **number of workers (labor quantity)**.
+- $P$ is the **price level**.
+- $Y$ is **total output** or **GDP**.
 
 Thus, $WN$ represents **total labor income**, and $PY$ represents **total income** in nominal terms. Consequently:
 
@@ -1248,10 +1248,10 @@ Y = A N^{\alpha} K^{1 - \alpha}
 $$
 
 where:
-- $ A $ is total factor productivity.
-- $ N $ is labor.
-- $ K $ is capital.
-- $ \alpha $ is the **output elasticity of labor**.
+- $A$ is total factor productivity.
+- $N$  is labor.
+- $K$ is capital.
+- $\alpha$ is the **output elasticity of labor**.
 
 ### Step 1: Marginal Product of Labor (MPL)
 
@@ -1261,7 +1261,7 @@ $$
 MPL = \frac{\partial Y}{\partial N} = \alpha \frac{Y}{N}
 $$
 
-So, in equilibrium (assuming perfect competition), the wage rate $ W $ is set equal to the MPL:
+So, in equilibrium (assuming perfect competition), the wage rate $W$ is set equal to the MPL:
 
 $$
 W = \alpha \frac{Y}{N}
@@ -2256,7 +2256,7 @@ However, when taxes $T$ are cut by 10, the effect on output $Y$ is smaller. This
 
    Now, let’s examine the impact of a tax cut. A $T$ decrease of 10 affects consumption $C$ as follows:
 
-   - Change in disposable income: $ \Delta (Y - T) = +10 $
+   - Change in disposable income: $\Delta (Y - T) = +10$
    - Increase in consumption due to tax cut:
 
      $$
