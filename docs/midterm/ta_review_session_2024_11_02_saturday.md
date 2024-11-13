@@ -1984,7 +1984,7 @@ $$
 
 - **2021 GDP Deflator**:
 
-$$\text{GDP Deflator}_{2021} = \frac{\text{Nominal GDP}_{2021}}{\text{Real GDP}_{2021}} \times 100 = \frac{40000}{31000} \times 100 \approx 129.03$$
+$$\text{GDP Deflator}_{2021} = \frac{\text{Nominal GDP}\_{2021}}{\text{Real GDP}\_{2021}} \times 100 = \frac{40000}{31000} \times 100 \approx 129.03$$
 
 #### Step 4: Calculate the Inflation Rate Using the GDP Deflator
 
