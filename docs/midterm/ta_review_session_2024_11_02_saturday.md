@@ -1991,7 +1991,7 @@ $$\text{GDP Deflator}_{2021} = \frac{\text{Nominal GDP}_{2021}}{\text{Real GDP}_
 The inflation rate is the percentage change in the GDP deflator from 2020 to 2021, calculated as:
 
 $$
-\text{Inflation Rate} = \frac{\text{GDP Deflator}_{2021} - \text{GDP Deflator}_{2020}}{\text{GDP Deflator}_{2020}} \times 100
+\text{Inflation Rate} = \frac{\text{GDP Deflator}\_{2021} - \text{GDP Deflator}\_{2020}}{\text{GDP Deflator}\_{2020}} \times 100
 $$
 
 Substitute the values:
