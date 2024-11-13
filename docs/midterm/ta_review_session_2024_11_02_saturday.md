@@ -321,9 +321,11 @@ To understand why a higher **Marginal Propensity to Consume (MPC)** increases th
 #### 1. The Basic Economic Equation $Z = C + I + G$
 
 In macroeconomics, the equation:
+
 $$
 Z = C + I + G
 $$
+
 represents the total output or aggregate demand ($Z$) in an economy, where:
 
 - $C$ is **Consumption**
