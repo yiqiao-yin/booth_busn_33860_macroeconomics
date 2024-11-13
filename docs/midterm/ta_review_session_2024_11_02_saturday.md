@@ -825,7 +825,7 @@ To further clarify, let’s look at the formulas for **Investment** and **Capita
 
 1. **Investment (I)** is represented as:
 
-   $$I = \Delta K + \text{Depreciation}$$
+$$I = \Delta K + \text{Depreciation}$$
 
    where:
    - $I$ is investment in new capital,
@@ -1355,11 +1355,11 @@ The model is given as follows:
 
 1. **Aggregate Demand Equation**:
 
-   $$Y = C + I + G$$
+$$Y = C + I + G$$
 
 2. **Consumption Function**:
 
-   $$C = c_0 + c_1 (Y - T)$$
+$$C = c_0 + c_1 (Y - T)$$
 
    where:
    - $c_0$ is autonomous consumption (i.e., the baseline level of consumption independent of income),
@@ -1368,7 +1368,7 @@ The model is given as follows:
 
 3. **Tax Function**:
 
-   $$T = tY$$
+$$T = tY$$
 
    where $t$ is the tax rate as a fraction of income.
 
@@ -1457,11 +1457,11 @@ Our model is given by:
 
 1. **Aggregate Demand Equation**:
 
-   $$Y = C + I + G$$
+$$Y = C + I + G$$
 
 2. **Consumption Function**:
 
-   $$C = c_0 + c_1 (Y - T)$$
+$$C = c_0 + c_1 (Y - T)$$
 
    where:
    - $c_0$ is autonomous consumption,
@@ -1470,7 +1470,7 @@ Our model is given by:
 
 3. **Tax Function**:
 
-   $$T = tY$$
+$$T = tY$$
 
    where $t$ is the tax rate as a fraction of income.
 
@@ -2221,9 +2221,9 @@ However, when taxes $T$ are cut by 10, the effect on output $Y$ is smaller. This
 
    When $G$ increases by 10, the effect on $Y$ can be calculated as:
 
-   $$
+$$
    \Delta Y = \Delta G \times \text{Multiplier}
-   $$
+$$
 
    In our previous calculation, we found that $\Delta Y = 10$ when $\Delta G = 10$.
 
@@ -2234,9 +2234,9 @@ However, when taxes $T$ are cut by 10, the effect on output $Y$ is smaller. This
    - Change in disposable income: $\Delta (Y - T) = +10$
    - Increase in consumption due to tax cut:
 
-     $$
+  $$
      \Delta C = \text{MPC} \times \Delta (Y - T) = 0.5 \times 10 = 5
-     $$
+  $$
 
    Thus, only 5 units of the 10-unit tax cut actually contribute to an increase in consumption $C$.
 
@@ -2513,9 +2513,9 @@ where:
    
 2. **Inflation Rate**: If the inflation rate ($\pi$) is positive, even a nominal interest rate close to zero would result in a **negative real interest rate**. For example, if $i = 0\%$ and $\pi = 2\%$, then:
 
-   $$
+$$
    r = 0\% - 2\% = -2\%
-   $$
+$$
 
 This indicates that the real interest rate is likely to be **negative** rather than zero.
 
@@ -2668,9 +2668,9 @@ Investment is indeed more volatile than GDP due to a few key factors related to 
    Suppose we denote $I_t$ as the investment in period $t$ and $K_t$ as the capital stock in period $t$. For a desired increase in capital stock $\Delta K$, investment $I_t$ must not only cover this increase but also account for capital depreciation, $d K_t$. 
 
    Therefore:
-   $$
+$$
    I_t = \Delta K + d K_t
-   $$
+$$
    where $d$ represents the depreciation rate.
 
    To achieve a given increase $\Delta K$, $I_t$ must increase disproportionately, as it must cover both the new investment and replacement of depreciated capital.
