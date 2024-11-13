@@ -1103,16 +1103,16 @@ This approximation simplifies the calculation by averaging the current and expec
 
 Using the approximation formula, we can isolate $i_{1,t+1}^e$ and calculate the market's expected one-year rate starting next year.
 
-1. Substitute $i_{1,t} = 4.3\%$ and $i_{2,t} = 3.95\%$ into the equation:
+1. Substitute $i_{1,t} = 4.3\text{ percent}$ and $i_{2,t} = 3.95\text{ percent}$ into the equation:
 
 $$
-\frac{1}{2}(4.3\%) + \frac{1}{2} i_{1,t+1}^e = 3.95 \text{ percent}
+\frac{1}{2}(4.3\text{ percent}) + \frac{1}{2} i_{1,t+1}^e = 3.95 \text{ percent}
 $$
 
 2. Simplify and solve for $i_{1,t+1}^e$:
 
 $$
-2 \times 3.95 \% - 4.3 \% = i_{1,t+1}^e
+2 \times 3.95 \text{ percent} - 4.3 \% = i_{1,t+1}^e
 $$
 
 $$
