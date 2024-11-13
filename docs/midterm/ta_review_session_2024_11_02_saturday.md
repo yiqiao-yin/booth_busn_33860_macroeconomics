@@ -958,7 +958,7 @@ An increase in $K$ has several implications for the labor market:
 
 The professor’s notes indicate:
 1. **MPL shifts right**: This means that with an increase in capital $K$, each unit of labor is now more productive, shifting the labor demand curve to the right. This shift reflects the increased productivity that capital provides to workers.
-2. **$N^*$ and $W/P$ increase**: Here, $N^*$ represents the equilibrium level of employment, and $W/P$ represents real wages. The increase in $N^*$ suggests that higher capital stock prompts firms to employ more workers, while the increase in $W/P$ indicates that workers benefit from higher real wages due to enhanced productivity.
+2. **$N^*$ and $W/P$ increase**: Here, $N^\*$ represents the equilibrium level of employment, and $W/P$ represents real wages. The increase in $N^\*$ suggests that higher capital stock prompts firms to employ more workers, while the increase in $W/P$ indicates that workers benefit from higher real wages due to enhanced productivity.
 
 ### Summary
 
