@@ -952,7 +952,7 @@ An increase in $K$ has several implications for the labor market:
 
 - **Shift in the MPL Curve**: With a higher $K$, the MPL increases at each level of labor $N$. This increase in MPL shifts the demand curve for labor (often represented by the MPL curve) to the right.
 - **Effect on Real Wages ($W/P$)**: Since firms pay wages based on the productivity of labor, an increase in MPL leads to higher real wages. Real wages $W/P$ are tied to MPL, so as MPL shifts right, real wages rise, aligning with the professor’s note that $W/P$ increases.
-- **Effect on Employment ($N^*$)**: The rise in MPL and real wages incentivizes firms to hire more labor, thus increasing the equilibrium employment level $N^*$. The increased demand for labor raises the quantity of labor employed until the new equilibrium $N^*$ is reached.
+- **Effect on Employment ($N^*$)**: The rise in MPL and real wages incentivizes firms to hire more labor, thus increasing the equilibrium employment level $N^\*$. The increased demand for labor raises the quantity of labor employed until the new equilibrium $N^\*$ is reached.
 
 ### 3. Interpretation of Professor’s Notes
 
