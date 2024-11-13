@@ -595,9 +595,7 @@ In a situation where the money demand curve fluctuates frequently, targeting a f
 
 - **Interest Rate Formula**: Interest rates adjust based on the equilibrium in the money market:
 
-  $$
-  M_d = M_s
-  $$
+  $$M_d = M_s$$
 
   where:
   - $M_d$ is the money demand,
