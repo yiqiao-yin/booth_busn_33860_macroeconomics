@@ -1978,15 +1978,11 @@ To find the inflation rate between 2020 and 2021, we calculate the GDP deflator 
   
   Since nominal and real GDP are the same in 2020 (base year), the GDP deflator is 100.
 
-$$
-  \text{GDP Deflator}_{2020} = \frac{\text{Nominal GDP}_{2020}}{\text{Real GDP}_{2020}} \times 100 = \frac{25000}{25000} \times 100 = 100
-$$
+$$\text{GDP Deflator}_{2020} = \frac{\text{Nominal GDP}_{2020}}{\text{Real GDP}_{2020}} \times 100 = \frac{25000}{25000} \times 100 = 100$$
 
 - **2021 GDP Deflator**:
 
-$$
-  \text{GDP Deflator}_{2021} = \frac{\text{Nominal GDP}_{2021}}{\text{Real GDP}_{2021}} \times 100 = \frac{40000}{31000} \times 100 \approx 129.03
-$$
+$$\text{GDP Deflator}_{2021} = \frac{\text{Nominal GDP}_{2021}}{\text{Real GDP}_{2021}} \times 100 = \frac{40000}{31000} \times 100 \approx 129.03$$
 
 #### Step 4: Calculate the Inflation Rate Using the GDP Deflator
 
