@@ -595,7 +595,7 @@ In a situation where the money demand curve fluctuates frequently, targeting a f
 
 - **Interest Rate Formula**: Interest rates adjust based on the equilibrium in the money market:
 
-  $$M_d = M_s$$
+$$M_d = M_s$$
 
   where:
   - $M_d$ is the money demand,
@@ -1978,15 +1978,15 @@ To find the inflation rate between 2020 and 2021, we calculate the GDP deflator 
   
   Since nominal and real GDP are the same in 2020 (base year), the GDP deflator is 100.
 
-  $$
+$$
   \text{GDP Deflator}_{2020} = \frac{\text{Nominal GDP}_{2020}}{\text{Real GDP}_{2020}} \times 100 = \frac{25000}{25000} \times 100 = 100
-  $$
+$$
 
 - **2021 GDP Deflator**:
 
-  $$
+$$
   \text{GDP Deflator}_{2021} = \frac{\text{Nominal GDP}_{2021}}{\text{Real GDP}_{2021}} \times 100 = \frac{40000}{31000} \times 100 \approx 129.03
-  $$
+$$
 
 #### Step 4: Calculate the Inflation Rate Using the GDP Deflator
 
@@ -2110,9 +2110,9 @@ In this macroeconomics problem, we are given a consumption function in a closed 
 ## Problem Restatement
 Suppose:
 - The consumption function is defined as:
-  $$
+$$
   C = 150 + 0.5(Y - T)
-  $$
+$$
   where:
   - $C$ = Consumption
   - $Y$ = Income
@@ -2234,9 +2234,9 @@ $$
    - Change in disposable income: $\Delta (Y - T) = +10$
    - Increase in consumption due to tax cut:
 
-  $$
+$$
      \Delta C = \text{MPC} \times \Delta (Y - T) = 0.5 \times 10 = 5
-  $$
+$$
 
    Thus, only 5 units of the 10-unit tax cut actually contribute to an increase in consumption $C$.
 
