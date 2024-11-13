@@ -259,7 +259,7 @@ Go back to the content, click [here](#table-of-content).
 # Understanding the Permanent Income Hypothesis and Consumption Smoothing
 
 ## Problem Statement
-The Permanent Income Hypothesis is built on the idea that people like to "smooth" consumption. What does this mean?
+The Permanent Income Hypothesis is built on the idea that people like to *smooth* consumption. What does this mean?
 
 Options:
 - **A.** People do not like large changes in their spending habits from year to year.
@@ -268,7 +268,7 @@ Options:
 
 ## Explanation and Answer
 
-The **Permanent Income Hypothesis** (PIH), developed by economist Milton Friedman, suggests that people make spending decisions based not on their current income but on their "permanent" income, which represents an average or expected income over time. This hypothesis implies that people prefer to **smooth their consumption** over time, meaning they aim to maintain stable spending levels regardless of short-term fluctuations in income.
+The **Permanent Income Hypothesis** (PIH), developed by economist Milton Friedman, suggests that people make spending decisions based not on their current income but on their *permanent* income, which represents an average or expected income over time. This hypothesis implies that people prefer to **smooth their consumption** over time, meaning they aim to maintain stable spending levels regardless of short-term fluctuations in income.
 
 **Answer: A. People do not like large changes in their spending habits from year to year.**
 
@@ -377,19 +377,19 @@ The **money demand curve** is generally downward sloping, meaning that as the in
 
 ## Understanding Each Option
 
-- **Option A**: "When prices are high, it pushes people to save more money."
+- **Option A**: *When prices are high, it pushes people to save more money.*
   
   This option is incorrect. Higher prices generally lead people to spend more money to buy the same goods and services, not save more. Therefore, high prices increase the demand for money rather than decrease it, which does not explain a downward slope.
 
-- **Option B**: "When the interest rate is high, people save more."
+- **Option B**: *When the interest rate is high, people save more.*
   
   While this statement might be true, it does not directly explain the downward slope of the money demand curve. Higher interest rates indeed encourage saving, but this does not explain why people demand less money when interest rates are high.
 
-- **Option C**: "When the nominal interest rate is high, the opportunity cost of holding deposits is high."
+- **Option C**: *When the nominal interest rate is high, the opportunity cost of holding deposits is high.*
   
   This is the correct answer. The money demand curve is downward sloping because a higher nominal interest rate increases the **opportunity cost** of holding money. People prefer to hold interest-bearing assets (like bonds) instead of holding money, which earns no interest. Thus, as the nominal interest rate increases, the quantity of money demanded decreases.
 
-- **Option D**: "When the real interest rate is high, inflation tends to be higher too."
+- **Option D**: *When the real interest rate is high, inflation tends to be higher too.*
   
   This statement is not necessarily correct, and it does not directly relate to the downward slope of the money demand curve. The real interest rate adjusts for inflation and does not inherently cause people to demand more or less money.
 
@@ -693,11 +693,11 @@ C. Banks' holdings of treasuries go up, and reserves go down
 
 D. Banks' holdings of treasuries and reserves both go up
 
-Additionally, the professor provided the hint: "$B = C + D$", which might refer to a balance among currency, treasuries, and reserves. 
+Additionally, the professor provided the hint: *$B = C + D$*, which might refer to a balance among currency, treasuries, and reserves. 
 
 ## Solution
 
-The correct answer to the problem is **A**: "Banks' holdings of treasuries go down, and reserves go up."
+The correct answer to the problem is **A**: *Banks' holdings of treasuries go down, and reserves go up.*
 
 ### Explanation
 
@@ -708,9 +708,9 @@ The correct answer to the problem is **A**: "Banks' holdings of treasuries go do
    - When the Fed buys treasuries, the **banks' holdings of treasuries go down** because they have sold these securities to the Fed.
    - In return, banks receive an increase in **reserves** held at the Fed. Hence, **banks' reserves go up** as a result of this transaction.
 
-   Therefore, the correct answer is **A**: "Banks' holdings of treasuries go down, and reserves go up."
+   Therefore, the correct answer is **A**: *Banks' holdings of treasuries go down, and reserves go up.*
 
-### Interpretation of "$B = C + D$"
+### Interpretation of *$B = C + D$*
 
 In macroeconomic terms, this hint may refer to the relationship between **currency** ($C$), **reserves** ($R$), and **broad money supply** ($M$). 
 
@@ -824,9 +824,9 @@ This is because:
 To further clarify, let’s look at the formulas for **Investment** and **Capital Stock** in macroeconomic terms.
 
 1. **Investment (I)** is represented as:
-   $$
-   I = \Delta K + \text{Depreciation}
-   $$
+
+   $$I = \Delta K + \text{Depreciation}$$
+
    where:
    - $I$ is investment in new capital,
    - $\Delta K$ is the change in capital stock,
@@ -951,7 +951,7 @@ From this formula, we see that MPL depends directly on the level of capital $K$.
 An increase in $K$ has several implications for the labor market:
 
 - **Shift in the MPL Curve**: With a higher $K$, the MPL increases at each level of labor $N$. This increase in MPL shifts the demand curve for labor (often represented by the MPL curve) to the right.
-- **Effect on Real Wages ($W/P$)**: Since firms pay wages based on the productivity of labor, an increase in MPL leads to higher real wages. Real wages $W/P$ are tied to MPL, so as MPL shifts right, real wages rise, aligning with the professor’s note that “$W/P$ increases.”
+- **Effect on Real Wages ($W/P$)**: Since firms pay wages based on the productivity of labor, an increase in MPL leads to higher real wages. Real wages $W/P$ are tied to MPL, so as MPL shifts right, real wages rise, aligning with the professor’s note that $W/P$ increases.
 - **Effect on Employment ($N^*$)**: The rise in MPL and real wages incentivizes firms to hire more labor, thus increasing the equilibrium employment level $N^*$. The increased demand for labor raises the quantity of labor employed until the new equilibrium $N^*$ is reached.
 
 ### 3. Interpretation of Professor’s Notes
@@ -2468,7 +2468,7 @@ The correct answer is:
 # Equilibrium Point in a Scarce Reserves Regime
 
 ## Problem Statement
-In a macroeconomic setting, we are asked to determine the nature of the equilibrium point in a regime of "scarce reserves." In this context, the equilibrium is located in a region where the demand curve for reserves is:
+In a macroeconomic setting, we are asked to determine the nature of the equilibrium point in a regime of *scarce reserves.* In this context, the equilibrium is located in a region where the demand curve for reserves is:
 
 A. Relatively flat  
 B. Relatively steep  
@@ -2478,7 +2478,7 @@ Our objective is to analyze the characteristics of the demand curve for reserves
 
 ## Solution
 
-In a "scarce reserves" regime, the equilibrium in the reserves market is located where the demand for reserves intersects with the supply of reserves. This situation occurs when the central bank supplies a limited quantity of reserves, making reserves scarce.
+In a *scarce reserves* regime, the equilibrium in the reserves market is located where the demand for reserves intersects with the supply of reserves. This situation occurs when the central bank supplies a limited quantity of reserves, making reserves scarce.
 
 ### Understanding the Demand Curve for Reserves
 
@@ -2544,7 +2544,7 @@ where:
 
 This indicates that the real interest rate is likely to be **negative** rather than zero.
 
-3. **Conclusion**: The statement "In a liquidity trap, the real interest rate goes to zero" is therefore **False**. Instead, the real interest rate may become negative if inflation persists.
+3. **Conclusion**: The statement *In a liquidity trap, the real interest rate goes to zero* is therefore **False**. Instead, the real interest rate may become negative if inflation persists.
 
 ### Final Answer
 
