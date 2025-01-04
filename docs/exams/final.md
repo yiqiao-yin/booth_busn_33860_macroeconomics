@@ -4057,8 +4057,13 @@ $$
 \text{Output Gap} = \text{Actual GDP} - \text{Potential GDP}
 $$
 
-- A **positive output gap** occurs when **actual GDP** exceeds **potential GDP** ($\text{Actual GDP} > \text{Potential GDP}$).
-- A **negative output gap** occurs when **actual GDP** is below **potential GDP** ($\text{Actual GDP} < \text{Potential GDP}$).
+- A **positive output gap** occurs when **actual GDP** exceeds **potential GDP**:
+
+$$$\text{Actual GDP} > \text{Potential GDP}$$$
+
+- A **negative output gap** occurs when **actual GDP** is below **potential GDP**:
+
+$$$\text{Actual GDP} < \text{Potential GDP}$$
 
 ### **Implications of a Positive Output Gap:**
 1. **Spending Above Potential Output:**
