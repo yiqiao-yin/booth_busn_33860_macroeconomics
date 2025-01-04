@@ -105,6 +105,14 @@
 - [Consequences of Operating in an Ample Reserves Monetary Regime](#consequences-of-operating-in-an-ample-reserves-monetary-regime)
 - [Negative Consequences of an Ample Reserves Monetary Regime](#negative-consequences-of-an-ample-reserves-monetary-regime)
 - [Fiscal Dominance in Monetary Policy](#fiscal-dominance-in-monetary-policy)
+- [Speculative Attack on a Fixed Exchange Rate Regime](#speculative-attack-on-a-fixed-exchange-rate-regime)
+- [Macroeconomic Effects of Abandoning a Currency Peg](#macroeconomic-effects-of-abandoning-a-currency-peg)
+- [Impact of Foreign Accumulation of Domestic Assets on the Current Account](#impact-of-foreign-accumulation-of-domestic-assets-on-the-current-account)
+- [Uncovered Interest Parity (UIP) and Exchange Rate Expectations](#uncovered-interest-parity-uip-and-exchange-rate-expectations)
+- [Marginal Product of Labor in an Overheated Labor Market](#marginal-product-of-labor-in-an-overheated-labor-market)
+- [Ranking Countries by Expected Nominal Appreciation Against the Dollar](#ranking-countries-by-expected-nominal-appreciation-against-the-dollar)
+- [Ranking Countries Based on Expected Nominal Appreciation Against the Dollar](#ranking-countries-based-on-expected-nominal-appreciation-against-the-dollar)
+- [Debt Stabilization and Primary Fiscal Deficit](#debt-stabilization-and-primary-fiscal-deficit)
 
 # Nominal GDP vs Real GDP
 
@@ -5798,9 +5806,9 @@ This creates a **horizontal (flat)** section in the money market equilibrium dia
 
 The total reserves ($R^T$) in the system are defined as:
 
-\[
+$$
 R^T = R^R + R^E
-\]
+$$
 Where:
 - $R^T$ is total reserves
 - $R^R$ is required reserves
@@ -5858,9 +5866,9 @@ The Ample Reserves regime allows banks to hold excess reserves rather than compe
 ### Formula for Interest Rate on Reserves (IOR):
 
 The interest rate the Central Bank sets on reserves influences the policy rate:
-\[
+$$
 i_{policy} = \text{IOR} + \varepsilon
-\]
+$$
 Where:
 - $i_{policy}$ is the policy interest rate (e.g., federal funds rate).
 - $\text{IOR}$ is the interest on reserves.
@@ -5945,9 +5953,9 @@ The central bank’s interest-bearing reserves function like short-term liabilit
 
 ### **E. Potential central bank losses when interest rates are increased**  
 When the central bank raises interest rates, the interest it must pay on reserves increases. If the interest earned on its asset holdings (such as long-term bonds) does not rise as quickly, the central bank may face financial losses. The formula for net interest margin can be represented as:
-\[
+$$
 \text{Net Income} = \text{Interest Income} - \text{Interest Paid}
-\]
+$$
 When the central bank’s **interest paid** grows faster than its **interest income**, losses occur.
 
 ## Explanation of the Incorrect Options
@@ -5993,9 +6001,9 @@ Under fiscal dominance, policymakers may tolerate higher inflation because it re
 
 ### Macro Formula: Debt-to-GDP Ratio  
 The public debt-to-GDP ratio is defined as:
-\[
+$$
 \text{Debt-to-GDP Ratio} = \frac{\text{Public Debt}}{\text{Nominal GDP}}
-\]
+$$
 A higher nominal GDP due to inflation can reduce the ratio, even if the absolute debt level remains unchanged.
 
 ## Incorrect Options
@@ -6017,3 +6025,465 @@ Fiscal dominance often leads to higher, not lower, risk premiums, as investors d
 
 ## Conclusion
 Fiscal dominance refers to a situation where fiscal pressures influence monetary policy decisions, often leading to aversion to raising interest rates due to fiscal constraints and a tolerance for inflation to reduce debt burdens. Therefore, the correct options are **B** and **F**.
+
+# Speculative Attack on a Fixed Exchange Rate Regime
+
+## Restatement of the Problem
+In a macroeconomics class, the following question is posed:
+
+**Question:**  
+Consider the open economy macroeconomic model discussed in class.  
+
+A small open economy is facing a speculative attack on its fixed exchange rate regime. Mark all the statements consistent with this scenario, considering that the Central Bank does what is needed to maintain its currency peg.  
+
+**Options:**
+- **A.** The UIP curve shifts down in the currency market graph  
+- **B.** The IS curve would shift left  
+- **C.** The IS curve would remain unaltered  
+- **D.** The central bank raises interest rates, moving along left along the "original IS" curve  
+- **E.** The UIP curve shifts up in the currency market graph  
+- **F.** The central bank raises interest rates, moving along left along the "shifted IS" curve  
+
+**Correct Answer:** B, E, F
+
+---
+
+## Explanation of the Correct Answer
+
+### **B. The IS Curve Would Shift Left**
+A speculative attack often results in a loss of investor confidence, reducing domestic investment and increasing capital outflows. As a result, domestic demand for goods and services falls, shifting the IS curve to the left. The IS curve reflects equilibrium in the goods market, so any shock that reduces domestic spending and investment leads to a leftward shift.
+
+---
+
+### **E. The UIP Curve Shifts Up in the Currency Market Graph**
+The uncovered interest parity (UIP) condition is given by:
+$$
+i_t = i_t^* + \frac{E(e_{t+1}) - e_t}{e_t}
+$$
+Where:
+- $i_t$: domestic interest rate
+- $i_t^*$: foreign interest rate
+- $E(e_{t+1})$: expected future exchange rate
+- $e_t$: current exchange rate
+
+During a speculative attack, market participants anticipate a devaluation of the currency, causing the expected future exchange rate to increase. To defend the peg, the central bank must increase interest rates to maintain equilibrium, causing the UIP curve to shift **up**.
+
+---
+
+### **F. The Central Bank Raises Interest Rates, Moving Along Left Along the "Shifted IS" Curve**
+In response to the speculative attack, the central bank raises domestic interest rates to prevent capital outflows and stabilize the exchange rate. This results in reduced investment and consumption, causing movement along the "shifted" IS curve to the left as the economy adjusts to higher borrowing costs.
+
+---
+
+## Incorrect Options
+
+### **A. The UIP Curve Shifts Down in the Currency Market Graph**
+A downward shift in the UIP curve would imply a decrease in domestic interest rates or a more favorable future exchange rate expectation. In the case of a speculative attack, the opposite occurs—there is upward pressure on interest rates to stabilize the currency.
+
+### **C. The IS Curve Would Remain Unaltered**
+A speculative attack affects capital flows and investor confidence, which typically leads to reduced investment and consumption, shifting the IS curve left. It is unrealistic to assume that the IS curve remains unaltered in this scenario.
+
+### **D. The Central Bank Raises Interest Rates, Moving Along Left Along the "Original IS" Curve**
+
+The central bank’s defense actions during the speculative attack first cause the IS curve to shift left due to reduced investment and demand. Therefore, any subsequent movement along the IS curve happens along the new "shifted" IS curve, not the original one.
+
+---
+
+## Conclusion
+The correct answers (B, E, F) reflect the dynamics of a central bank’s defense of a fixed exchange rate during a speculative attack. The IS curve shifts left due to declining domestic demand, while the UIP curve shifts up due to devaluation expectations. To stabilize the exchange rate, the central bank raises interest rates, resulting in movement along the shifted IS curve as the economy adjusts to higher borrowing costs.
+
+# Macroeconomic Effects of Abandoning a Currency Peg
+
+## Restatement of the Problem
+In a macroeconomics class, the following question is posed:
+
+**Question:**  
+Assume the Central Bank decides to abandon its currency peg. Which of the following statements are consistent with this scenario (mark all that apply):
+
+**Options:**
+- **A.** The equilibrium moves right along the IS curve  
+- **B.** The Central Bank is able to lower interest rates  
+- **C.** Equilibrium output contracts further  
+- **D.** The UIP curve shifts down in the currency market graph  
+- **E.** The IS curve shifts right  
+- **F.** The recession is attenuated  
+- **G.** The UIP curve shifts up in the currency market graph  
+
+**Correct Answer:** A, B, F
+
+---
+
+## Explanation of the Correct Answer
+
+### **A. The equilibrium moves right along the IS curve**  
+When the central bank abandons its peg, it gains control over monetary policy and can reduce interest rates. Lower interest rates stimulate private investment and consumption, causing a rightward movement along the IS curve. In this case, the IS curve itself does not shift, but the point of equilibrium moves to the right along the curve, reflecting increased demand.
+
+### **B. The Central Bank is able to lower interest rates**  
+Abandoning the peg means the central bank is no longer constrained by the need to defend the exchange rate. It can now conduct independent monetary policy and lower interest rates to stimulate the economy.
+
+### **F. The recession is attenuated**  
+Lower interest rates stimulate the economy by increasing aggregate demand. This attenuates the recession, as output increases due to higher consumption and investment.
+
+---
+
+## Incorrect Options
+
+### **C. Equilibrium output contracts further**  
+This is inconsistent with the ability to lower interest rates. Lowering rates should increase output, not contract it further.
+
+### **D. The UIP curve shifts down in the currency market graph**  
+The uncovered interest parity (UIP) condition relates domestic and foreign interest rates and the expected future exchange rate:
+$$
+i_t - i_t^* = \frac{E_t(S_{t+1}) - S_t}{S_t}
+$$
+Abandoning the peg and lowering domestic rates relative to foreign rates typically results in the **UIP curve shifting up** due to expected depreciation.
+
+### **E. The IS curve shifts right**  
+The IS curve does not shift unless there is a change in fiscal policy or external demand. Here, the shift in equilibrium is due to a movement along the curve, not a shift of the curve itself.
+
+### **G. The UIP curve shifts up in the currency market graph**  
+While this is tempting, it is only partially correct. The **actual position along the curve** changes rather than an exogenous shift in the entire UIP curve. Therefore, it is not appropriate to say the UIP curve "shifts up" in this context.
+
+---
+
+## Conclusion
+The correct statements (A, B, F) reflect the key dynamics of abandoning a currency peg. The central bank's ability to lower interest rates supports higher aggregate demand, moving the economy along the IS curve and helping to mitigate the recession.
+
+# Impact of Foreign Accumulation of Domestic Assets on the Current Account
+
+## Restatement of the Problem
+In a macroeconomics class, the following question is posed:
+
+**Question:**  
+If foreigners accumulate domestic assets, that contributes to:
+
+**Options:**
+- **A.** Increase the current account deficit  
+- **B.** Decrease the current account deficit  
+
+**Correct Answer:** A
+
+## Explanation of the Correct Answer
+
+### Understanding the Current Account and Capital Flows
+The **current account (CA)** records a country's net exports of goods and services, net income from abroad, and net current transfers. The **capital account (KA)** (sometimes referred to as the financial account) records the net flow of financial assets and liabilities, such as foreign investments.
+
+In an open economy, the balance of payments (BOP) identity holds:
+$$
+\text{CA} + \text{KA} = 0
+$$
+where:
+- $CA$: Current Account Balance
+- $KA$: Capital Account Balance (net capital inflows)
+
+### Foreign Accumulation of Domestic Assets
+When foreigners purchase domestic assets (e.g., bonds, equities, or real estate), there is a **capital inflow** to the domestic economy. This increases the **capital account surplus**. Since the BOP identity must hold, an increase in the capital account surplus must be offset by a **current account deficit** to maintain the equilibrium.
+
+$$
+\text{If KA} \uparrow \Rightarrow \text{CA} \downarrow
+$$
+
+### Intuition:
+Foreign capital inflows lead to:
+- An increase in demand for domestic currency to purchase domestic assets.
+- Appreciation of the domestic currency.
+- Reduced competitiveness of exports due to the stronger currency.
+- Increased imports due to cheaper foreign goods.
+  
+This results in a **worsening of the current account balance** (i.e., an increase in the current account deficit).
+
+### Conclusion:
+The correct answer is **A**: Foreigners accumulating domestic assets contribute to an **increase in the current account deficit**.
+
+# Uncovered Interest Parity (UIP) and Exchange Rate Expectations
+
+## Restatement of the Problem
+In a macroeconomics class, the following question is posed:
+
+**Question:**  
+According to Uncovered Interest Parity (UIP), if Japanese interest rates are lower than U.S. dollar interest rates, the future exchange rate of the yen is expected to be weaker than the current exchange rate (i.e., the market is expecting a devaluation of the yen).  
+
+Is this statement **True** or **False**?  
+
+**Correct Answer:** **False**
+
+---
+
+## Explanation
+
+### **Uncovered Interest Parity (UIP) Formula**
+Uncovered Interest Parity (UIP) suggests that the expected change in the exchange rate is determined by the difference in interest rates between two countries. The UIP condition can be expressed as:
+
+$$
+E(S_{t+1}) = S_t \times \left(1 + i_d - i_f\right)
+$$
+
+Where:
+- $E(S_{t+1})$ = Expected future exchange rate (domestic currency per foreign currency)
+- $S_t$ = Current exchange rate (domestic currency per foreign currency)
+- $i_d$ = Domestic interest rate (U.S.)
+- $i_f$ = Foreign interest rate (Japan)
+
+### **Key UIP Interpretation:**
+If **Japanese interest rates ($i_f$)** are lower than **U.S. interest rates ($i_d$)**, UIP implies that the Japanese yen is expected to **appreciate** against the dollar in the future. This compensates investors for holding assets in the lower-interest-rate Japanese market by providing an expected gain in the value of the yen.
+
+### **Why the Correct Answer is False:**
+- Lower foreign interest rates (Japanese) imply that investors expect the yen to **appreciate** rather than depreciate.
+- If the yen were expected to depreciate, investors would demand even higher interest rates for holding yen-denominated assets, which contradicts the observed situation.
+- The UIP relationship maintains equilibrium by balancing lower interest rates with an expected currency **strengthening** rather than weakening.
+
+### **Correct Intuition:**
+A low interest rate in Japan relative to the U.S. suggests that markets anticipate an **appreciation** of the yen to offset the lower interest income from Japanese investments.
+
+---
+
+## Conclusion
+The statement is **False** because Uncovered Interest Parity implies that lower foreign interest rates indicate an expected future **appreciation** of the foreign currency (in this case, the yen), not a depreciation. Therefore, contrary to the claim, the yen is expected to strengthen relative to the dollar under UIP.
+
+# Marginal Product of Labor in an Overheated Labor Market
+
+## Restatement of the Problem
+In a macroeconomics class, the following question is posed:
+
+**Question:**  
+Consider the labor market model with market power, which we used to introduce inflation dynamics.
+
+**Statement:**  
+In an overheated labor market, the observed Marginal Product of Labor (MPL) is higher than the one that would be observed in a market in equilibrium (where $N = N^*$).
+
+**True or False?**  
+**Correct Answer:** False
+
+## Explanation of the Answer
+
+### **Labor Market Dynamics with Market Power**
+In labor market models that incorporate market power:
+- Firms choose employment levels ($N$) such that the **marginal cost of labor** equals the **marginal revenue product of labor**.
+- When the labor market is "overheated" (i.e., labor demand exceeds the equilibrium level $N^*$), wages tend to rise due to competition for scarce labor, but this does not necessarily imply an increase in the **Marginal Product of Labor (MPL)**.
+
+### **Key Concept: Marginal Product of Labor (MPL)**
+The Marginal Product of Labor (MPL) is defined as:
+$$
+MPL = \frac{\partial Y}{\partial N}
+$$
+where:
+- $Y$ is the output.
+- $N$ is the level of employment.
+
+### **Why is the Statement False?**
+1. In equilibrium, employment is at its optimal level $N^*$, and the MPL is maximized relative to wages.
+2. In an overheated labor market, firms may hire more workers than the efficient level $N^*$, causing diminishing returns due to overcrowding or inefficiency.
+3. According to the **law of diminishing marginal returns**, adding more workers when capital is fixed reduces the additional output per worker, thus **reducing** the observed MPL compared to the equilibrium level.
+
+### **Mathematical Intuition**
+In an overheated market:
+$$
+N > N^*
+$$
+This leads to:
+$$
+MPL(N) < MPL(N^*)
+$$
+since the additional output from an extra worker is smaller due to inefficiencies.
+
+### **Conclusion**
+The correct answer is **False** because in an overheated labor market, the observed MPL is **lower**, not higher, than the MPL observed at equilibrium. This reflects the diminishing returns to labor when the number of workers exceeds the optimal level.
+
+# Ranking Countries by Expected Nominal Appreciation Against the Dollar
+
+## Restatement of the Problem
+In a macroeconomics class, the following question is posed:
+
+**Question:**  
+Assume that **Uncovered Interest Rate Parity (UIP)** holds and use the following data:
+
+| **In Percent** | **Nominal Interest Rate (R)** | **Inflation Rate (π)** |
+|----------------|-------------------------------|-----------------------|
+| **UK**         | 3.9%                           | 2.6%                  |
+| **Euro Area**  | 2.2%                           | 2.3%                  |
+| **Japan**      | 0%                              | -0.2%                 |
+
+For the following three questions, rank the countries (1 through 3) in order of **expected nominal appreciation against the dollar**. The country with the **largest appreciation (smallest depreciation)** should be ranked **#1**.
+
+**What is the UK ranking?**  
+**Correct Answer:** 3
+
+---
+
+## Solution and Explanation
+
+### 1. **Formula for UIP (Uncovered Interest Rate Parity)**
+
+Under UIP, the expected change in the nominal exchange rate is given by:
+
+$$
+\mathbb{E}(S_{t+1} - S_t) = R^{\text{dom}} - R^{\text{foreign}}
+$$
+
+Where:
+- $S_t$ is the nominal exchange rate at time $t$ (domestic currency per unit of foreign currency).
+- $R^{\text{dom}}$ is the nominal interest rate in the domestic country.
+- $R^{\text{foreign}}$ is the nominal interest rate in the foreign country (here, the U.S. dollar).
+
+---
+
+### 2. **Calculate Expected Nominal Depreciation for Each Country**
+
+The difference between the domestic nominal interest rate ($R$) and the U.S. nominal interest rate affects the expected appreciation/depreciation against the dollar.
+
+- **UK:** $R_{\text{UK}} - R_{\text{US}} = 3.9\% - R_{\text{US}}$
+- **Euro Area:** $R_{\text{Euro}} - R_{\text{US}} = 2.2\% - R_{\text{US}}$
+- **Japan:** $R_{\text{Japan}} - R_{\text{US}} = 0\% - R_{\text{US}}$
+
+---
+
+### 3. **Interpreting UIP with Inflation Rates**
+To compare across countries:
+- Higher nominal interest rates generally correspond to higher expected depreciation.
+- The UK’s interest rate (3.9%) is the highest of the three, indicating the **largest expected depreciation**.
+- Japan has the lowest interest rate (0%), suggesting the **smallest expected depreciation** (potential for appreciation).
+
+---
+
+### 4. **Ranking of Expected Nominal Appreciation Against the Dollar**
+1. **Japan** (highest expected appreciation or smallest depreciation)
+2. **Euro Area** (moderate expected depreciation)
+3. **UK** (largest expected depreciation)
+
+Therefore, the UK is ranked **3rd**.
+
+---
+
+## Summary
+According to UIP, the ranking in terms of expected nominal appreciation (smallest depreciation) against the dollar is:
+1. Japan
+2. Euro Area
+3. UK
+
+The correct answer for the UK ranking is **3**.
+
+# Ranking Countries Based on Expected Nominal Appreciation Against the Dollar
+
+## Restatement of the Problem
+In a macroeconomics class, we are asked to rank the United Kingdom (UK), Euro Area, and Japan based on their expected **nominal appreciation** against the US dollar. The data provided includes nominal interest rates and inflation rates for each country.
+
+**Data Table:**
+
+| **in percent** | **Nominal Interest Rate (R)** | **Inflation (π)** |
+|----------------|-------------------------------|------------------|
+| **UK**         | 3.9%                           | 2.6%             |
+| **Euro Area**  | 2.2%                           | 2.3%             |
+| **Japan**      | 0%                              | -0.2%            |
+
+**Question:**  
+Rank the countries (1 through 3) in order of **expected nominal appreciation** against the US dollar. The country with the **largest expected appreciation/smallest depreciation** should be ranked **#1**.
+
+The question specifically asks: **What is Japan’s rank?**  
+**Correct Answer:** 1
+
+---
+
+## Explanation and Calculation
+
+### **1. Assumptions and Theory**  
+We assume that the **Uncovered Interest Parity (UIP)** condition holds. The UIP equation is given as:
+
+$$
+E\left( \frac{S_{t+1}}{S_t} \right) = \frac{1 + i_{domestic}}{1 + i_{foreign}}
+$$
+
+Where:
+- $S_t$ is the spot exchange rate at time $t$.
+- $E(S_{t+1})$ is the expected exchange rate in the future.
+- $i_{domestic}$ and $i_{foreign}$ are the nominal interest rates in the domestic and foreign countries, respectively.
+
+According to UIP, a country with **lower nominal interest rates** tends to have an **appreciating currency** relative to countries with higher interest rates, assuming inflation expectations are accounted for.
+
+### **2. Compare Nominal Interest Rates and Inflation Rates**  
+
+We calculate the **real interest rate** for each country as follows:
+
+$$
+R_{\text{real}} = R_{\text{nominal}} - \pi
+$$
+
+#### **UK**:
+$$
+R_{\text{real}}^{UK} = 3.9\% - 2.6\% = 1.3\%
+$$
+
+#### **Euro Area**:
+$$
+R_{\text{real}}^{Euro} = 2.2\% - 2.3\% = -0.1\%
+$$
+
+#### **Japan**:
+$$
+R_{\text{real}}^{Japan} = 0\% - (-0.2\%) = 0.2\%
+$$
+
+---
+
+### **3. Expected Nominal Appreciation Against the Dollar**  
+
+Countries with **lower real interest rates** are expected to have weaker currencies relative to countries with **higher real interest rates**.
+
+#### Ranking:
+1. **Japan (0.2%)**: Highest expected appreciation.
+2. **UK (1.3%)**: Moderate expected appreciation.
+3. **Euro Area (-0.1%)**: Expected depreciation.
+
+---
+
+## **Conclusion**  
+Japan has the **highest expected nominal appreciation** against the US dollar among the three countries. Therefore, Japan is ranked **#1**.
+
+# Debt Stabilization and Primary Fiscal Deficit
+
+## Restatement of the Problem
+In a macroeconomics class, the following question is posed:
+
+**Question:**  
+A country with a real interest rate on its government debt that exceeds its real GDP growth will be able to stabilize debt with a primary fiscal deficit.  
+
+**True or False:**  
+**Correct Answer:** False
+
+## Explanation of the Correct Answer
+
+### **Key Concepts:**
+1. **Government Budget Constraint**  
+   The change in the debt-to-GDP ratio $\Delta b$ is given by:
+   $$
+   \Delta b = (r - g) b - p
+   $$
+   where:
+   - $b$ = debt-to-GDP ratio
+   - $r$ = real interest rate on government debt
+   - $g$ = real GDP growth rate
+   - $p$ = primary surplus-to-GDP ratio (if $p < 0$, it represents a **primary deficit**)
+
+2. **Stabilization Condition**  
+   For the debt-to-GDP ratio to stabilize:
+   $$
+   \Delta b = 0 \implies (r - g) b = p
+   $$
+
+### **Interpretation:**
+- If $r > g$ (i.e., real interest rate exceeds real GDP growth), the term $(r - g) b$ is positive. 
+- To stabilize the debt ($\Delta b = 0$), the primary balance $p$ must be **positive** (a **primary surplus**), meaning the government must run a surplus relative to GDP to offset the growing interest costs.
+
+### **Why the Statement is False:**
+- If $r > g$, a **primary deficit** (negative $p$) will cause debt to **increase over time** rather than stabilize.
+- Therefore, a country **cannot** stabilize its debt with a primary fiscal deficit when the real interest rate exceeds real GDP growth.
+
+### **Numerical Example:**
+- Suppose $r = 5\%$, $g = 2\%$, and $b = 100\%$ (debt-to-GDP ratio).  
+- If the government runs a primary deficit $p = -1\%$, the change in debt-to-GDP is:
+  $$
+  \Delta b = (0.05 - 0.02) \times 1 - (-0.01) = 0.05
+  $$
+  This shows that debt increases.
+
+## Conclusion:
+The statement is **false** because when $r > g$, the debt-to-GDP ratio can only stabilize with a primary **surplus**, not a deficit. A primary deficit would result in continuously rising debt.
