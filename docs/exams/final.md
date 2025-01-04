@@ -8042,9 +8042,9 @@ In 2020, some U.S. nationals bought foreign stocks for 10 million dollars. In Ja
 ### **Understanding Net Foreign Assets (NFA)**
 Net Foreign Assets (NFA) represent the difference between a country's external financial assets (such as foreign stocks, bonds, and investments abroad) and its liabilities (debts or investments from foreigners in domestic assets). Mathematically, NFA can be represented as:
 
-\[
+$$
 \text{NFA} = \text{Foreign Assets} - \text{Foreign Liabilities}
-\]
+$$
 
 ### **Impact of Stock Value Change on NFA**
 1. In 2020, U.S. nationals purchased **foreign stocks** worth $10 million. This increased the stock of foreign assets in the U.S. balance sheet.
@@ -8082,9 +8082,9 @@ Some American citizens can invest in Europe for a return of 20% for a year. The 
 
 The formula for the **effective return** on a foreign investment for US nationals, taking into account the exchange rate change, is:
 
-\[
+$$
 \text{Effective Return} = (1 + r_f) \times \frac{S_0}{S_t} - 1
-\]
+$$
 
 Where:
 - $r_f$ = Foreign return (in this case, 20% or 0.20)
@@ -8097,21 +8097,21 @@ Where:
 
 Substituting the given values into the formula:
 
-\[
+$$
 \text{Effective Return} = (1 + 0.20) \times \frac{0.91}{0.82} - 1
-\]
+$$
 
-\[
+$$
 \text{Effective Return} = 1.20 \times 1.1098 - 1
-\]
+$$
 
-\[
+$$
 \text{Effective Return} \approx 1.33176 - 1
-\]
+$$
 
-\[
+$$
 \text{Effective Return} \approx 0.33176 \text{ or } 33.176\%
-\]
+$$
 
 ---
 
@@ -8157,9 +8157,9 @@ In August 2022, the exchange rate between the British Pound and the Euro was $GB
 ### 2. Formula for Percentage Change in Exchange Rate
 To quantify the change in the value of the Pound, we use the following formula:
 
-\[
+$$
 \text{Percentage Change} = \frac{\text{New Exchange Rate} - \text{Old Exchange Rate}}{\text{Old Exchange Rate}} \times 100
-\]
+$$
 
 ### 3. Substituting Values
 - Old exchange rate: $1.19$
@@ -8167,17 +8167,17 @@ To quantify the change in the value of the Pound, we use the following formula:
 
 Substitute into the formula:
 
-\[
+$$
 \text{Percentage Change} = \frac{1.11 - 1.19}{1.19} \times 100
-\]
+$$
 
-\[
+$$
 \text{Percentage Change} = \frac{-0.08}{1.19} \times 100
-\]
+$$
 
-\[
+$$
 \text{Percentage Change} \approx -6.72\%
-\]
+$$
 
 The negative sign indicates depreciation.
 
@@ -8221,15 +8221,15 @@ Let $e_{t}$ represent the exchange rate at time $t$.
 
 The percentage change in the exchange rate is given by:
 
-\[
+$$
 \%\text{ Change} = \frac{e_{September} - e_{March}}{e_{March}} \times 100
-\]
+$$
 
 Substituting the values:
 
-\[
+$$
 \%\text{ Change} = \frac{65 - 55}{55} \times 100 = \frac{10}{55} \times 100 \approx 18.18\%
-\]
+$$
 
 Since the exchange rate has increased, the INR has **depreciated**.
 
@@ -8258,9 +8258,9 @@ If this appreciation/depreciation was correctly anticipated, and if the return o
 
 The **Uncovered Interest Parity (UIP)** condition states that the expected difference in returns between two countries' assets should be equal to the expected change in exchange rates between their currencies. The UIP equation is given as:
 
-\[
+$$
 (1 + i_{\text{India}}) = (1 + i_{\text{US}}) \times \frac{E_t(S_{t+1})}{S_t}
-\]
+$$
 
 Where:
 - $i_{\text{India}}$: interest rate/return on Indian asset
@@ -8275,9 +8275,9 @@ Where:
    - Exchange rate changes imply an appreciation or depreciation of the Indian Rupee.
 
 2. **Solving for $i_{\text{India}}$:**
-   \[
+   $$
    i_{\text{India}} = \left( (1 + 0.02) \times \frac{E_t(S_{t+1})}{S_t} \right) - 1
-   \]
+   $$
 
 3. **Plugging in exchange rate values**:
    If the exchange rate changes correspond to a depreciation or appreciation consistent with returns of **20.18%** or **17.38%**, substituting those into the equation satisfies UIP, depending on the specific direction of currency movement.
@@ -8312,9 +8312,9 @@ Between 2022 and 2023, the price level in Argentina increased by roughly 100%. W
 The theory of **Relative Purchasing Power Parity (PPP)** states that the rate of change in the exchange rate between two countries' currencies is proportional to the difference in their inflation rates.
 
 The relative PPP formula is:
-\[
+$$
 \frac{E_t}{E_{t-1}} = \frac{P_t}{P_{t-1}}
-\]
+$$
 where:
 - $E_t$ is the exchange rate at time $t$ (e.g., USD/ARS).
 - $P_t$ and $P_{t-1}$ are the domestic price levels at time $t$ and $t-1$, respectively.
@@ -8349,9 +8349,9 @@ Following up on the previous question, the Argentinian Peso exchange rate was **
 ### **1. Formula for the Real Exchange Rate (RER)**
 The real exchange rate adjusts the nominal exchange rate for differences in inflation. The formula for the percentage change in the real exchange rate ($\Delta RER$) is:
 
-\[
+$$
 \Delta RER \approx \Delta E + \Delta P^* - \Delta P
-\]
+$$
 
 Where:
 - $\Delta E$ is the percentage change in the nominal exchange rate.
@@ -8361,45 +8361,45 @@ Where:
 ### **2. Percentage Change in the Nominal Exchange Rate ($\Delta E$)**
 
 The nominal exchange rate increased from **100** to **176**:
-\[
+$$
 \Delta E = \frac{176 - 100}{100} \times 100 = 76\%
-\]
+$$
 
 ### **3. Percentage Change in Foreign Prices ($\Delta P^*$)**
 
 The foreign price level increased by **10%**:
-\[
+$$
 \Delta P^* = 10\%
-\]
+$$
 
 ### **4. Assumption: Domestic Inflation ($\Delta P$)**
 
 Assume that domestic inflation (Argentina) is **0%**, since it is not provided explicitly:
-\[
+$$
 \Delta P = 0\%
-\]
+$$
 
 ### **5. Calculate the Percentage Change in the Real Exchange Rate ($\Delta RER$)**
 
 Substitute the values:
-\[
+$$
 \Delta RER \approx 76\% + 10\% - 0\%
-\]
-\[
+$$
+$$
 \Delta RER = 86\%
-\]
+$$
 
 However, the real change reflects the "relative" difference, accounting for actual purchasing power:
 
-\[
+$$
 \Delta RER = \frac{1.76}{1.1} - 1
-\]
-\[
+$$
+$$
 \Delta RER \approx 0.6036 - 1 = -0.032
-\]
-\[
+$$
+$$
 \Delta RER \approx -3.2\%
-\]
+$$
 
 ### **6. Interpretation**
 The negative percentage indicates that, after adjusting for inflation, the Argentinian Peso's real value depreciated by approximately **3.2%**, showing that domestic prices or purchasing power parity adjusted relative to the nominal appreciation of the exchange rate.
@@ -8427,9 +8427,9 @@ If one uses the exact formula, the real exchange rate (RER) decreases by 3.2% (i
 ### **1. Formula for Relative Purchasing Power Parity (PPP)**  
 Relative PPP relates the percentage change in the nominal exchange rate to the inflation rate differential between two countries. The formula for the real exchange rate (RER) change is:
 
-\[
+$$
 \text{RER}_{\text{new}} = \frac{E_{\text{new}} \times P_{\text{foreign}}}{P_{\text{domestic}}}
-\]
+$$
 
 Where:
 - $E_{\text{new}}$ = nominal exchange rate after depreciation
@@ -8445,9 +8445,9 @@ Using the given data:
 
 Substitute these values into the formula:
 
-\[
+$$
 \text{RER}_{\text{new}} = \frac{1.76 \times 1.10}{2.00} = 0.968
-\]
+$$
 
 This shows a **decrease of 3.2%** in the real exchange rate, indicating that the domestic currency has gained purchasing power relative to foreign currency-adjusted prices.
 
@@ -8455,9 +8455,9 @@ This shows a **decrease of 3.2%** in the real exchange rate, indicating that the
 
 ### **3. First-Order Approximation vs. Exact Formula**
 - The first-order approximation assumes small changes in rates:
-  \[
+  $$
   \Delta \text{RER} \approx \Delta E + \Delta P_{\text{foreign}} - \Delta P_{\text{domestic}}
-  \]
+  $$
   - However, with large changes (like 76% and 100%), this approximation becomes less precise.
 - The exact formula reflects that the real exchange rate change is much smaller than the inflation rate and nominal depreciation rate changes, highlighting the predictive accuracy of relative PPP.
 
