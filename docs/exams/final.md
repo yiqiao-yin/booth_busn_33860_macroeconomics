@@ -2934,8 +2934,17 @@ The **output gap** is the difference between an economy's actual output ($Y_{act
 $$
 \text{Output Gap} = \frac{Y_{actual} - Y_{potential}}{Y_{potential}} \times 100
 $$
-- **Negative output gap**: $Y_{actual} < Y_{potential}$, indicating underutilization of economic resources (recessionary gap).
-- **Positive output gap**: $Y_{actual} > Y_{potential}$, indicating an overheated economy.
+- **Negative output gap**: 
+
+$$Y_{actual} < Y_{potential}$$
+
+indicating underutilization of economic resources (recessionary gap).
+
+- **Positive output gap**: 
+
+$$Y_{actual} > Y_{potential}$$
+
+indicating an overheated economy.
 
 ### 2. Relationship Between Output Gap and Inflation
 According to the **Phillips Curve**, there is typically an inverse relationship between unemployment and inflation:
@@ -4059,7 +4068,7 @@ $$
 
 - A **positive output gap** occurs when **actual GDP** exceeds **potential GDP**:
 
-$$$\text{Actual GDP} > \text{Potential GDP}$$$
+$$\text{Actual GDP} > \text{Potential GDP}$$
 
 - A **negative output gap** occurs when **actual GDP** is below **potential GDP**:
 
