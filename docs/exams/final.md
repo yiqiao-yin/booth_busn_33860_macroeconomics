@@ -1797,6 +1797,8 @@ The correct answer is:
 
 An increase in the tax rate $t$ reduces the fiscal multiplier, meaning that each additional unit of government spending has a smaller impact on the equilibrium output $Y$.
 
+Go back to the content, click [here](#table-of-content).
+
 # Impact of Expected Inflation on the Nominal Interest Rate
 
 ## Problem Statement
@@ -1831,6 +1833,8 @@ Given this relationship, the correct answer is:
 **C. Increase the nominal interest rate required by an investor**
 
 This result aligns with the rationale that investors require a higher nominal return to offset the erosion of purchasing power caused by higher expected inflation.
+
+Go back to the content, click [here](#table-of-content).
 
 # Nominal GDP Growth Calculation for a Closed Economy with Three Goods
 
@@ -1906,6 +1910,8 @@ $$
 
 The rate of **nominal GDP growth between 2020 and 2021** is **60%**.
 
+Go back to the content, click [here](#table-of-content).
+
 # Real GDP Growth in a Closed Economy: Cars, Computers, and Oranges
 
 ## Problem Statement
@@ -1980,6 +1986,8 @@ $$
 ## Conclusion
 
 The rate of real GDP growth between 2020 and 2021 in this closed economy is **24%**.
+
+Go back to the content, click [here](#table-of-content).
 
 # Calculating Inflation Rate Using the GDP Deflator Index for a Closed Economy
 
@@ -2073,6 +2081,8 @@ $$
 
 The inflation rate between 2020 and 2021, as measured by the GDP deflator, is approximately **29.03%**.
 
+Go back to the content, click [here](#table-of-content).
+
 # Impact of Anticipated Income on Consumption: Analysis through the Permanent Income Hypothesis
 
 This document explores how an anticipated increase in income affects consumption according to the Permanent Income Hypothesis, a concept in macroeconomics that explains how consumers make spending decisions based on their long-term income expectations.
@@ -2127,6 +2137,8 @@ Therefore, the correct answer is:
 
 **C. It increases the present value of human wealth.**
 
+Go back to the content, click [here](#table-of-content).
+
 # Impact of Household Wealth Losses on Consumer Spending and Inflation
 
 ## Problem Statement
@@ -2168,6 +2180,8 @@ Where:
 Since consumption ($C$) forms a large part of aggregate demand, a decrease in consumer spending directly leads to a decrease in aggregate demand. Lower aggregate demand, in turn, puts downward pressure on real output, and often leads to **disinflation** (a reduction in the inflation rate) or potentially even **deflation** if the decline is significant enough.
 
 In summary, substantial wealth losses from a decrease in house prices are expected to reduce consumer spending, which in turn can reduce aggregate demand and real output.
+
+Go back to the content, click [here](#table-of-content).
 
 # Change in Output Due to Government Spending Increase
 
@@ -2243,6 +2257,8 @@ $$
 ### Answer
 If the government increases $G$ by 10, the output ($Y$) will increase by **20 units**.
 
+Go back to the content, click [here](#table-of-content).
+
 # Effect of a Tax Cut on Output in a Simple Consumption Model
 
 ## Problem Statement
@@ -2315,6 +2331,8 @@ $$
 
 The correct answer is **C: The increase in $Y$ is smaller than before**. This is because the tax cut indirectly affects aggregate demand via the consumption function, and only a fraction of the tax reduction (determined by the MPC) leads to an increase in consumption and output. In contrast, an increase in government spending directly impacts aggregate demand and output.
 
+Go back to the content, click [here](#table-of-content).
+
 # Analyzing the Impact of a Negative Consumer Confidence Shock on Aggregate Demand
 
 ## Problem Statement
@@ -2354,6 +2372,8 @@ The marginal propensity to consume, $c_1$, reflects the portion of additional di
 
 ### Summary:
 To model a negative consumer confidence shock in the aggregate demand formula, decreasing $c_0$ would be the correct adjustment, as it captures the reduction in baseline consumption that occurs independently of income changes.
+
+Go back to the content, click [here](#table-of-content).
 
 # Understanding the Opportunity Cost of Holding Bank Deposits
 
@@ -2404,6 +2424,8 @@ Holding a bank deposit generally provides safety and liquidity but often yields 
 ---
 
 In conclusion, the opportunity cost of holding funds in a bank deposit is best represented by the potential higher returns from less liquid assets, such as money market accounts, which is accurately described by **Option A**.
+
+Go back to the content, click [here](#table-of-content).
 
 # Money Market Equilibrium and GDP Impact
 
@@ -2458,6 +2480,8 @@ The correct answer is:
 
 An increase in GDP, with a fixed money supply, increases the demand for money and leads to a higher equilibrium interest rate in the money market.
 
+Go back to the content, click [here](#table-of-content).
+
 # Understanding Reserves on the Central Bank Balance Sheet
 
 In macroeconomics, understanding the classification of items on a central bank's balance sheet is crucial for analyzing monetary policy and financial stability. One common question is about the treatment of reserves held by depository institutions at the central bank.
@@ -2507,6 +2531,8 @@ The correct answer is:
 
 **A. A liability**
 
+Go back to the content, click [here](#table-of-content).
+
 # Equilibrium Point in a Scarce Reserves Regime
 
 ## Problem Statement
@@ -2545,6 +2571,8 @@ This derivative implies that demand for reserves does not significantly change w
 **The correct answer is: B. Relatively steep**
 
 When reserves are scarce, banks’ limited options for obtaining reserves make the demand curve for reserves relatively steep. This steep demand curve means that the quantity of reserves primarily determines the equilibrium interest rate in this regime.
+
+Go back to the content, click [here](#table-of-content).
 
 # Understanding Real Interest Rates in a Liquidity Trap
 
@@ -2591,6 +2619,8 @@ This indicates that the real interest rate is likely to be **negative** rather t
 ### Final Answer
 
 **B. False**
+
+Go back to the content, click [here](#table-of-content).
 
 # Expected Interest Rate Calculation for Next Year
 
@@ -2643,6 +2673,8 @@ Thus, the **expected interest rate for next year is 4%** (or 0.04 as a decimal).
 ## Answer
 
 The expected interest rate next year is **4%**.
+
+Go back to the content, click [here](#table-of-content).
 
 # Impact of Government Spending on the IS Curve
 
@@ -2700,6 +2732,8 @@ In graphical terms:
 
 Thus, the correct answer is **B. Shift the IS curve to the right**.
 
+Go back to the content, click [here](#table-of-content).
+
 # Why Investment is More Volatile than GDP
 
 This document addresses a key question in macroeconomics regarding the volatility of investment relative to GDP. Specifically, it explores why investment tends to fluctuate more widely compared to overall GDP and presents possible explanations for this phenomenon.
@@ -2754,6 +2788,8 @@ Thus, the main explanation for why investment is more volatile than GDP is that 
 
 The volatility of investment compared to GDP is primarily due to the need for a disproportionately large increase in investment to adjust the capital stock, which is sensitive to economic expectations and uncertainty. This makes investment inherently more variable than GDP.
 
+Go back to the content, click [here](#table-of-content).
+
 # Understanding the Implications of a Negative Yield Curve Slope
 
 ## Problem Statement
@@ -2797,6 +2833,8 @@ The expectation of falling interest rates, indicated by an inverted yield curve,
 ### Conclusion
 
 Therefore, a negative slope in the yield curve generally signals that markets anticipate **lower interest rates in the future** as part of an economic easing policy response.
+
+Go back to the content, click [here](#table-of-content).
 
 # Analysis of IS Curve Shift with Central Bank Intervention
 
@@ -2849,6 +2887,8 @@ where:
 - $G$ is government spending,
 
 then a change in $r$ causes $I$ to change, impacting $Y$ and moving along the IS curve without shifting it.
+
+Go back to the content, click [here](#table-of-content).
 
 # Negative Output Gap and Inflation: Macroeconomics Concept
 
@@ -2905,6 +2945,8 @@ The statement **"A negative output gap is always associated with low levels of i
 Here is the `.md` file for the question and the answer:
 
 ---
+
+Go back to the content, click [here](#table-of-content).
 
 # Phillips Curve and Supply Shock Analysis
 
@@ -2965,6 +3007,8 @@ A **negative supply shock** shifts $Y^*$ lower (potential output falls), causing
 
 A **negative supply shock** results in a leftward shift of the Phillips Curve. This increases inflation and decreases output. Thus, the correct answer is **B**.
 
+Go back to the content, click [here](#table-of-content).
+
 # Taylor Rule and Interest Rate Targeting in Macroeconomics
 
 ## Restatement of the Problem
@@ -3013,6 +3057,8 @@ This shows that the **nominal interest rate** equals the sum of the real neutral
 
 The level of the nominal interest rate consistent with inflation at its target and a null output gap is equal to the real neutral rate of interest plus the target inflation rate.
 
+Go back to the content, click [here](#table-of-content).
+
 # Central Bank Policy in Response to a Positive Output Gap
 
 ## Problem Statement
@@ -3053,6 +3099,8 @@ When the central bank raises interest rates ($i$), investment $I(i)$ decreases, 
 
 ### **Conclusion:**
 The correct answer is **C. Raise interest rates**. In the presence of a positive output gap, the central bank raises interest rates to stabilize inflation and bring the economy closer to its potential output.
+
+Go back to the content, click [here](#table-of-content).
 
 # Phillips Curve and Inflation Expectations
 
@@ -3100,6 +3148,8 @@ In macroeconomics, a rise in inflation expectations causes workers and firms to 
 
 ## Final Answer:
 **A. Shift the Phillips Curve to the left, increasing inflation and decreasing output.**
+
+Go back to the content, click [here](#table-of-content).
 
 # Impact of Government Purchases on Current Account Balance
 
@@ -3150,6 +3200,8 @@ Thus, the **current account balance (CA)** decreases.
 
 ## Answer:
 The correct answer is **C. decrease**.
+
+Go back to the content, click [here](#table-of-content).
 
 # U.S. National Income Accounts and Imports
 
@@ -3210,6 +3262,8 @@ Here is the requested `.md` file:
 
 ---
 
+Go back to the content, click [here](#table-of-content).
+
 # **Interest Payment and Turkey's Current Account Balance**
 
 This problem relates to how interest payments from a Turkish company to a German bank affect Turkey’s **Net Foreign Income (NFI)** and **Current Account (CA)** balance. Specifically, it asks us to understand whether an outgoing payment of interest impacts the income flows and the overall current account of the country.
@@ -3258,6 +3312,8 @@ The interest payment from a Turkish company to a German bank reduces both the **
 
 In macroeconomics, interest payments made to foreign lenders count as income outflows, thereby lowering both **NFI** and **CA**. This highlights the importance of income flows in determining a country's overall external balance.
 
+Go back to the content, click [here](#table-of-content).
+
 # Impact of Foreign Account Transaction on US NFA and CA
 
 ## Restating the Problem
@@ -3297,6 +3353,8 @@ In the **balance of payments** framework, the financial account records cross-bo
 
 **Answer: C. No.**
 
+Go back to the content, click [here](#table-of-content).
+
 # **Effect of Import Purchase on U.S. NFA and CA**
 
 ## **Problem Description**
@@ -3334,6 +3392,8 @@ A U.S. national has a bank account at Deutsche Bank in Germany and uses 1 millio
 - **C. Yes, it decreases NFA and CA of the U.S.**
 
 The reduction in foreign assets (due to spending euros) decreases the U.S. net foreign assets, while the rise in imports (purchase of cars) decreases the U.S. current account balance.
+
+Go back to the content, click [here](#table-of-content).
 
 # Impact of Changes in Private and Public Saving on the CA Balance
 
@@ -3390,6 +3450,8 @@ The **net effect** of these changes on the CA balance is **$-0.5$ trillion USD**
 - **Change in Public Saving**: $-2$ trillion USD
 - **Net Change in CA Balance**: $-0.5$ trillion USD
 
+Go back to the content, click [here](#table-of-content).
+
 # Euro Stock Market Return in USD: Analysis of Dollar Return
 
 ## Problem Statement
@@ -3444,6 +3506,8 @@ $$
 ### Final Answer:
 The **yearly dollar return** for a U.S. investor holding European stocks in 2021 is approximately **17.63%**.
 
+Go back to the content, click [here](#table-of-content).
+
 # Exchange Rate and Interest Rate Parity Decision Problem
 
 ## Problem Statement
@@ -3495,6 +3559,8 @@ A risk-neutral investor will choose the option that provides the best return. In
 ### **Answer:**  
 The correct choice is **A. Borrow in yen to invest in dollars**.
 
+Go back to the content, click [here](#table-of-content).
+
 # Uncovered Interest Rate Parity (UIP) and Currency Market Response
 
 ## Problem Statement
@@ -3533,6 +3599,8 @@ When the domestic central bank raises the domestic interest rate, the domestic c
 ## Summary of Key Points
 - According to UIP, if domestic interest rates increase while foreign interest rates remain unchanged, the domestic currency appreciates.
 - This occurs because higher interest rates attract more foreign investment, increasing demand for the domestic currency.
+
+Go back to the content, click [here](#table-of-content).
 
 # Comparing Fiscal and Monetary Policy in Fixed vs. Flexible Exchange Rate Regimes
 
@@ -3585,6 +3653,8 @@ In contrast, in a flexible exchange rate:
 ### Conclusion:
 The correct answer is **A. With fixed $E$, fiscal policy is more powerful, monetary policy is less powerful.**
 
+Go back to the content, click [here](#table-of-content).
+
 # Understanding the Impact of Foreign Central Bank Interest Rate Increases on the UIP Curve
 
 ## Problem Statement
@@ -3622,6 +3692,8 @@ The correct answer is **A. UIP Curve Shifts Up**.
 
 This means that when foreign interest rates increase, domestic interest rates must increase (for the same expected exchange rate) to keep the returns on domestic and foreign assets aligned.
 
+Go back to the content, click [here](#table-of-content).
+
 # Impact of Inflation on Exchange Rate: Nominal and Real Spending Growth
 
 ## Problem Statement
@@ -3657,6 +3729,8 @@ Thus, according to PPP, the domestic currency **depreciates**.
 ### Final Answer:
 The correct choice is:
 - **B. The Exchange Rate depreciates**.
+
+Go back to the content, click [here](#table-of-content).
 
 # Public Debt Stabilization Problem
 
@@ -3718,6 +3792,8 @@ The primary deficit-to-GDP ratio is $-0.01$, indicating a **primary surplus** of
 
 ## Summary of the Answer
 To maintain a stable debt-to-GDP ratio of $50\%$, the government must run a **primary surplus** equal to $1\%$ of GDP.
+
+Go back to the content, click [here](#table-of-content).
 
 # Debt Sustainability and Primary Deficit Calculation
 
@@ -3785,6 +3861,8 @@ $$
 ### Final Answer:
 The primary deficit needed to maintain a 50% debt-to-GDP ratio is **0%** of GDP. In this case, since the interest rate matches GDP growth, no primary deficit or surplus is required to maintain the debt-to-GDP ratio.
 
+Go back to the content, click [here](#table-of-content).
+
 # Reasons for Pegging Exchange Rates in Macroeconomics
 
 ## Restatement of the Problem
@@ -3835,6 +3913,8 @@ By controlling the money supply ($M$) via foreign exchange market operations, th
 
 Countries may peg their exchange rate to reduce domestic inflation, particularly if their own monetary policy has been historically unstable or if they wish to anchor their inflation rate to that of a more stable foreign economy.
 
+Go back to the content, click [here](#table-of-content).
+
 # Analysis of Trade Deficit and Pegged Exchange Rate
 
 ## Restating the Problem
@@ -3874,6 +3954,8 @@ In the absence of corrective policies (e.g., depreciation of the currency), the 
 Therefore, the correct answer is:
 
 **Answer:** B. To grow over time
+
+Go back to the content, click [here](#table-of-content).
 
 # Currency Crisis and Interest Rate Policy
 
@@ -3921,6 +4003,8 @@ While abandoning the peg could mitigate the severity of the recession, it would 
 - **Correct Answer: A** – Raising the domestic interest rate can successfully defend the currency peg but worsens the recession.
   
 The decision to raise interest rates prioritizes exchange rate stability at the cost of short-term economic growth, reinforcing that defending the peg often leads to economic hardship.
+
+Go back to the content, click [here](#table-of-content).
 
 # Understanding Positive Output Gap and Its Implications
 
@@ -3970,6 +4054,7 @@ A positive output gap indicates that the economy is overheating due to excessive
 Thus, the correct answer is:
 - **A. Spending above potential output, leading to higher inflation**.
 
+Go back to the content, click [here](#table-of-content).
 
 # Understanding the Wage-Price Spiral in a "Hot" Economy
 
@@ -4024,6 +4109,8 @@ In a hot economy:
 
 The wage-price spiral in a "hot" economy results from firms raising prices due to higher labor costs, which leads to workers demanding higher wages, perpetuating inflation. This self-reinforcing cycle can lead to sustained inflation if unchecked.
 
+Go back to the content, click [here](#table-of-content).
+
 # Inflation Targeting and Recession Requirement
 
 ## Restatement of the Problem
@@ -4067,6 +4154,8 @@ In cases where **expectations are unanchored** and $\pi_t^e$ is high, a large in
 - In such a case, **True**: A recession is often necessary to realign inflation expectations and bring inflation back to target.
 
 However, it is important to note that the necessity of a recession depends on the degree to which inflation expectations are unanchored and the flexibility of the economy. Central Banks aim to achieve a "soft landing" to avoid recessions, but this is not always possible.
+
+Go back to the content, click [here](#table-of-content).
 
 # Phillips Curve Breakdown in the 1970s: Key Factors
 
@@ -4119,6 +4208,8 @@ Thus, the breakdown of the Phillips Curve in this era was due to shifts in infla
 ## Conclusion
 The instability in the Phillips Curve during the 1970s was driven primarily by changes in people's inflation expectations, supporting option **A**.
 
+Go back to the content, click [here](#table-of-content).
+
 # Impact of a Positive Demand Shock on Output and Inflation
 
 ## Problem Statement
@@ -4169,6 +4260,8 @@ D. Output will increase above potential, and inflation will go above target
 ### Answer:  
 The correct answer is:  
 **D. Output will increase above potential, and inflation will go above target**
+
+Go back to the content, click [here](#table-of-content).
 
 # Phillips Curve and Tradeoff Between Unemployment and Inflation
 
@@ -4221,6 +4314,8 @@ The statement is **false** because the Phillips Curve tradeoff is not always sta
   $$
 
 In the long run, inflation depends on expectations and monetary policy, not on unemployment.
+
+Go back to the content, click [here](#table-of-content).
 
 # Impact of Private Consumption on Current Account Balance
 
@@ -4278,6 +4373,8 @@ The correct option is **B. Increase**.
 
 When private consumption decreases while all other components of GDP remain unchanged, the current account balance will **increase** due to a reduction in imports.
 
+Go back to the content, click [here](#table-of-content).
+
 # U.S. Import of Italian Clothes: Impact on Current Account and Capital Account
 
 ## Problem Statement
@@ -4325,6 +4422,8 @@ $$
 ## Final Answer
 The correct answer is **A: All the statements are true**.
 
+Go back to the content, click [here](#table-of-content).
+
 # Effect of Stock Price Increase on Net Foreign Asset Position
 
 ## Problem Statement
@@ -4363,6 +4462,8 @@ The correct answer is **A. NFA decreases**.
 - A price increase raises the value of foreign claims on U.S. assets.
 - Therefore, the **net foreign asset position decreases** due to higher liabilities.
 
+Go back to the content, click [here](#table-of-content).
+
 # Understanding the Impact of Foreign Stock Purchases on the Current Account
 
 ## Restating the Problem
@@ -4396,6 +4497,8 @@ Without knowing the inflows or other components of the financial account, **ther
 
 ### Correct Answer:
 - **A. Insufficient information**
+
+Go back to the content, click [here](#table-of-content).
 
 # The Impact of International Maple Syrup Sales on U.S. National Accounts
 
@@ -4450,6 +4553,8 @@ where:
 ## Conclusion:
 The correct answer is **C: both $C$ and $M$** increase due to this transaction.
 
+Go back to the content, click [here](#table-of-content).
+
 # Impact of a Bank Loan Interest Payment on Greece's CA Balance
 
 ## Problem Statement
@@ -4499,6 +4604,8 @@ $$
 The correct answer is:
 - **C**: Lowers the CA balance of Greece.
 
+Go back to the content, click [here](#table-of-content).
+
 # Risk Preference Decision in Macroeconomics
 
 ## Problem Statement
@@ -4538,6 +4645,8 @@ Since the consumer prefers \$55 (which is **less** than the expected value of $6
 
 The correct answer is **B. Risk Averse**. The preference for \$55 over the lottery indicates that the individual dislikes uncertainty and values the guaranteed amount more than the potential higher but uncertain payout.
 
+Go back to the content, click [here](#table-of-content).
+
 # Return of a Baht-Denominated Bond for a Canadian Investor
 
 ## Problem Statement
@@ -4568,6 +4677,8 @@ $$
 
 ### Final Answer:
 The return in Canadian dollars for the baht-denominated bond is **2%**.
+
+Go back to the content, click [here](#table-of-content).
 
 # Exchange Rate Movement Analysis
 
@@ -4616,6 +4727,8 @@ Since the yen strengthened (fewer yen are needed for the same amount of euros), 
 **Answer: A. Appreciated**
 
 ---
+
+Go back to the content, click [here](#table-of-content).
 
 # **Currency Investment Decision Analysis**
 
@@ -4689,6 +4802,8 @@ Answer: **A. Borrow in yuan to invest in dollars.**
 
 ---
 
+Go back to the content, click [here](#table-of-content).
+
 # Impact of an Unexpected Interest Rate Hike on Exchange Rates: An Application of the Uncovered Interest Rate Parity (UIP) Theory
 
 ## Problem Statement
@@ -4727,6 +4842,8 @@ Since the expected future exchange rate $E(e_{t+1})$ remains constant, the incre
 The correct answer is:
 
 **B. The euro depreciates against the dollar.**
+
+Go back to the content, click [here](#table-of-content).
 
 # Effects of Expansive Fiscal Policy in an Open Economy
 
@@ -4773,6 +4890,7 @@ In the IS-LM-BP framework for an open economy:
 
 Therefore, **output increases** while the **exchange rate remains constant**.
 
+Go back to the content, click [here](#table-of-content).
 
 # Impact of Central Bank Reaction to Fiscal Expansion
 
@@ -4819,6 +4937,8 @@ The correct answer is **B**: "Exchange rate appreciates, output increases."
 
 ## Final Answer:
 - **Correct Choice:** B. Exchange rate appreciates, output increases.
+
+Go back to the content, click [here](#table-of-content).
 
 # Understanding the Relationship Between Total Deficit and Primary Deficit
 
@@ -4929,6 +5049,8 @@ The correct answer is:
 
 **A. Real GDP growth is greater than the real interest rate.**
 
+Go back to the content, click [here](#table-of-content).
+
 # Summary of Relative Purchasing Power Parity (PPP) Theory
 
 ## Problem Statement
@@ -4967,6 +5089,8 @@ Where:
   
 ### Conclusion:
 The Relative PPP theory holds that, over long periods, the real exchange rate returns to its equilibrium level, reflecting the idea that currencies adjust to equalize purchasing power across borders.
+
+Go back to the content, click [here](#table-of-content).
 
 # Interpretation of a Currency Crisis in a Simple Open Economy Macro Model
 
@@ -5039,6 +5163,8 @@ A currency crisis in this simple open economy macro model is primarily driven by
 
 The correct interpretation is **Option B: Non-credible policies shift the expected exchange rate $E_e$**. This shift reflects reduced confidence in the domestic currency, causing further depreciation and feeding into capital flight.
 
+Go back to the content, click [here](#table-of-content).
+
 # Effects of a Tariff on Exchange Rates
 
 ## Restating the Problem
@@ -5075,6 +5201,8 @@ The introduction of a tariff tends to lead to an **appreciation of the domestic 
 
 Therefore, the correct answer is:  
 **A. Lead to an appreciation of the domestic currency**.
+
+Go back to the content, click [here](#table-of-content).
 
 # Fiscal Consolidation and Macroeconomic Equilibrium in a Closed Economy
 
@@ -5160,6 +5288,8 @@ $$
 ## **Final Answer**
 - Correct Statements: **A, B, C**
 
+Go back to the content, click [here](#table-of-content).
+
 # Macroeconomic Scenario: Output Gap and Inflation
 
 ## Problem Statement
@@ -5206,6 +5336,8 @@ $$
 
 For this scenario:
 - $\text{Output Gap (\%)} = 0\%$, meaning actual GDP equals potential GDP.
+
+Go back to the content, click [here](#table-of-content).
 
 # Macroeconomic Analysis: Central Bank Intervention and the Phillips Curve
 
@@ -5289,6 +5421,8 @@ The Central Bank’s goal to restore potential output and bring inflation back t
 ## Final Answers:
 - **Correct Answers**: E, F, G
 
+Go back to the content, click [here](#table-of-content).
+
 # Understanding the Impact of a Positive Supply Shock in a Macro Model
 
 ## Problem Statement
@@ -5339,6 +5473,8 @@ The correct statements that describe the effects of a positive supply shock are:
 - **C. Before the Central Bank Reacts, inflation is below target**  
 - **E. The Phillips Curve shifts right**  
 - **F. Potential Output Increases**
+
+Go back to the content, click [here](#table-of-content).
 
 # Central Bank Response to Return Output to Potential and Inflation to Target
 
@@ -5408,6 +5544,8 @@ The correct actions consistent with the central bank's goals are **lowering inte
 ## Final Answers:
 - **Correct Options:** E, F, G
 
+Go back to the content, click [here](#table-of-content).
+
 # Identifying Positive Supply Shocks in Macroeconomics
 
 In macroeconomics, supply shocks are events that affect the economy's productive capacity, shifting the aggregate supply curve. A **positive supply shock** increases output at all price levels, making goods and services more abundant or cheaper to produce. Conversely, a **negative supply shock** decreases output at all price levels.
@@ -5460,6 +5598,8 @@ The correct answer is **A, C, E**. Here’s an explanation for each option:
 ### Summary of Correct Answers
 - **Correct Options:** A (Healing of supply chain disruptions), C (Increase in productivity), E (Lower oil prices)
 - **Incorrect Options:** B (Decrease in immigration), D (Supply chain disruptions)
+
+Go back to the content, click [here](#table-of-content).
 
 # Inflationary Shock and Its Main Cause
 
@@ -5516,6 +5656,8 @@ In case of a **demand shock**:
 ### **Conclusion**:
 When output moves in the same direction as inflation, it indicates a **demand-side shock** rather than a supply-side shock. Therefore, the correct answer is **A. Demand**.
 
+Go back to the content, click [here](#table-of-content).
+
 # **Macroeconomics: The Central Bank and the Effective Lower Bound Problem**
 
 This analysis addresses the issue of a Central Bank facing the **Effective Lower Bound (ELB)** in nominal interest rates and the consequences of this situation, particularly in terms of achieving its inflation target and stimulating aggregate demand.
@@ -5568,6 +5710,8 @@ The correct answers are:
 - **A**: The Central Bank faces difficulties in sufficiently stimulating aggregate demand.
 - **D**: Inflation is persistently below its target.
 
+Go back to the content, click [here](#table-of-content).
+
 # Macroeconomic Tradeoffs in Managing Demand and Supply Shocks
 
 ## Problem Restatement
@@ -5609,6 +5753,8 @@ For supply shocks, inflation rises despite potentially rising unemployment. This
 ## Summary of Key Points:
 - **Demand shocks**: Easier to manage with monetary policy adjustments.
 - **Supply shocks**: Harder to manage due to the tradeoff between inflation control and output stabilization.
+
+Go back to the content, click [here](#table-of-content).
 
 # Understanding Central Bank Decisions in Response to Supply Shocks
 
@@ -5686,6 +5832,8 @@ The primary goals of a central bank are:
 ## Conclusion
 The correct answer is **False**. While "seeing through" a temporary supply shock may seem prudent in theory, in practice, failing to respond to inflation risks from negative supply shocks can erode credibility, fuel higher inflation expectations, and necessitate harsher measures in the future. A balanced approach, with some measured interest rate adjustment, is typically required to anchor expectations and preserve price stability.
 
+Go back to the content, click [here](#table-of-content).
+
 # Overheated Labor Market and Wage Setting in Macroeconomics
 
 ## Restating the Problem
@@ -5742,6 +5890,8 @@ In an overheated labor market, this inequality holds as firms' pricing power lea
 ### 4. Conclusion
 The statement **"In an overheated labor market, the observed Real Wage is the one extracted from the 'Wage setting' equation (workers)"** is **False**. The real wage observed in the labor market is determined by the interaction of the wage-setting equation (from workers) and the price-setting equation (from firms), with market power and inflation dynamics playing a significant role.
 
+Go back to the content, click [here](#table-of-content).
+
 # Inflation Dynamics and the Phillips Curve
 
 ## Problem Statement
@@ -5780,6 +5930,8 @@ Where:
 
 ### Conclusion:
 The correct answer is **True**. Inflation pressures above the central bank's target will persist if the labor market remains overheated, regardless of anchored inflation expectations.
+
+Go back to the content, click [here](#table-of-content).
 
 # Understanding the Ample Reserves Regime and Money Market Equilibrium
 
@@ -5825,6 +5977,8 @@ In this situation, the **reserve demand curve** flattens out at higher reserve l
 ## Conclusion
 
 The statement is **True**: under an ample reserves regime, the money market equilibrium lies in a region where the reserve demand curve is relatively flat, indicating the central bank’s control over short-term interest rates through administrative measures rather than reserve scarcity.
+
+Go back to the content, click [here](#table-of-content).
 
 # Central Bank Policy Tools and the Ample Reserves Regime
 
@@ -5882,6 +6036,8 @@ This shows how adjusting the interest on reserves allows the Central Bank to con
 
 To operate effectively in the Ample Reserves regime, the Central Bank needs to **pay interest on reserves (IOR)** to maintain control over short-term interest rates. Therefore, the correct answer is **A**.
 
+Go back to the content, click [here](#table-of-content).
+
 # Consequences of Operating in an Ample Reserves Monetary Regime
 
 ## Restatement of the Problem
@@ -5924,6 +6080,8 @@ The opposite is true—short-term interest-bearing reserves reduce the average m
 
 ## Conclusion
 The correct answers (A, D, E) highlight the political and fiscal challenges associated with remunerating reserves and the financial risks faced by the central bank when interest rates rise. An ample reserves regime can shorten the maturity structure of public debt and increase financial pressures on the central bank, especially in a high-interest rate environment.
+
+Go back to the content, click [here](#table-of-content).
 
 # Negative Consequences of an Ample Reserves Monetary Regime
 
@@ -5971,6 +6129,8 @@ In reality, the ample reserves system lowers the average maturity of the public 
 
 ## Conclusion
 The correct answers **A, D, E** reflect the political and fiscal implications of an ample reserves regime. The regime can lead to political concerns about the remuneration of reserves, a shorter debt maturity profile, and potential central bank financial losses during periods of rising interest rates.
+
+Go back to the content, click [here](#table-of-content).
 
 # Fiscal Dominance in Monetary Policy
 
@@ -6025,6 +6185,8 @@ Fiscal dominance often leads to higher, not lower, risk premiums, as investors d
 
 ## Conclusion
 Fiscal dominance refers to a situation where fiscal pressures influence monetary policy decisions, often leading to aversion to raising interest rates due to fiscal constraints and a tolerance for inflation to reduce debt burdens. Therefore, the correct options are **B** and **F**.
+
+Go back to the content, click [here](#table-of-content).
 
 # Speculative Attack on a Fixed Exchange Rate Regime
 
@@ -6092,6 +6254,8 @@ The central bank’s defense actions during the speculative attack first cause t
 ## Conclusion
 The correct answers (B, E, F) reflect the dynamics of a central bank’s defense of a fixed exchange rate during a speculative attack. The IS curve shifts left due to declining domestic demand, while the UIP curve shifts up due to devaluation expectations. To stabilize the exchange rate, the central bank raises interest rates, resulting in movement along the shifted IS curve as the economy adjusts to higher borrowing costs.
 
+Go back to the content, click [here](#table-of-content).
+
 # Macroeconomic Effects of Abandoning a Currency Peg
 
 ## Restatement of the Problem
@@ -6149,6 +6313,8 @@ While this is tempting, it is only partially correct. The **actual position alon
 ## Conclusion
 The correct statements (A, B, F) reflect the key dynamics of abandoning a currency peg. The central bank's ability to lower interest rates supports higher aggregate demand, moving the economy along the IS curve and helping to mitigate the recession.
 
+Go back to the content, click [here](#table-of-content).
+
 # Impact of Foreign Accumulation of Domestic Assets on the Current Account
 
 ## Restatement of the Problem
@@ -6195,6 +6361,8 @@ This results in a **worsening of the current account balance** (i.e., an increas
 ### Conclusion:
 The correct answer is **A**: Foreigners accumulating domestic assets contribute to an **increase in the current account deficit**.
 
+Go back to the content, click [here](#table-of-content).
+
 # Uncovered Interest Parity (UIP) and Exchange Rate Expectations
 
 ## Restatement of the Problem
@@ -6239,6 +6407,8 @@ A low interest rate in Japan relative to the U.S. suggests that markets anticipa
 
 ## Conclusion
 The statement is **False** because Uncovered Interest Parity implies that lower foreign interest rates indicate an expected future **appreciation** of the foreign currency (in this case, the yen), not a depreciation. Therefore, contrary to the claim, the yen is expected to strengthen relative to the dollar under UIP.
+
+Go back to the content, click [here](#table-of-content).
 
 # Marginal Product of Labor in an Overheated Labor Market
 
@@ -6288,6 +6458,8 @@ since the additional output from an extra worker is smaller due to inefficiencie
 
 ### **Conclusion**
 The correct answer is **False** because in an overheated labor market, the observed MPL is **lower**, not higher, than the MPL observed at equilibrium. This reflects the diminishing returns to labor when the number of workers exceeds the optimal level.
+
+Go back to the content, click [here](#table-of-content).
 
 # Ranking Countries by Expected Nominal Appreciation Against the Dollar
 
@@ -6361,6 +6533,8 @@ According to UIP, the ranking in terms of expected nominal appreciation (smalles
 3. UK
 
 The correct answer for the UK ranking is **3**.
+
+Go back to the content, click [here](#table-of-content).
 
 # Ranking Countries Based on Expected Nominal Appreciation Against the Dollar
 
@@ -6437,6 +6611,8 @@ Countries with **lower real interest rates** are expected to have weaker currenc
 
 ## **Conclusion**  
 Japan has the **highest expected nominal appreciation** against the US dollar among the three countries. Therefore, Japan is ranked **#1**.
+
+Go back to the content, click [here](#table-of-content).
 
 # Debt Stabilization and Primary Fiscal Deficit
 
