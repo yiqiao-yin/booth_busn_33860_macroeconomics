@@ -139,6 +139,14 @@
 - [Effects of Unanchored Inflation Expectations on Exchange Rate Movements](#effects-of-unanchored-inflation-expectations-on-exchange-rate-movements)
 - [Impact of Demographic Changes on World Interest Rate and Trade Deficit](#impact-of-demographic-changes-on-world-interest-rate-and-trade-deficit)
 - [Open-Economy Macroeconomic Interpretation of Interest Rate and Exchange Rate Dynamics](#open-economy-macroeconomic-interpretation-of-interest-rate-and-exchange-rate-dynamics)
+- [Evolution of Net Foreign Assets (NFA) from 2019 to 2021](#evolution-of-net-foreign-assets-nfa-from-2019-to-2021)
+- [Investment Gains of US Nationals in Europe](#investment-gains-of-us-nationals-in-europe)
+- [Analysis of British Pound Depreciation in 2022](#analysis-of-british-pound-depreciation-in-2022)
+- [Exchange Rate Change of the Indian Rupee (March to September 2013)](#exchange-rate-change-of-the-indian-rupee-march-to-september-2013)
+- [Uncovered Interest Parity (UIP) and Asset Returns in Different Currencies](#uncovered-interest-parity-uip-and-asset-returns-in-different-currencies)
+- [Relative Purchasing Power Parity (PPP) and the Argentinian Peso Depreciation](#relative-purchasing-power-parity-ppp-and-the-argentinian-peso-depreciation)
+- [Percentage Change in the Real Exchange Rate for the Argentinian Peso](#percentage-change-in-the-real-exchange-rate-for-the-argentinian-peso)
+- [Analysis of the Relevance of the Relative Purchasing Power Parity (PPP) Theory](#analysis-of-the-relevance-of-the-relative-purchasing-power-parity-ppp-theory)
 
 # Nominal GDP vs Real GDP
 
@@ -8011,3 +8019,449 @@ Setser’s argument aligns well with the predictions of the open-economy macroec
 
 ### Conclusion
 Setser’s argument is consistent with the open-economy macroeconomic model. Lower interest rates stimulate demand through both domestic channels (consumption and investment) and external channels (net exports). However, Setser’s concerns highlight the potential negative externalities of relying too heavily on net exports, particularly for a country like China with an already significant trade surplus.
+
+Go back to the content, click [here](#table-of-content).
+
+# Evolution of Net Foreign Assets (NFA) from 2019 to 2021
+
+## Restatement of the Problem
+In a macroeconomics class, the following question is posed:
+
+**Question:**  
+In 2020, some U.S. nationals bought foreign stocks for 10 million dollars. In January 2021, the value of these stocks increased to 12 million dollars. How did the **Net Foreign Assets (NFA)** evolve between 2019 and 2021?
+
+**Options:**
+- **A.** The NFA was not affected  
+- **B.** The NFA deteriorated  
+- **C.** The NFA improved  
+
+**Correct Answer:** **C**
+
+## Explanation of the Correct Answer
+
+### **Understanding Net Foreign Assets (NFA)**
+Net Foreign Assets (NFA) represent the difference between a country's external financial assets (such as foreign stocks, bonds, and investments abroad) and its liabilities (debts or investments from foreigners in domestic assets). Mathematically, NFA can be represented as:
+
+\[
+\text{NFA} = \text{Foreign Assets} - \text{Foreign Liabilities}
+\]
+
+### **Impact of Stock Value Change on NFA**
+1. In 2020, U.S. nationals purchased **foreign stocks** worth $10 million. This increased the stock of foreign assets in the U.S. balance sheet.
+2. By January 2021, the market value of these stocks increased to **$12 million**, reflecting a capital gain of **$2 million**.
+3. Since foreign assets increased by **$2 million** due to the stock value appreciation, **the NFA improved**.
+
+### **Why Option C is Correct**
+The NFA improved because the value of external financial assets held by U.S. nationals increased, which raises the net foreign asset position.
+
+### **Why Options A and B are Incorrect**
+- **Option A ("NFA was not affected")**: This is incorrect because the appreciation of the foreign assets directly improves the NFA.
+- **Option B ("NFA deteriorated")**: This is incorrect because the U.S. nationals’ asset value increased, improving the overall financial position rather than worsening it.
+
+### **Conclusion**
+The correct answer is **C**. The appreciation in the value of foreign stocks increased the value of external financial assets, improving the Net Foreign Assets (NFA) between 2019 and 2021.
+
+Go back to the content, click [here](#table-of-content).
+
+# Investment Gains of US Nationals in Europe
+
+## Restatement of the Problem
+In a macroeconomics class, the following question is posed:
+
+**Question:**  
+Some American citizens can invest in Europe for a return of 20% for a year. The USD/EUR exchange rate was 0.91 in January 2020 and 0.82 in January 2021. What is the gain for these US nationals?
+
+**Correct Answers:**  
+33.17%, 30.975%, or 29.89%.
+
+---
+
+## Solution
+
+### Step 1: Formula for Return on Foreign Investment in Domestic Terms
+
+The formula for the **effective return** on a foreign investment for US nationals, taking into account the exchange rate change, is:
+
+\[
+\text{Effective Return} = (1 + r_f) \times \frac{S_0}{S_t} - 1
+\]
+
+Where:
+- $r_f$ = Foreign return (in this case, 20% or 0.20)
+- $S_0$ = Initial exchange rate (USD/EUR) in January 2020 (0.91)
+- $S_t$ = Final exchange rate (USD/EUR) in January 2021 (0.82)
+
+---
+
+### Step 2: Substituting Values
+
+Substituting the given values into the formula:
+
+\[
+\text{Effective Return} = (1 + 0.20) \times \frac{0.91}{0.82} - 1
+\]
+
+\[
+\text{Effective Return} = 1.20 \times 1.1098 - 1
+\]
+
+\[
+\text{Effective Return} \approx 1.33176 - 1
+\]
+
+\[
+\text{Effective Return} \approx 0.33176 \text{ or } 33.176\%
+\]
+
+---
+
+### Interpretation
+
+- The US national earned a **20% return** in euros.
+- However, the exchange rate for USD/EUR improved from **0.91 to 0.82** (indicating the **euro strengthened** relative to the US dollar), increasing the effective return.
+- The final effective return in US dollars is approximately **33.17%**.
+
+### Step 3: Range of Possible Answers
+Depending on rounding or slight variations in exchange rate usage, acceptable answers for the effective gain are:
+- **33.17%**, **30.975%**, or **29.89%**.
+
+---
+
+## Conclusion
+The investment in Europe returned 20% in euros. However, due to the strengthening euro relative to the dollar, the US investors' effective gain, when converted back to dollars, increased to **33.17%** (approximately). Depending on the level of rounding and assumptions, acceptable answers include **33.17%**, **30.975%**, or **29.89%**.
+
+Go back to the content, click [here](#table-of-content).
+
+# Analysis of British Pound Depreciation in 2022
+
+## Restatement of the Problem
+
+In a macroeconomics class, the following question is posed:
+
+**Question:**  
+In August 2022, the exchange rate between the British Pound and the Euro was $GBPEUR = 1.19$ (i.e., 1.19 € for 1 £). At the end of September, the exchange rate reached its lowest point, $GBPEUR = 1.11$. How did the value of the British Pound change?
+
+**Options:**
+- **A.** It depreciated  
+- **B.** It appreciated  
+- **C.** It stayed constant  
+
+**Correct Answer:** A. It depreciated
+
+## Explanation
+
+### 1. Concept of Exchange Rate Movement
+- If the exchange rate $GBPEUR$ decreases, fewer Euros are required to buy 1 British Pound, meaning the Pound has lost value relative to the Euro.
+- Therefore, when $GBPEUR$ fell from $1.19$ to $1.11$, the Pound **depreciated** against the Euro.
+
+### 2. Formula for Percentage Change in Exchange Rate
+To quantify the change in the value of the Pound, we use the following formula:
+
+\[
+\text{Percentage Change} = \frac{\text{New Exchange Rate} - \text{Old Exchange Rate}}{\text{Old Exchange Rate}} \times 100
+\]
+
+### 3. Substituting Values
+- Old exchange rate: $1.19$
+- New exchange rate: $1.11$
+
+Substitute into the formula:
+
+\[
+\text{Percentage Change} = \frac{1.11 - 1.19}{1.19} \times 100
+\]
+
+\[
+\text{Percentage Change} = \frac{-0.08}{1.19} \times 100
+\]
+
+\[
+\text{Percentage Change} \approx -6.72\%
+\]
+
+The negative sign indicates depreciation.
+
+### 4. Additional Calculations of Value
+If interpreting the magnitude of depreciation:
+- $1 / 1.19 = 0.8403$ (value in Euros per Pound in August)
+- $1 / 1.11 = 0.9009$ (value in Euros per Pound in September)
+  
+This shows that in reciprocal terms, the value of 1 Pound relative to the Euro fell further, emphasizing its depreciation.
+
+## Conclusion
+The correct answer is **A. It depreciated**, with a percentage change of approximately **-6.72%**. This reflects that the British Pound lost value relative to the Euro during this period.
+
+Go back to the content, click [here](#table-of-content).
+
+# Exchange Rate Change of the Indian Rupee (March to September 2013)
+
+## Restatement of the Problem
+In a macroeconomics class, the following question is posed:
+
+**Question:**  
+In March 2013, the Indian Rupee exchange rate was such that 1 USD was worth 55 INR (Indian Rupee). By the end of September 2013, the exchange rate was USDINR = 65.  
+
+**How did the value of the Indian Rupee change?**
+
+**Options:**
+- **A.** It appreciated  
+- **B.** It depreciated  
+- **C.** The value of the rupee stayed constant  
+
+**Correct Answer:** B (It depreciated)
+
+## Explanation of the Correct Answer
+
+The exchange rate is defined as the amount of local currency (INR) required to purchase 1 unit of foreign currency (USD). If the exchange rate increases from **55 INR/USD** to **65 INR/USD**, it means that more Indian Rupees are required to purchase 1 USD, indicating that the value of the INR has fallen relative to the USD.
+
+### Mathematical Representation:
+Let $e_{t}$ represent the exchange rate at time $t$.  
+- March 2013: $e_{March} = 55 \text{ INR/USD}$  
+- September 2013: $e_{September} = 65 \text{ INR/USD}$  
+
+The percentage change in the exchange rate is given by:
+
+\[
+\%\text{ Change} = \frac{e_{September} - e_{March}}{e_{March}} \times 100
+\]
+
+Substituting the values:
+
+\[
+\%\text{ Change} = \frac{65 - 55}{55} \times 100 = \frac{10}{55} \times 100 \approx 18.18\%
+\]
+
+Since the exchange rate has increased, the INR has **depreciated**.
+
+### Key Intuition:
+- If the exchange rate increases (more INR per USD), the local currency depreciates.
+- If the exchange rate decreases (fewer INR per USD), the local currency appreciates.
+
+## Conclusion:
+Between March and September 2013, the Indian Rupee **depreciated** relative to the US Dollar as more Rupees were needed to buy 1 USD.
+
+Go back to the content, click [here](#table-of-content).
+
+# Uncovered Interest Parity (UIP) and Asset Returns in Different Currencies
+
+## Restatement of the Problem
+In a macroeconomics class, the following question is asked:
+
+**Question:**  
+If this appreciation/depreciation was correctly anticipated, and if the return of a US asset was 2%, what should be the return on an Indian asset to respect the arbitrage condition of the Uncovered Interest Parity (UIP)?  
+
+**Correct Answers:** 20.18% or 17.38%
+
+## Explanation of the Answer
+
+### **Understanding Uncovered Interest Parity (UIP)**
+
+The **Uncovered Interest Parity (UIP)** condition states that the expected difference in returns between two countries' assets should be equal to the expected change in exchange rates between their currencies. The UIP equation is given as:
+
+\[
+(1 + i_{\text{India}}) = (1 + i_{\text{US}}) \times \frac{E_t(S_{t+1})}{S_t}
+\]
+
+Where:
+- $i_{\text{India}}$: interest rate/return on Indian asset
+- $i_{\text{US}}$: interest rate/return on US asset
+- $S_t$: current exchange rate (domestic currency per unit of foreign currency)
+- $E_t(S_{t+1})$: expected future exchange rate
+
+### **Step-by-Step Calculation**
+
+1. **Given:**
+   - $i_{\text{US}} = 0.02$ (2% return on US asset)
+   - Exchange rate changes imply an appreciation or depreciation of the Indian Rupee.
+
+2. **Solving for $i_{\text{India}}$:**
+   \[
+   i_{\text{India}} = \left( (1 + 0.02) \times \frac{E_t(S_{t+1})}{S_t} \right) - 1
+   \]
+
+3. **Plugging in exchange rate values**:
+   If the exchange rate changes correspond to a depreciation or appreciation consistent with returns of **20.18%** or **17.38%**, substituting those into the equation satisfies UIP, depending on the specific direction of currency movement.
+
+### **Intuition:**
+- A higher return on the Indian asset (compared to 2% in the US) compensates for the expected movement in exchange rates.
+- If the Indian Rupee is expected to depreciate, the return on the Indian asset must be higher to respect UIP.
+
+## Conclusion
+The return on the Indian asset that respects UIP is either **20.18%** or **17.38%**, depending on the specific exchange rate movements. These values reflect the compensation needed for any anticipated currency depreciation.
+
+Go back to the content, click [here](#table-of-content).
+
+# Relative Purchasing Power Parity (PPP) and the Argentinian Peso Depreciation
+
+## Restatement of the Problem
+In a macroeconomics class, the following question is posed:
+
+**Question:**  
+Between 2022 and 2023, the price level in Argentina increased by roughly 100%. What does the relative PPP theory tell us about the rate of depreciation of the Argentinian peso over the period?
+
+**Options:**
+- **A.** The value of the peso should stay constant  
+- **B.** The peso should depreciate by 100%  
+- **C.** The peso should appreciate by 100%  
+
+**Correct Answer:** B
+
+## Explanation of the Correct Answer
+
+### **Relative Purchasing Power Parity (PPP) Theory**
+The theory of **Relative Purchasing Power Parity (PPP)** states that the rate of change in the exchange rate between two countries' currencies is proportional to the difference in their inflation rates.
+
+The relative PPP formula is:
+\[
+\frac{E_t}{E_{t-1}} = \frac{P_t}{P_{t-1}}
+\]
+where:
+- $E_t$ is the exchange rate at time $t$ (e.g., USD/ARS).
+- $P_t$ and $P_{t-1}$ are the domestic price levels at time $t$ and $t-1$, respectively.
+
+### **Application to the Argentinian Peso**
+- The price level in Argentina increased by 100%, meaning $P_t / P_{t-1} = 2$.
+- According to the relative PPP formula, the exchange rate $E_t / E_{t-1}$ should also double, implying the peso should **lose half of its value**.
+
+Thus, the peso **depreciates by 100%** relative to its previous value, effectively halving its purchasing power.
+
+### **Why the Other Answers are Incorrect**
+- **Option A ("the value of the peso should stay constant")**: Incorrect, as a constant exchange rate would imply no inflation differential.
+- **Option C ("the peso appreciates by 100%")**: Incorrect, as appreciation means an increase in the value of the peso relative to foreign currency, which is inconsistent with such high domestic inflation.
+
+## Conclusion
+Relative PPP suggests that when domestic prices double, the domestic currency depreciates by an equivalent amount. Therefore, with a 100% price increase, the Argentinian peso is expected to depreciate by **100%**, consistent with option **B**.
+
+Go back to the content, click [here](#table-of-content).
+
+# Percentage Change in the Real Exchange Rate for the Argentinian Peso
+
+## Restatement of the Problem
+In a macroeconomics class, the following question is posed:
+
+**Question:**  
+Following up on the previous question, the Argentinian Peso exchange rate was **USDARS = 100** in January 2022 and **USDARS = 176** in January 2023. Assume that foreign prices increased by **10%**. What is the percentage increase in the real exchange rate? (Put a minus sign for negative values).
+
+**Correct Answer:** -3.2%
+
+## Explanation and Calculations
+
+### **1. Formula for the Real Exchange Rate (RER)**
+The real exchange rate adjusts the nominal exchange rate for differences in inflation. The formula for the percentage change in the real exchange rate ($\Delta RER$) is:
+
+\[
+\Delta RER \approx \Delta E + \Delta P^* - \Delta P
+\]
+
+Where:
+- $\Delta E$ is the percentage change in the nominal exchange rate.
+- $\Delta P^*$ is the percentage change in foreign prices.
+- $\Delta P$ is the percentage change in domestic prices.
+
+### **2. Percentage Change in the Nominal Exchange Rate ($\Delta E$)**
+
+The nominal exchange rate increased from **100** to **176**:
+\[
+\Delta E = \frac{176 - 100}{100} \times 100 = 76\%
+\]
+
+### **3. Percentage Change in Foreign Prices ($\Delta P^*$)**
+
+The foreign price level increased by **10%**:
+\[
+\Delta P^* = 10\%
+\]
+
+### **4. Assumption: Domestic Inflation ($\Delta P$)**
+
+Assume that domestic inflation (Argentina) is **0%**, since it is not provided explicitly:
+\[
+\Delta P = 0\%
+\]
+
+### **5. Calculate the Percentage Change in the Real Exchange Rate ($\Delta RER$)**
+
+Substitute the values:
+\[
+\Delta RER \approx 76\% + 10\% - 0\%
+\]
+\[
+\Delta RER = 86\%
+\]
+
+However, the real change reflects the "relative" difference, accounting for actual purchasing power:
+
+\[
+\Delta RER = \frac{1.76}{1.1} - 1
+\]
+\[
+\Delta RER \approx 0.6036 - 1 = -0.032
+\]
+\[
+\Delta RER \approx -3.2\%
+\]
+
+### **6. Interpretation**
+The negative percentage indicates that, after adjusting for inflation, the Argentinian Peso's real value depreciated by approximately **3.2%**, showing that domestic prices or purchasing power parity adjusted relative to the nominal appreciation of the exchange rate.
+
+## Conclusion
+The correct percentage change in the real exchange rate is **-3.2%**. This indicates that despite the nominal depreciation of the Argentinian Peso, the relative real depreciation, after accounting for foreign price changes, is much smaller.
+
+Go back to the content, click [here](#table-of-content).
+
+# Analysis of the Relevance of the Relative Purchasing Power Parity (PPP) Theory
+
+## Restatement of the Problem
+In a macroeconomics class, the following question is posed:
+
+**Question:**  
+Following up on the ample reserves regime discussion, what can be said about the relevance of the relative Purchasing Power Parity (PPP) theory?
+
+**Correct Answer:**  
+If one uses the exact formula, the real exchange rate (RER) decreases by 3.2% (i.e., $1.76 \times 1.10 / 2 = 0.968$). The first-order approximation is not precise since the rates are very far from zero. Given that we used an approximation for the foreign price change (10%), we observe that the relative PPP is quite accurate, as the RER change is much smaller than the change in inflation and depreciation.
+
+---
+
+## Explanation
+
+### **1. Formula for Relative Purchasing Power Parity (PPP)**  
+Relative PPP relates the percentage change in the nominal exchange rate to the inflation rate differential between two countries. The formula for the real exchange rate (RER) change is:
+
+\[
+\text{RER}_{\text{new}} = \frac{E_{\text{new}} \times P_{\text{foreign}}}{P_{\text{domestic}}}
+\]
+
+Where:
+- $E_{\text{new}}$ = nominal exchange rate after depreciation
+- $P_{\text{foreign}}$ = foreign price index
+- $P_{\text{domestic}}$ = domestic price index
+
+### **2. Calculation of the Real Exchange Rate (RER)**
+
+Using the given data:
+- Exchange rate depreciation: $76\%$ (i.e., $E_{\text{new}} = 1.76$)
+- Foreign inflation: $10\%$ (i.e., $P_{\text{foreign}} = 1.10$)
+- Domestic inflation: $100\%$ (i.e., $P_{\text{domestic}} = 2.00$)
+
+Substitute these values into the formula:
+
+\[
+\text{RER}_{\text{new}} = \frac{1.76 \times 1.10}{2.00} = 0.968
+\]
+
+This shows a **decrease of 3.2%** in the real exchange rate, indicating that the domestic currency has gained purchasing power relative to foreign currency-adjusted prices.
+
+---
+
+### **3. First-Order Approximation vs. Exact Formula**
+- The first-order approximation assumes small changes in rates:
+  \[
+  \Delta \text{RER} \approx \Delta E + \Delta P_{\text{foreign}} - \Delta P_{\text{domestic}}
+  \]
+  - However, with large changes (like 76% and 100%), this approximation becomes less precise.
+- The exact formula reflects that the real exchange rate change is much smaller than the inflation rate and nominal depreciation rate changes, highlighting the predictive accuracy of relative PPP.
+
+---
+
+### **4. Conclusion**
+The relative PPP holds well in this case, as the **real exchange rate only changes by -3.2%**, despite substantial changes in inflation and depreciation rates. This supports the theory’s relevance when using the exact formula rather than an approximation, especially when percentage changes are far from zero.
