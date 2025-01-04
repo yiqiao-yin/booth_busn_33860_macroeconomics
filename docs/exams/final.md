@@ -2470,7 +2470,7 @@ An increase in GDP ($Y$) leads to:
 1. **Higher Demand for Transactions**: More goods and services are produced and purchased, requiring more money to facilitate these transactions.
 2. **Rightward Shift in Money Demand Curve**: As demand for money rises due to increased transactions, the demand curve shifts to the right.
 
-Since the **money supply (M^s)** is fixed, this rightward shift in the demand for money causes an **increase in the equilibrium interest rate**. The higher interest rate equilibrates the market by increasing the cost of holding money, encouraging people to hold less cash despite higher transaction needs.
+Since the **money supply ($M^s$)** is fixed, this rightward shift in the demand for money causes an **increase in the equilibrium interest rate**. The higher interest rate equilibrates the market by increasing the cost of holding money, encouraging people to hold less cash despite higher transaction needs.
 
 ### Answer
 
