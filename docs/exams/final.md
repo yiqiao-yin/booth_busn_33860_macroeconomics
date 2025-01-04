@@ -1013,7 +1013,7 @@ Go back to the content, click [here](#table-of-content).
 
 ## Problem Restatement
 
-In the neoclassical model of the labor market, an increase in the stock of capital $K$ is expected to influence real wages, employment, and the marginal productivity of labor (MPL). Considering the Cobb-Douglas production function, we explore how an increase in $K$ affects the demand for labor, shifts in the MPL curve, real wages, and employment levels. Additionally, the professor’s notes state that 1) MPL shifts right, and 2) both the equilibrium employment level $N^*$ and real wages $W/P$ increase, offering clues on how capital stock influences labor market dynamics.
+In the neoclassical model of the labor market, an increase in the stock of capital $K$ is expected to influence real wages, employment, and the marginal productivity of labor (MPL). Considering the Cobb-Douglas production function, we explore how an increase in $K$ affects the demand for labor, shifts in the MPL curve, real wages, and employment levels. Additionally, the professor’s notes state that 1) MPL shifts right, and 2) both the equilibrium employment level $N^{*}$ and real wages $W/P$ increase, offering clues on how capital stock influences labor market dynamics.
 
 ## Analysis
 
@@ -1047,20 +1047,20 @@ An increase in $K$ has several implications for the labor market:
 
 - **Shift in the MPL Curve**: With a higher $K$, the MPL increases at each level of labor $N$. This increase in MPL shifts the demand curve for labor (often represented by the MPL curve) to the right.
 - **Effect on Real Wages ($W/P$)**: Since firms pay wages based on the productivity of labor, an increase in MPL leads to higher real wages. Real wages $W/P$ are tied to MPL, so as MPL shifts right, real wages rise, aligning with the professor’s note that $W/P$ increases.
-- **Effect on Employment ($N^*$)**: The rise in MPL and real wages incentivizes firms to hire more labor, thus increasing the equilibrium employment level $N^\*$. The increased demand for labor raises the quantity of labor employed until the new equilibrium $N^\*$ is reached.
+- **Effect on Employment ($N^{*}$)**: The rise in MPL and real wages incentivizes firms to hire more labor, thus increasing the equilibrium employment level $N^\*$. The increased demand for labor raises the quantity of labor employed until the new equilibrium $N^\*$ is reached.
 
 ### 3. Interpretation of Professor’s Notes
 
 The professor’s notes indicate:
 1. **MPL shifts right**: This means that with an increase in capital $K$, each unit of labor is now more productive, shifting the labor demand curve to the right. This shift reflects the increased productivity that capital provides to workers.
-2. **$N^*$ and $W/P$ increase**: Here, $N^\*$ represents the equilibrium level of employment, and $W/P$ represents real wages. The increase in $N^\*$ suggests that higher capital stock prompts firms to employ more workers, while the increase in $W/P$ indicates that workers benefit from higher real wages due to enhanced productivity.
+2. **$N^{*}$ and $W/P$ increase**: Here, $N^\*$ represents the equilibrium level of employment, and $W/P$ represents real wages. The increase in $N^\*$ suggests that higher capital stock prompts firms to employ more workers, while the increase in $W/P$ indicates that workers benefit from higher real wages due to enhanced productivity.
 
 ### Summary
 
 In the neoclassical labor market model, an increase in capital stock $K$ leads to:
 - A rightward shift in the MPL curve, signaling increased productivity for each unit of labor.
 - Higher real wages $W/P$, as firms pay workers based on their marginal productivity.
-- Increased equilibrium employment level $N^*$, as firms demand more labor due to enhanced productivity.
+- Increased equilibrium employment level $N^{*}$, as firms demand more labor due to enhanced productivity.
 
 This understanding is essential in macroeconomics as it demonstrates how capital investment can drive both wage growth and employment, improving the overall economic well-being.
 
@@ -1073,7 +1073,7 @@ In the neoclassical labor market model, an increase in the stock of capital $K$ 
 
 - **A shift in the Marginal Product of Labor (MPL) Curve**: A higher stock of capital $K$ increases MPL at every labor level $N$, shifting the demand curve for labor to the right.
 - **Increased Real Wages ($W/P$)**: Since wages are based on labor productivity, an increase in MPL leads to higher real wages $W/P$.
-- **Higher Employment ($N^*$)**: As real wages increase due to higher MPL, firms hire more labor, raising the equilibrium employment level $N^*$.
+- **Higher Employment ($N^{*}$)**: As real wages increase due to higher MPL, firms hire more labor, raising the equilibrium employment level $N^{*}$.
 
 Suppose we assume the above effects are correct. If this is the case, under what condition could these effects be reversed? Given the options below, choose the most plausible answer and explain the reasoning.
 
@@ -1091,7 +1091,7 @@ In the long run, the effects of an increase in the stock of capital $K$ on the l
 
 2. **Real Wages ($W/P$)**: In the short run, the increase in MPL due to higher capital raises real wages as firms compete for labor. In the long run, however, with full adjustments in capital and labor, the labor market might reach a new equilibrium where real wages stabilize. Additionally, adjustments in labor supply and increased labor force participation could counterbalance wage increases, resulting in smaller wage changes than initially observed.
 
-3. **Employment Level ($N^*$)**: With long-run adjustments, firms may reach a level where the additional capital no longer increases labor demand at the same rate as in the short run. Equilibrium employment ($N^*$) could stabilize or even decline if capital becomes more productive independently, reducing the need for labor. Thus, the long-run equilibrium effect on $N^*$ may not align with the short-run increase observed when capital initially rises.
+3. **Employment Level ($N^{*}$)**: With long-run adjustments, firms may reach a level where the additional capital no longer increases labor demand at the same rate as in the short run. Equilibrium employment ($N^{*}$) could stabilize or even decline if capital becomes more productive independently, reducing the need for labor. Thus, the long-run equilibrium effect on $N^{*}$ may not align with the short-run increase observed when capital initially rises.
 
 ## Analysis
 
@@ -1101,7 +1101,7 @@ In the neoclassical model, labor and capital are typically considered complement
 
 - A **leftward shift** in the MPL curve as the need for labor diminishes.
 - A **decrease in real wages** $W/P$.
-- A **reduction in equilibrium employment** $N^*$.
+- A **reduction in equilibrium employment** $N^{*}$.
 
 ### B. Labor Market Model with Imperfect Competition
 
@@ -1109,7 +1109,7 @@ In a labor market with **imperfect competition**, firms may possess some market 
 
 - Firms may set wages below the MPL to maximize profits.
 - An increase in $K$ could lead to **smaller increases in real wages** $W/P$, as firms exert their power to contain wage growth.
-- **Employment levels ($N^*$) may not increase** as much as in a perfectly competitive market, due to wage-setting frictions and potentially lower labor demand.
+- **Employment levels ($N^{*}$) may not increase** as much as in a perfectly competitive market, due to wage-setting frictions and potentially lower labor demand.
 
 ### C. Long-Run Versus Short-Run Analysis
 
@@ -1117,7 +1117,7 @@ In the **long run**, capital and labor adjustments are more flexible, and firms 
 
 - In the long run, the economy can reach a new equilibrium where **both capital and labor inputs are optimized**.
 - Real wages $W/P$ may stabilize as labor productivity increases due to technology and capital improvements.
-- **Employment $N^*$ might not increase** significantly if technological advancements reduce the reliance on labor.
+- **Employment $N^{*}$ might not increase** significantly if technological advancements reduce the reliance on labor.
 
 ### Conclusion
 
@@ -1131,7 +1131,7 @@ If we represent the production function as $Y = F(K, N)$, where $Y$ is output, $
    
 2. **Real Wage**: $W/P = \text{MPL}$
 
-In the neoclassical case with complements, an increase in $K$ leads to an increase in $\frac{\partial Y}{\partial N}$, raising both $W/P$ and $N^*$. This changes, however, under different assumptions.
+In the neoclassical case with complements, an increase in $K$ leads to an increase in $\frac{\partial Y}{\partial N}$, raising both $W/P$ and $N^{*}$. This changes, however, under different assumptions.
 
 ## Mathematical Representation
 
@@ -1141,7 +1141,7 @@ If we represent the production function as $Y = F(K, N)$, where $Y$ is output, $
    
 2. **Real Wage**: $W/P = \text{MPL}$
 
-In the neoclassical case with complements, an increase in $K$ leads to an increase in $\frac{\partial Y}{\partial N}$, raising both $W/P$ and $N^*$. This changes, however, under different assumptions.
+In the neoclassical case with complements, an increase in $K$ leads to an increase in $\frac{\partial Y}{\partial N}$, raising both $W/P$ and $N^{*}$. This changes, however, under different assumptions.
 
 Go back to the content, click [here](#table-of-content).
 
@@ -3026,15 +3026,15 @@ This combination of **higher inflation** and **lower output** represents a **lef
 
 In a **demand-supply framework**, a negative supply shock can be represented by the following equations:
 
-- **Aggregate Supply (AS) Shift:** $ P = P_e + \lambda (Y - Y^*) $  
+- **Aggregate Supply (AS) Shift:** $ P = P_e + \lambda (Y - Y^{*}) $  
   Where:
   - $P$: Actual inflation
   - $P_e$: Expected inflation
   - $\lambda$: Slope of the supply curve
   - $Y$: Actual output
-  - $Y^*$: Full-employment output (potential GDP)
+  - $Y^{*}$: Full-employment output (potential GDP)
 
-A **negative supply shock** shifts $Y^*$ lower (potential output falls), causing **higher inflation for any given level of $Y$**.
+A **negative supply shock** shifts $Y^{*}$ lower (potential output falls), causing **higher inflation for any given level of $Y$**.
 
 ---
 
@@ -3063,30 +3063,30 @@ The correct answer is **C: The real neutral rate of interest plus the target inf
 The **Taylor Rule** is an equation used to determine the appropriate nominal interest rate based on inflation and the output gap. The nominal interest rate ($i_t$) is given by:
 
 $$
-i_t = r^{*} + \pi_t + \phi(\pi_t - \pi^*) + \theta(y_t - y^*)
+i_t = r^{*} + \pi_t + \phi(\pi_t - \pi^{*}) + \theta(y_t - y^{*})
 $$
 
 Where:
 - $r^{*}$: Real neutral rate of interest (also known as the "natural rate of interest")
 - $\pi_t$: Current inflation rate
-- $\pi^*$: Target inflation rate
-- $y_t - y^*$: Output gap (difference between actual and potential output)
+- $\pi^{*}$: Target inflation rate
+- $y_t - y^{*}$: Output gap (difference between actual and potential output)
 - $\phi$: Weight assigned to the inflation gap
 - $\theta$: Weight assigned to the output gap
 
 ### Condition in the Problem
 
 The question specifies that:
-1. Inflation is at its target, i.e., $\pi_t = \pi^*$.
-2. The output gap is zero, i.e., $y_t - y^* = 0$.
+1. Inflation is at its target, i.e., $\pi_t = \pi^{*}$.
+2. The output gap is zero, i.e., $y_t - y^{*} = 0$.
 
 Under these conditions, the formula simplifies to:
 
 $$
-i_t = r^{*} + \pi^*
+i_t = r^{*} + \pi^{*}
 $$
 
-This shows that the **nominal interest rate** equals the sum of the real neutral rate of interest ($r^{*}$) and the target inflation rate ($\pi^*$).
+This shows that the **nominal interest rate** equals the sum of the real neutral rate of interest ($r^{*}$) and the target inflation rate ($\pi^{*}$).
 
 ### Conclusion
 
@@ -3159,13 +3159,13 @@ This shift in inflation expectations causes the **short-run Phillips Curve (SRPC
 ### Step-by-Step Analysis:
 1. **Original Equation of the Phillips Curve**:
    $$
-   \pi = \pi_e - \beta (u - u^*)
+   \pi = \pi_e - \beta (u - u^{*})
    $$
    Where:
    - $\pi$ = actual inflation
    - $\pi_e$ = expected inflation
    - $u$ = unemployment rate
-   - $u^*$ = natural rate of unemployment
+   - $u^{*}$ = natural rate of unemployment
    - $\beta$ = sensitivity of inflation to changes in unemployment
 
 2. **Impact of Increased Inflation Expectations** ($\pi_e$ rises):
@@ -3549,7 +3549,7 @@ Go back to the content, click [here](#table-of-content).
 
 Consider the following macroeconomics question:
 
-The dollar-yen exchange rate $E_{y/\$}$ (denoted as USDJPY) is 100 today and is expected to increase to 103 in a year. The annual interest rate in yen is 3%, and the annual interest rate in dollars is 1%. A risk-neutral investor must decide between two options:
+The dollar-yen exchange rate $E_{y/\text{\$}}$ (denoted as USDJPY) is 100 today and is expected to increase to 103 in a year. The annual interest rate in yen is 3%, and the annual interest rate in dollars is 1%. A risk-neutral investor must decide between two options:
 
 A. Borrow in yen to invest in dollars.  
 B. Borrow in dollars to invest in yen.
@@ -3706,20 +3706,20 @@ C. UIP Curve Shifts Down
 The Uncovered Interest Parity (UIP) condition can be represented as:
 
 $$
-i = i^* + \frac{\mathbb{E}[E_t] - E_t}{E_t}
+i = i^{*} + \frac{\mathbb{E}[E_t] - E_t}{E_t}
 $$
 
 Where:
 - $i$ is the domestic interest rate.
-- $i^*$ is the foreign interest rate.
+- $i^{*}$ is the foreign interest rate.
 - $\mathbb{E}[E_t]$ is the expected future exchange rate.
 - $E_t$ is the current exchange rate.
 
 The UIP condition implies that the return on domestic assets (adjusted for expected changes in the exchange rate) must equal the return on foreign assets.
 
 ### **Effect of a Foreign Interest Rate Increase:**
-When the foreign Central Bank increases $i^*$:
-1. The term $i^*$ increases, so for parity to hold, the domestic interest rate $i$ must also **increase** at the same exchange rate $E_t$.
+When the foreign Central Bank increases $i^{*}$:
+1. The term $i^{*}$ increases, so for parity to hold, the domestic interest rate $i$ must also **increase** at the same exchange rate $E_t$.
 2. In the $i$ (Y-axis) and $E$ (X-axis) space, a higher $i$ for the same $E$ shifts the entire curve **upward**.
 
 ### **Conclusion:**
@@ -3781,7 +3781,9 @@ We are given the following values:
 The goal is to find the **primary deficit-to-GDP ratio** $\frac{G - T}{Y}$ that stabilizes the debt-to-GDP ratio at $0.5$.
 
 ### Hint:
-The problem requires maintaining a primary surplus (i.e., a negative primary deficit), as public debt tends to grow at a faster rate if $r > g$.
+The problem requires maintaining a primary surplus (i.e., a negative primary deficit), as public debt tends to grow at a faster rate if 
+
+$$r > g$$
 
 ## Solution
 
@@ -4185,7 +4187,7 @@ Where:
 - $\pi_t^e$ = Expected inflation at time $t$
 - $u_t$ = Unemployment rate at time $t$
 - $u_n$ = Natural rate of unemployment
-- $\alpha > 0$ = Sensitivity of inflation to the unemployment gap
+- $\alpha$ = Sensitivity of inflation to the unemployment gap, usually a positive number
 
 In cases where **expectations are unanchored** and $\pi_t^e$ is high, a large increase in unemployment (recession) is needed to reduce actual inflation $\pi_t$ back to the target.
 
@@ -4255,8 +4257,8 @@ Go back to the content, click [here](#table-of-content).
 ## Problem Statement
 
 In a macroeconomics framework, consider an economy where:
-- Output starts at its natural level ($Y = Y^*$).
-- Inflation is at the central bank's target ($\pi = \pi^*$).
+- Output starts at its natural level ($Y = Y^{*}$).
+- Inflation is at the central bank's target ($\pi = \pi^{*}$).
 
 The economy experiences a **positive demand shock** (e.g., an increase in government spending). We seek to analyze the effects of this shock on **output** and **inflation**. The potential answer choices for the outcome are:
 
@@ -4270,27 +4272,27 @@ D. Output will increase above potential, and inflation will go above target
 ### 1. **Initial Conditions**
    - The **Phillips curve** shows the relationship between output gaps and inflation:
      $$
-     \pi_t = \pi_{t-1} + \beta (Y_t - Y^*) + \epsilon_t
+     \pi_t = \pi_{t-1} + \beta (Y_t - Y^{*}) + \epsilon_t
      $$
      where:
      - $\pi_t$: inflation at time $t$
      - $\pi_{t-1}$: previous inflation
      - $Y_t$: current output
-     - $Y^*$: potential/natural level of output
+     - $Y^{*}$: potential/natural level of output
      - $\beta$: sensitivity of inflation to output gaps
      - $\epsilon_t$: shocks to inflation (assumed zero here)
 
    - At equilibrium:
      $$
-     Y_t = Y^* \quad \text{and} \quad \pi_t = \pi^*
+     Y_t = Y^{*} \quad \text{and} \quad \pi_t = \pi^{*}
      $$
 
 ### 2. **Effect of a Positive Demand Shock**
    - A positive demand shock, such as increased government spending, shifts the **aggregate demand curve** outward.
-   - In the short run, this results in **higher output** ($Y_t > Y^*$) because firms increase production to meet higher demand.
+   - In the short run, this results in **higher output** ($Y_t > Y^{*}$) because firms increase production to meet higher demand.
    - According to the Phillips curve, when output exceeds its potential, inflation rises:
      $$
-     \pi_t > \pi^*
+     \pi_t > \pi^{*}
      $$
 
 ### 3. **Outcome**
@@ -4323,14 +4325,14 @@ The statement that there is always a stable tradeoff between unemployment and in
    - This suggests that as inflation increases, unemployment decreases, and vice versa.
 
 2. **Long-Run Phillips Curve (LRPC)**:
-   - According to Milton Friedman and Edmund Phelps, the long-run Phillips Curve is **vertical** at the **natural rate of unemployment** ($u^*$). This implies that:
+   - According to Milton Friedman and Edmund Phelps, the long-run Phillips Curve is **vertical** at the **natural rate of unemployment** ($u^{*}$). This implies that:
      $$
-     \pi = \pi_e + \beta (u^* - u)
+     \pi = \pi_e + \beta (u^{*} - u)
      $$
      where:
      - $\pi$: actual inflation
      - $\pi_e$: expected inflation
-     - $u^*$: natural rate of unemployment
+     - $u^{*}$: natural rate of unemployment
      - $u$: actual unemployment rate
      - $\beta$: sensitivity of unemployment to inflation
 
@@ -4346,11 +4348,11 @@ The statement is **false** because the Phillips Curve tradeoff is not always sta
 ## Summary of Key Formulas:
 - Short-run Phillips Curve:
   $$
-  \pi = \pi_e - \beta (u - u^*)
+  \pi = \pi_e - \beta (u - u^{*})
   $$
 - Long-run Phillips Curve:
   $$
-  u = u^*
+  u = u^{*}
   $$
 
 In the long run, inflation depends on expectations and monetary policy, not on unemployment.
@@ -5019,7 +5021,7 @@ $$
 
 ### Interpretation:
 - When the government is **in debt** ($B > 0$), the interest payments $(i \times B)$ are **positive**, making the total deficit larger than the primary deficit.
-- Therefore, for any government that has outstanding debt ($B > 0$), the **total deficit** will always exceed the **primary deficit** unless the interest rate is zero (which is unrealistic in most cases).
+- Therefore, for any government that has outstanding debt ($B {>} 0$), the **total deficit** will always exceed the **primary deficit** unless the interest rate is zero (which is unrealistic in most cases).
 
 ### Conclusion:
 Since the total deficit includes interest payments and the primary deficit does not, the **total deficit** is always larger when the government has outstanding debt.
@@ -5154,11 +5156,11 @@ When the central bank lowers the nominal interest rate ($i$), it creates downwar
 
 Mathematically, the interest parity condition in an open economy can be expressed as:
 $$
-i = i^* + \frac{E_e - E}{E}
+i = i^{*} + \frac{E_e - E}{E}
 $$
 where:
 - $i$ = domestic interest rate
-- $i^*$ = foreign interest rate
+- $i^{*}$ = foreign interest rate
 - $E_e$ = expected future exchange rate
 - $E$ = current exchange rate
 
@@ -5231,10 +5233,10 @@ From a macroeconomic perspective, introducing a tariff can cause an increase in 
 This relationship is reflected in the equation for the **exchange rate ($E$):**  
 
 $$
-E = \frac{P^*}{P} \times \text{real exchange rate}
+E = \frac{P^{*}}{P} \times \text{real exchange rate}
 $$  
 
-where $P^*$ represents the foreign price level, and $P$ represents the domestic price level. A higher real exchange rate can appreciate the nominal exchange rate $E$.
+where $P^{*}$ represents the foreign price level, and $P$ represents the domestic price level. A higher real exchange rate can appreciate the nominal exchange rate $E$.
 
 ### 4. **Conclusion**  
 The introduction of a tariff tends to lead to an **appreciation of the domestic currency**.
@@ -5250,7 +5252,7 @@ Go back to the content, click [here](#table-of-content).
 Consider the Macro Model discussed in class that incorporates inflation and the Central Bank response, as seen in Lecture 6 (closed economy). 
 
 The initial situation is an economy where:
-- **Output is at its potential** ($y = y^*$)
+- **Output is at its potential** ($y = y^{*}$)
 - **Inflation is at the Central Bank's target**
 
 A **fiscal consolidation** (a negative shock to government spending $G$) occurs. The task is to identify which of the following statements are consistent with the effects of fiscal consolidation. Choose all that apply:
@@ -5319,9 +5321,9 @@ $$
 ### Phillips Curve:
 The Phillips Curve shows the relationship between inflation $\pi$ and the output gap:
 $$
-\pi = \pi_e + \alpha (Y - Y^*)
+\pi = \pi_e + \alpha (Y - Y^{*})
 $$
-- When $Y < Y^*$ (i.e., output falls below potential), inflation decreases.
+- When $Y < Y^{*}$ (i.e., output falls below potential), inflation decreases.
 
 ---
 
@@ -5413,13 +5415,13 @@ To restore output and bring inflation back to target, the Central Bank typically
    #### Mathematical Representation:
    The relationship between inflation and output gap can be represented by:
    $$
-   \pi_t = \pi_{t-1} + \alpha (Y_t - Y^*)
+   \pi_t = \pi_{t-1} + \alpha (Y_t - Y^{*})
    $$
    Where:
    - $\pi_t$ is the current inflation rate.
    - $\pi_{t-1}$ is the previous period's inflation rate.
    - $Y_t$ is actual GDP.
-   - $Y^*$ is potential GDP.
+   - $Y^{*}$ is potential GDP.
    - $\alpha$ represents how strongly inflation responds to the output gap.
 
 ---
@@ -5468,7 +5470,7 @@ Go back to the content, click [here](#table-of-content).
 ## Problem Statement
 
 In the macroeconomic model discussed in class (closed economy) that incorporates inflation and the Central Bank response, the initial conditions are as follows:
-- Output is at its potential level ($y = y^*$).
+- Output is at its potential level ($y = y^{*}$).
 - Inflation is at the Central Bank's target.
 
 The task is to identify the statements that are consistent with a **positive supply shock**. The following statements are provided:
@@ -5487,7 +5489,7 @@ A **positive supply shock** is an event that improves the productive capacity of
 ### Key Characteristics of a Positive Supply Shock:
 1. **Inflationary Pressure Decreases**: Since the cost of producing goods decreases, prices grow at a slower rate or may even decrease, leading to **inflation below the Central Bank’s target**. This is consistent with **statement C**.
 2. **Shift of the Phillips Curve**: The Phillips Curve, which shows the trade-off between inflation and unemployment, shifts **rightward** (or downward) due to lower inflation at every level of unemployment. Hence, **statement E** is correct.
-3. **Potential Output Increases**: A supply shock that improves productivity raises the economy’s potential output ($y^*$), consistent with **statement F**.
+3. **Potential Output Increases**: A supply shock that improves productivity raises the economy’s potential output ($y^{*}$), consistent with **statement F**.
 
 ### Evaluation of the Statements:
 - **A. Before the Central Bank Reacts, inflation is above target**:  
@@ -5779,14 +5781,14 @@ The correct answer is **True**.
 ### Mathematical Representation:
 A simple way to represent this tradeoff is using the **Phillips Curve**, which shows the relationship between inflation $\pi$ and unemployment $u$:
 $$
-\pi_t = \pi_{t-1} - \beta (u_t - u^*)
+\pi_t = \pi_{t-1} - \beta (u_t - u^{*})
 $$
 Where:
 - $\pi_t$ is the inflation rate at time $t$.
 - $\pi_{t-1}$ is the previous period’s inflation.
 - $\beta$ is a positive constant.
 - $u_t$ is the unemployment rate at time $t$.
-- $u^*$ is the natural rate of unemployment.
+- $u^{*}$ is the natural rate of unemployment.
 
 For supply shocks, inflation rises despite potentially rising unemployment. This makes it difficult for central banks to stabilize both inflation and output simultaneously.
 
@@ -5838,14 +5840,14 @@ The primary goals of a central bank are:
   The central bank must manage inflation expectations to avoid a long-term shift in aggregate demand. Inflation expectations $\pi_e$ affect future inflation:
   
   $$
-  \pi_t = \pi_e + \lambda (Y_t - Y^*) + \epsilon_t
+  \pi_t = \pi_e + \lambda (Y_t - Y^{*}) + \epsilon_t
   $$
 
   Where:
   - $\pi_t$: Current inflation rate
   - $\pi_e$: Expected inflation rate
   - $Y_t$: Actual output
-  - $Y^*$: Potential output
+  - $Y^{*}$: Potential output
   - $\epsilon_t$: Supply shock factor
 
   If the central bank ignores inflation caused by a supply shock, expected inflation $\pi_e$ rises, potentially requiring **even higher interest rate hikes** later to restore stability.
@@ -5855,14 +5857,14 @@ The primary goals of a central bank are:
   The Taylor Rule guides how the central bank adjusts interest rates in response to inflation and output gaps:
 
   $$
-  i_t = r^{*} + \pi_t + \alpha (\pi_t - \pi^*) + \beta (Y_t - Y^*)
+  i_t = r^{*} + \pi_t + \alpha (\pi_t - \pi^{*}) + \beta (Y_t - Y^{*})
   $$
 
   Where:
   - $i_t$: Nominal interest rate
   - $r^{*}$: Real neutral interest rate
-  - $\pi_t - \pi^*$: Inflation gap
-  - $Y_t - Y^*$: Output gap
+  - $\pi_t - \pi^{*}$: Inflation gap
+  - $Y_t - Y^{*}$: Output gap
   - $\alpha$, $\beta$: Policy weights
 
   If inflation rises due to a supply shock, the central bank may need to raise rates moderately to prevent expectations from spiraling out of control.
@@ -5954,19 +5956,19 @@ The key points of this scenario include:
 Mathematically, the **Phillips Curve** can be represented as:
 
 $$
-\pi_t = \pi_t^e + \alpha (u^* - u_t)
+\pi_t = \pi_t^e + \alpha (u^{*} - u_t)
 $$
 
 Where:
 - $\pi_t$ is the inflation rate at time $t$.
 - $\pi_t^e$ is the expected inflation rate at time $t$.
-- $u^*$ is the natural rate of unemployment.
+- $u^{*}$ is the natural rate of unemployment.
 - $u_t$ is the actual unemployment rate.
 - $\alpha$ is a positive constant indicating the sensitivity of inflation to changes in unemployment.
 
 ### Analysis:
-- **If $u_t < u^*$:** The labor market is "overheated," leading to higher wage growth and inflation.
-- **If expectations are anchored ($\pi_t^e$ remains constant):** Even if inflation expectations are steady, as long as the labor market remains tight ($u_t < u^*$), inflationary pressures will persist.
+- **If $u_t < u^{*}$:** The labor market is "overheated," leading to higher wage growth and inflation.
+- **If expectations are anchored ($\pi_t^e$ remains constant):** Even if inflation expectations are steady, as long as the labor market remains tight ($u_t < u^{*}$), inflationary pressures will persist.
 
 ### Conclusion:
 The correct answer is **True**. Inflation pressures above the central bank's target will persist if the labor market remains overheated, regardless of anchored inflation expectations.
@@ -6260,11 +6262,11 @@ A speculative attack often results in a loss of investor confidence, reducing do
 ### **E. The UIP Curve Shifts Up in the Currency Market Graph**
 The uncovered interest parity (UIP) condition is given by:
 $$
-i_t = i_t^* + \frac{E(e_{t+1}) - e_t}{e_t}
+i_t = i_t^{*} + \frac{E(e_{t+1}) - e_t}{e_t}
 $$
 Where:
 - $i_t$: domestic interest rate
-- $i_t^*$: foreign interest rate
+- $i_t^{*}$: foreign interest rate
 - $E(e_{t+1})$: expected future exchange rate
 - $e_t$: current exchange rate
 
@@ -6338,7 +6340,7 @@ This is inconsistent with the ability to lower interest rates. Lowering rates sh
 ### **D. The UIP curve shifts down in the currency market graph**  
 The uncovered interest parity (UIP) condition relates domestic and foreign interest rates and the expected future exchange rate:
 $$
-i_t - i_t^* = \frac{E_t(S_{t+1}) - S_t}{S_t}
+i_t - i_t^{*} = \frac{E_t(S_{t+1}) - S_t}{S_t}
 $$
 Abandoning the peg and lowering domestic rates relative to foreign rates typically results in the **UIP curve shifting up** due to expected depreciation.
 
@@ -6459,7 +6461,7 @@ In a macroeconomics class, the following question is posed:
 Consider the labor market model with market power, which we used to introduce inflation dynamics.
 
 **Statement:**  
-In an overheated labor market, the observed Marginal Product of Labor (MPL) is higher than the one that would be observed in a market in equilibrium (where $N = N^*$).
+In an overheated labor market, the observed Marginal Product of Labor (MPL) is higher than the one that would be observed in a market in equilibrium (where $N = N^{*}$).
 
 **True or False?**  
 **Correct Answer:** False
@@ -6469,7 +6471,7 @@ In an overheated labor market, the observed Marginal Product of Labor (MPL) is h
 ### **Labor Market Dynamics with Market Power**
 In labor market models that incorporate market power:
 - Firms choose employment levels ($N$) such that the **marginal cost of labor** equals the **marginal revenue product of labor**.
-- When the labor market is "overheated" (i.e., labor demand exceeds the equilibrium level $N^*$), wages tend to rise due to competition for scarce labor, but this does not necessarily imply an increase in the **Marginal Product of Labor (MPL)**.
+- When the labor market is "overheated" (i.e., labor demand exceeds the equilibrium level $N^{*}$), wages tend to rise due to competition for scarce labor, but this does not necessarily imply an increase in the **Marginal Product of Labor (MPL)**.
 
 ### **Key Concept: Marginal Product of Labor (MPL)**
 The Marginal Product of Labor (MPL) is defined as:
@@ -6481,18 +6483,18 @@ where:
 - $N$ is the level of employment.
 
 ### **Why is the Statement False?**
-1. In equilibrium, employment is at its optimal level $N^*$, and the MPL is maximized relative to wages.
-2. In an overheated labor market, firms may hire more workers than the efficient level $N^*$, causing diminishing returns due to overcrowding or inefficiency.
+1. In equilibrium, employment is at its optimal level $N^{*}$, and the MPL is maximized relative to wages.
+2. In an overheated labor market, firms may hire more workers than the efficient level $N^{*}$, causing diminishing returns due to overcrowding or inefficiency.
 3. According to the **law of diminishing marginal returns**, adding more workers when capital is fixed reduces the additional output per worker, thus **reducing** the observed MPL compared to the equilibrium level.
 
 ### **Mathematical Intuition**
 In an overheated market:
 $$
-N > N^*
+N > N^{*}
 $$
 This leads to:
 $$
-MPL(N) < MPL(N^*)
+MPL(N) < MPL(N^{*})
 $$
 since the additional output from an extra worker is smaller due to inefficiencies.
 
@@ -6770,17 +6772,17 @@ If a country has a pegged exchange rate and inflation in the country runs higher
 ### Key Concept: Real Exchange Rate (RER)
 The **real exchange rate (RER)** is defined as:
 $$
-RER = \frac{E \times P}{P^*}
+RER = \frac{E \times P}{P^{*}}
 $$
 where:
 - $E$ is the nominal exchange rate (domestic currency per unit of foreign currency)
 - $P$ is the domestic price level
-- $P^*$ is the foreign price level
+- $P^{*}$ is the foreign price level
 
 In a **pegged exchange rate regime**, the nominal exchange rate $E$ is fixed by the central bank, meaning it does not adjust to offset inflationary pressures.
 
 ### Analysis:
-If domestic inflation ($P$) rises while the foreign price level ($P^*$) remains relatively stable, the numerator ($P$) in the real exchange rate formula increases. Since the nominal exchange rate $E$ is constant, the real exchange rate $RER$ rises, indicating an **appreciation** in the real exchange rate.
+If domestic inflation ($P$) rises while the foreign price level ($P^{*}$) remains relatively stable, the numerator ($P$) in the real exchange rate formula increases. Since the nominal exchange rate $E$ is constant, the real exchange rate $RER$ rises, indicating an **appreciation** in the real exchange rate.
 
 ### Intuition:
 An increase in domestic prices relative to foreign prices makes domestic goods and services more expensive relative to foreign goods, leading to a stronger real exchange rate.
@@ -6955,12 +6957,12 @@ Following up on the previous question, think of the UK as the home country. In o
 The Uncovered Interest Parity (UIP) condition states that:
 
 $$
-i_t - i_t^* = \frac{E_{t+1}^e - E_t}{E_t}
+i_t - i_t^{*} = \frac{E_{t+1}^e - E_t}{E_t}
 $$
 
 Where:
 - $i_t$ is the domestic interest rate
-- $i_t^*$ is the foreign interest rate
+- $i_t^{*}$ is the foreign interest rate
 - $E_t$ is the current exchange rate (home currency per unit of foreign currency)
 - $E_{t+1}^e$ is the expected future exchange rate
 
@@ -6987,7 +6989,7 @@ In a macroeconomics class, the following question is posed:
 **Question:**  
 According to the open-economy macroeconomic model seen in class, a positive shock to consumer confidence, which shifts upward the entire consumption schedule $C(Y - T, r)$, will:
 
-*(Assume you start at $Y^*$ and the central bank responds to changes in output away from $Y^*$.)*
+*(Assume you start at $Y^{*}$ and the central bank responds to changes in output away from $Y^{*}$.)*
 
 **Options:**
 - **A.** Reduce output and depreciate the exchange rate  
@@ -7003,11 +7005,11 @@ According to the open-economy macroeconomic model seen in class, a positive shoc
 
 A positive shock to consumer confidence increases consumption at any level of disposable income $(Y - T)$. This shifts the consumption schedule $C(Y - T, r)$ **upward**, indicating an increase in autonomous consumption.
 
-- This leads to **higher aggregate demand** at the initial level of output $Y^*$.
+- This leads to **higher aggregate demand** at the initial level of output $Y^{*}$.
   
 ### 2. **Central Bank Response to Output Increase**
 
-Since the central bank is committed to maintaining output at its potential level $Y^*$, it will respond to the increase in demand by **raising the interest rate** $(r)$ to dampen consumption and investment:
+Since the central bank is committed to maintaining output at its potential level $Y^{*}$, it will respond to the increase in demand by **raising the interest rate** $(r)$ to dampen consumption and investment:
 
 - Higher $r$ reduces consumption $C$ and investment $I$ since both are inversely related to the interest rate.
 - The open-economy interest parity condition is:
@@ -7025,7 +7027,7 @@ In an open economy, when the domestic interest rate rises relative to the foreig
 
 ### 4. **Why Output Reduces**
 
-As the interest rate rises to maintain $Y^*$, higher borrowing costs reduce private spending on consumption and investment, pulling aggregate demand back down to equilibrium.
+As the interest rate rises to maintain $Y^{*}$, higher borrowing costs reduce private spending on consumption and investment, pulling aggregate demand back down to equilibrium.
 
 ### 5. **Correct Option: B**
 
@@ -7035,10 +7037,10 @@ As the interest rate rises to maintain $Y^*$, higher borrowing costs reduce priv
 ### 6. **Incorrect Options Explained**
 - **A. Reduce output and depreciate the exchange rate:** Incorrect, as the higher interest rate leads to an appreciation, not a depreciation.
 - **C. Increase output and depreciate the exchange rate:** Incorrect, as the central bank actively prevents an increase in output and the exchange rate appreciates rather than depreciates.
-- **D. Increase output and appreciate the exchange rate:** Incorrect, as the central bank's goal is to maintain output at $Y^*$, preventing any sustained increase.
+- **D. Increase output and appreciate the exchange rate:** Incorrect, as the central bank's goal is to maintain output at $Y^{*}$, preventing any sustained increase.
 
 ## Conclusion
-The correct answer is **B: Reduce output and appreciate the exchange rate**. The central bank raises interest rates to counter the positive demand shock, leading to lower consumption and investment, returning output to its potential level $Y^*$. The higher interest rate also causes the exchange rate to appreciate due to increased capital inflows.
+The correct answer is **B: Reduce output and appreciate the exchange rate**. The central bank raises interest rates to counter the positive demand shock, leading to lower consumption and investment, returning output to its potential level $Y^{*}$. The higher interest rate also causes the exchange rate to appreciate due to increased capital inflows.
 
 Go back to the content, click [here](#table-of-content).
 
@@ -7279,13 +7281,13 @@ Which of the following can cause an appreciation of Japan's real exchange rate?
 The real exchange rate measures the relative price of goods between two countries. It is calculated using the formula:
 
 $$
-RER = \frac{e \times P}{P^*}
+RER = \frac{e \times P}{P^{*}}
 $$
 Where:  
 - $RER$ = real exchange rate  
 - $e$ = nominal exchange rate (domestic currency per unit of foreign currency)  
 - $P$ = domestic price level  
-- $P^*$ = foreign price level  
+- $P^{*}$ = foreign price level  
 
 ### **B. An increase in the price of the euro in yen (Correct Answer)**  
 If the price of the euro in yen increases, it means that more yen are needed to buy one euro. This is a depreciation of the yen relative to the euro, which makes **foreign goods more expensive** in yen terms. As a result, Japanese goods become relatively cheaper abroad, leading to an appreciation of the real exchange rate for Japan.
@@ -7295,7 +7297,7 @@ If the price of the euro in yen increases, it means that more yen are needed to 
 ## Explanation of Incorrect Options
 
 ### **A. Lower inflation in Japan than in the US**  
-Lower inflation in Japan reduces the domestic price level $P$. Since the real exchange rate depends on the ratio $\frac{P}{P^*}$, a decrease in $P$ (assuming $P^*$ remains constant) leads to a **real depreciation**, not an appreciation.
+Lower inflation in Japan reduces the domestic price level $P$. Since the real exchange rate depends on the ratio $\frac{P}{P^{*}}$, a decrease in $P$ (assuming $P^{*}$ remains constant) leads to a **real depreciation**, not an appreciation.
 
 ### **C. A decrease in the price of the dollar in yen**  
 If the dollar becomes cheaper in yen terms, fewer yen are needed to buy one dollar. This represents an **appreciation of the yen**, making Japanese goods relatively more expensive abroad and resulting in a **real depreciation**.
@@ -7356,7 +7358,7 @@ Go back to the content, click [here](#table-of-content).
 In a macroeconomics class, the following question is posed:
 
 **Question:**  
-Suppose the Uncovered Interest Parity (UIP) holds, and suppose the interest rates $i$ and $i^*$ cannot be negative. If your country’s interest rate is zero, can your currency be expected to depreciate in the future?
+Suppose the Uncovered Interest Parity (UIP) holds, and suppose the interest rates $i$ and $i^{*}$ cannot be negative. If your country’s interest rate is zero, can your currency be expected to depreciate in the future?
 
 **Answer Choices:**  
 - **Yes**  
@@ -7369,25 +7371,25 @@ Suppose the Uncovered Interest Parity (UIP) holds, and suppose the interest rate
 The Uncovered Interest Parity (UIP) condition states:
 
 $$
-E_t\left(\frac{S_{t+1}}{S_t}\right) = \frac{1 + i}{1 + i^*}
+E_t\left(\frac{S_{t+1}}{S_t}\right) = \frac{1 + i}{1 + i^{*}}
 $$
 
 Where:
 - $S_t$ is the current spot exchange rate (domestic currency per unit of foreign currency),
 - $S_{t+1}$ is the expected future spot exchange rate,
 - $i$ is the domestic interest rate,
-- $i^*$ is the foreign interest rate,
+- $i^{*}$ is the foreign interest rate,
 - $E_t$ represents the expectation operator at time $t$.
 
 ### **UIP Interpretation**:
-- If the domestic interest rate $i$ is **zero** and interest rates cannot be negative, the foreign interest rate $i^*$ must be **non-negative** (i.e., $i^* \geq 0$).
+- If the domestic interest rate $i$ is **zero** and interest rates cannot be negative, the foreign interest rate $i^{*}$ must be **non-negative** (i.e., $i^{*} \geq 0$).
 - The UIP equation becomes:
   $$
-  E_t\left(\frac{S_{t+1}}{S_t}\right) = \frac{1 + 0}{1 + i^*} = \frac{1}{1 + i^*}
+  E_t\left(\frac{S_{t+1}}{S_t}\right) = \frac{1 + 0}{1 + i^{*}} = \frac{1}{1 + i^{*}}
   $$
 
 ### **Key Implication**:
-- Since $i^* \geq 0$, we have $\frac{1}{1 + i^*} \leq 1$. This implies that the expected exchange rate $E_t(S_{t+1})$ is **less than or equal to the current exchange rate** $S_t$, meaning the domestic currency is expected to **appreciate or stay constant**, but **not depreciate**.
+- Since $i^{*} \geq 0$, we have $\frac{1}{1 + i^{*}} \leq 1$. This implies that the expected exchange rate $E_t(S_{t+1})$ is **less than or equal to the current exchange rate** $S_t$, meaning the domestic currency is expected to **appreciate or stay constant**, but **not depreciate**.
 
 ### **Conclusion**:
 The correct answer is **No**. If the domestic interest rate is zero, the UIP condition implies that the domestic currency cannot be expected to depreciate in the future, as the right-hand side of the UIP formula indicates an expected appreciation or no change at most.
@@ -7543,12 +7545,12 @@ What happens to the currency market equilibrium curve relating the exchange rate
 The exchange rate equilibrium curve relates the nominal exchange rate $E$ to the nominal interest rate $i$. The **Uncovered Interest Parity (UIP)** condition is given by:
 
 $$
-i = i^* + \frac{E_e - E}{E}
+i = i^{*} + \frac{E_e - E}{E}
 $$
 
 Where:
 - $i$ is the domestic nominal interest rate,
-- $i^*$ is the foreign nominal interest rate,
+- $i^{*}$ is the foreign nominal interest rate,
 - $E$ is the current exchange rate,
 - $E_e$ is the expected future exchange rate.
 
@@ -7622,7 +7624,7 @@ Go back to the content, click [here](#table-of-content).
 In a macroeconomics class, the following question is posed:
 
 **Question:**  
-The Uncovered Interest Parity (UIP) theory implies that if the foreign central bank lowers the foreign interest rate $i^*$, the effect on the domestic currency market is:
+The Uncovered Interest Parity (UIP) theory implies that if the foreign central bank lowers the foreign interest rate $i^{*}$, the effect on the domestic currency market is:
 
 **Options:**
 - **A.** The domestic currency depreciates  
@@ -7636,17 +7638,17 @@ The Uncovered Interest Parity (UIP) theory implies that if the foreign central b
 The UIP theory states that the expected return on domestic assets should equal the expected return on foreign assets when adjusted for exchange rate expectations. The UIP condition can be written as:
 
 $$
-i - i^* = \frac{E(e_{t+1}) - e_t}{e_t}
+i - i^{*} = \frac{E(e_{t+1}) - e_t}{e_t}
 $$
 
 Where:
 - $i$: Domestic interest rate  
-- $i^*$: Foreign interest rate  
+- $i^{*}$: Foreign interest rate  
 - $e_t$: Current spot exchange rate (domestic currency per unit of foreign currency)  
 - $E(e_{t+1})$: Expected future exchange rate  
 
 ### Analysis:
-- If the **foreign interest rate** $i^*$ decreases, the right-hand side of the UIP equation suggests that the expected return from holding foreign assets decreases.
+- If the **foreign interest rate** $i^{*}$ decreases, the right-hand side of the UIP equation suggests that the expected return from holding foreign assets decreases.
 - In this situation, investors find domestic assets more attractive relative to foreign assets.
 - As a result, there is increased demand for domestic currency and a decreased demand for foreign currency, causing the **domestic currency to appreciate**.
 
@@ -7711,7 +7713,7 @@ Go back to the content, click [here](#table-of-content).
 In a macroeconomics class, the following question is posed:
 
 **Question:**  
-Suppose the interest rate on a short-term Indian bond is $i = 4\%$. The interest rate on a short-term US bond is $i^* = 1\%$.
+Suppose the interest rate on a short-term Indian bond is $i = 4\%$. The interest rate on a short-term US bond is $i^{*} = 1\%$.
 
 In 2012, an investor engages in a **carry trade**: borrowing $100$ US dollars at the US interest rate to invest in an Indian bond.
 
@@ -7731,7 +7733,7 @@ In 2012, an investor engages in a **carry trade**: borrowing $100$ US dollars at
 ### **Step 1: Definition of Carry Trade**
 A **carry trade** is an investment strategy where an investor borrows in a low-interest rate currency and invests in a higher-interest rate currency. The potential profit depends on the **interest rate differential** and **currency exchange rate fluctuations**.
 
-- **Borrowing:** $100 USD$ at $i^* = 1\%$  
+- **Borrowing:** $100 USD$ at $i^{*} = 1\%$  
 - **Investment:** Convert $100 USD$ to Indian Rupees (INR) and invest in a short-term Indian bond at $i = 4\%$.
 
 ---
@@ -7739,7 +7741,7 @@ A **carry trade** is an investment strategy where an investor borrows in a low-i
 ### **Step 2: Potential Profit or Loss**
 If the exchange rate remains stable, the investor earns:
 $$
-\text{Net return} = (1 + i) \times 100 \, \text{USD equivalent at INR} - (1 + i^*) \times 100
+\text{Net return} = (1 + i) \times 100 \, \text{USD equivalent at INR} - (1 + i^{*}) \times 100
 $$
 
 However, in 2012, the Indian Rupee **depreciated** significantly against the US dollar, meaning the investor lost value when converting the investment back to US dollars.
@@ -7871,21 +7873,21 @@ When inflation expectations become unanchored, it signals that inflation will li
 ### 2. Relative Purchasing Power Parity (PPP)
 Relative PPP implies that the nominal exchange rate adjusts to offset differences in inflation rates between countries:
 $$
-\frac{E_t}{E_{t-1}} = \frac{P_t}{P_t^*}
+\frac{E_t}{E_{t-1}} = \frac{P_t}{P_t^{*}}
 $$
 Where:
 - $E_t$ is the nominal exchange rate at time $t$.
-- $P_t$ and $P_t^*$ are the domestic and foreign price levels, respectively.
+- $P_t$ and $P_t^{*}$ are the domestic and foreign price levels, respectively.
 
 If domestic inflation rises faster than foreign inflation, the nominal exchange rate ($E_t$) must depreciate more to maintain relative PPP.
 
 ### 3. Uncovered Interest Parity (UIP) Curve Shift
 The UIP condition:
 $$
-i - i^* = \frac{\mathbb{E}_t(E_{t+1}) - E_t}{E_t}
+i - i^{*} = \frac{\mathbb{E}_t(E_{t+1}) - E_t}{E_t}
 $$
 Where:
-- $i$ and $i^*$ are domestic and foreign interest rates, respectively.
+- $i$ and $i^{*}$ are domestic and foreign interest rates, respectively.
 - $\mathbb{E}_t(E_{t+1})$ is the expected future exchange rate.
 
 A rise in expected inflation and a corresponding increase in devaluation expectations lead to:
