@@ -4646,9 +4646,7 @@ $$
 
 Substituting into the current account formula:
 
-$$
-\text{CA}_{\text{new}} = \text{CA}_{\text{old}} - P
-$$
+$$\text{CA}_{\text{new}} = \text{CA}_{\text{old}} - P$$
 
 ### Conclusion:
 The correct answer is:
@@ -5864,9 +5862,7 @@ The primary goals of a central bank are:
 
   The Taylor Rule guides how the central bank adjusts interest rates in response to inflation and output gaps:
 
-  $$
-  i_t = r^{*} + \pi_t + \alpha (\pi_t - \pi^{*}) + \beta (Y_t - Y^{*})
-  $$
+  $$i_t = r^{*} + \pi_t + \alpha (\pi_t - \pi^{*}) + \beta (Y_t - Y^{*})$$
 
   Where:
   - $i_t$: Nominal interest rate
@@ -6497,13 +6493,13 @@ where:
 
 ### **Mathematical Intuition**
 In an overheated market:
-$$
-N > N^{*}
-$$
+
+$$N \ge N^{*}$$
+
 This leads to:
-$$
-MPL(N) < MPL(N^{*})
-$$
+
+$$MPL(N) < MPL(N^{*})$$
+
 since the additional output from an extra worker is smaller due to inefficiencies.
 
 ### **Conclusion**
@@ -6997,7 +6993,7 @@ In a macroeconomics class, the following question is posed:
 **Question:**  
 According to the open-economy macroeconomic model seen in class, a positive shock to consumer confidence, which shifts upward the entire consumption schedule $C(Y - T, r)$, will:
 
-*(Assume you start at $Y^{*}$ and the central bank responds to changes in output away from $Y^{*}$.)*
+Assume you start at $Y^{*}$ and the central bank responds to changes in output away from $Y^{*}$.
 
 **Options:**
 - **A.** Reduce output and depreciate the exchange rate  
@@ -7021,9 +7017,9 @@ Since the central bank is committed to maintaining output at its potential level
 
 - Higher $r$ reduces consumption $C$ and investment $I$ since both are inversely related to the interest rate.
 - The open-economy interest parity condition is:
-  $$
-  r = r^{*} + \text{expected change in exchange rate}
-  $$
+
+  $$r = r^{*} + \text{expected change in exchange rate}$$
+
   where $r^{*}$ is the foreign interest rate.
 
 ### 3. **Effects on Exchange Rate (Appreciation)**
