@@ -3063,7 +3063,7 @@ The correct answer is **C: The real neutral rate of interest plus the target inf
 The **Taylor Rule** is an equation used to determine the appropriate nominal interest rate based on inflation and the output gap. The nominal interest rate ($i_t$) is given by:
 
 $$
-i_t = r^* + \pi_t + \phi(\pi_t - \pi^*) + \theta(y_t - y^*)
+i_t = r^{*} + \pi_t + \phi(\pi_t - \pi^*) + \theta(y_t - y^*)
 $$
 
 Where:
@@ -3083,7 +3083,7 @@ The question specifies that:
 Under these conditions, the formula simplifies to:
 
 $$
-i_t = r^* + \pi^*
+i_t = r^{*} + \pi^*
 $$
 
 This shows that the **nominal interest rate** equals the sum of the real neutral rate of interest ($r^{*}$) and the target inflation rate ($\pi^*$).
@@ -5855,7 +5855,7 @@ The primary goals of a central bank are:
   The Taylor Rule guides how the central bank adjusts interest rates in response to inflation and output gaps:
 
   $$
-  i_t = r^* + \pi_t + \alpha (\pi_t - \pi^*) + \beta (Y_t - Y^*)
+  i_t = r^{*} + \pi_t + \alpha (\pi_t - \pi^*) + \beta (Y_t - Y^*)
   $$
 
   Where:
@@ -7012,7 +7012,7 @@ Since the central bank is committed to maintaining output at its potential level
 - Higher $r$ reduces consumption $C$ and investment $I$ since both are inversely related to the interest rate.
 - The open-economy interest parity condition is:
   $$
-  r = r^* + \text{expected change in exchange rate}
+  r = r^{*} + \text{expected change in exchange rate}
   $$
   where $r^{*}$ is the foreign interest rate.
 
@@ -7944,7 +7944,7 @@ If China's population ages and their demand for savings increases:
 - The global pool of savings increases, putting **downward pressure** on the world interest rate $r^{*}$.
 
 $$
-r^* \downarrow \implies I_{US} \uparrow
+r^{*} \downarrow \implies I_{US} \uparrow
 $$
 
 ---
