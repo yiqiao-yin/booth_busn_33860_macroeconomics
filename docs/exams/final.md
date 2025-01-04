@@ -2944,13 +2944,13 @@ $$
 $$
 - **Negative output gap**: 
 
-$$Y_{actual} < Y_{potential}$$
+$$Y_{actual} \le Y_{potential}$$
 
 indicating underutilization of economic resources (recessionary gap).
 
 - **Positive output gap**: 
 
-$$Y_{actual} > Y_{potential}$$
+$$Y_{actual} \ge Y_{potential}$$
 
 indicating an overheated economy.
 
@@ -3237,7 +3237,7 @@ Where:
 
 Since $Y$, $C$, and $I$ remain fixed and $G$ increases, the increase in $G$ must be offset by a corresponding decrease in net exports $(X - M)$. This implies:
 $$
-\Delta CA = \Delta (X - M) < 0
+\Delta CA = \Delta (X - M) \le 0
 $$
 Thus, the **current account balance (CA)** decreases.
 
@@ -3791,7 +3791,7 @@ The goal is to find the **primary deficit-to-GDP ratio** $\frac{G - T}{Y}$ that 
 ### Hint:
 The problem requires maintaining a primary surplus (i.e., a negative primary deficit), as public debt tends to grow at a faster rate if 
 
-$$r > g$$
+$$r \ge g$$
 
 ## Solution
 
@@ -4078,11 +4078,11 @@ $$
 
 - A **positive output gap** occurs when **actual GDP** exceeds **potential GDP**:
 
-$$\text{Actual GDP} > \text{Potential GDP}$$
+$$\text{Actual GDP} \ge \text{Potential GDP}$$
 
 - A **negative output gap** occurs when **actual GDP** is below **potential GDP**:
 
-$$$\text{Actual GDP} < \text{Potential GDP}$$
+$$$\text{Actual GDP} \le \text{Potential GDP}$$
 
 ### **Implications of a Positive Output Gap:**
 1. **Spending Above Potential Output:**
@@ -4297,10 +4297,10 @@ D. Output will increase above potential, and inflation will go above target
 
 ### 2. **Effect of a Positive Demand Shock**
    - A positive demand shock, such as increased government spending, shifts the **aggregate demand curve** outward.
-   - In the short run, this results in **higher output** ($Y_t > Y^{*}$) because firms increase production to meet higher demand.
+   - In the short run, this results in **higher output** ($Y_t \ge Y^{*}$) because firms increase production to meet higher demand.
    - According to the Phillips curve, when output exceeds its potential, inflation rises:
      $$
-     \pi_t > \pi^{*}
+     \pi_t \ge \pi^{*}
      $$
 
 ### 3. **Outcome**
@@ -5026,8 +5026,8 @@ D_T = D_P + (i \times B)
 $$
 
 ### Interpretation:
-- When the government is **in debt** ($B > 0$), the interest payments $(i \times B)$ are **positive**, making the total deficit larger than the primary deficit.
-- Therefore, for any government that has outstanding debt ($B {>} 0$), the **total deficit** will always exceed the **primary deficit** unless the interest rate is zero (which is unrealistic in most cases).
+- When the government is **in debt** ($B \ge 0$), the interest payments $(i \times B)$ are **positive**, making the total deficit larger than the primary deficit.
+- Therefore, for any government that has outstanding debt ($B {\ge} 0$), the **total deficit** will always exceed the **primary deficit** unless the interest rate is zero (which is unrealistic in most cases).
 
 ### Conclusion:
 Since the total deficit includes interest payments and the primary deficit does not, the **total deficit** is always larger when the government has outstanding debt.
@@ -5077,19 +5077,19 @@ The **debt-to-GDP ratio** will **decrease** if the growth in debt is slower than
 For the debt-to-GDP ratio to decrease:
 
 $$
-\frac{1 + r_t}{1 + g_t} < 1
+\frac{1 + r_t}{1 + g_t} \le 1
 $$
 
 Simplifying:
 
 $$
-r_t < g_t
+r_t \le g_t
 $$
 
 ### **Interpretation:**
 
-- **If $r_t < g_t$** (real interest rate is lower than real GDP growth): The ratio of debt to GDP **decreases**.
-- **If $r_t > g_t$** (real interest rate is higher than real GDP growth): The ratio of debt to GDP **increases**.
+- **If $r_t \le g_t$** (real interest rate is lower than real GDP growth): The ratio of debt to GDP **decreases**.
+- **If $r_t \ge g_t$** (real interest rate is higher than real GDP growth): The ratio of debt to GDP **increases**.
 
 ### **Conclusion:**
 
@@ -5329,7 +5329,7 @@ The Phillips Curve shows the relationship between inflation $\pi$ and the output
 $$
 \pi = \pi_e + \alpha (Y - Y^{*})
 $$
-- When $Y < Y^{*}$ (i.e., output falls below potential), inflation decreases.
+- When $Y \le Y^{*}$ (i.e., output falls below potential), inflation decreases.
 
 ---
 
@@ -5971,8 +5971,8 @@ Where:
 - $\alpha$ is a positive constant indicating the sensitivity of inflation to changes in unemployment.
 
 ### Analysis:
-- **If $u_t < u^{*}$:** The labor market is "overheated," leading to higher wage growth and inflation.
-- **If expectations are anchored ($\pi_t^e$ remains constant):** Even if inflation expectations are steady, as long as the labor market remains tight ($u_t < u^{*}$), inflationary pressures will persist.
+- **If $u_t \le u^{*}$:** The labor market is "overheated," leading to higher wage growth and inflation.
+- **If expectations are anchored ($\pi_t^e$ remains constant):** Even if inflation expectations are steady, as long as the labor market remains tight ($u_t \le u^{*}$), inflationary pressures will persist.
 
 ### Conclusion:
 The correct answer is **True**. Inflation pressures above the central bank's target will persist if the labor market remains overheated, regardless of anchored inflation expectations.
@@ -6498,7 +6498,7 @@ $$N \ge N^{*}$$
 
 This leads to:
 
-$$MPL(N) < MPL(N^{*})$$
+$$MPL(N) \le MPL(N^{*})$$
 
 since the additional output from an extra worker is smaller due to inefficiencies.
 
@@ -6683,7 +6683,7 @@ A country with a real interest rate on its government debt that exceeds its real
    - $b$ = debt-to-GDP ratio
    - $r$ = real interest rate on government debt
    - $g$ = real GDP growth rate
-   - $p$ = primary surplus-to-GDP ratio (if $p < 0$, it represents a **primary deficit**)
+   - $p$ = primary surplus-to-GDP ratio (if $p \le 0$, it represents a **primary deficit**)
 
 2. **Stabilization Condition**  
    For the debt-to-GDP ratio to stabilize:
@@ -6692,11 +6692,11 @@ A country with a real interest rate on its government debt that exceeds its real
    $$
 
 ### **Interpretation:**
-- If $r > g$ (i.e., real interest rate exceeds real GDP growth), the term $(r - g) b$ is positive. 
+- If $r \ge g$ (i.e., real interest rate exceeds real GDP growth), the term $(r - g) b$ is positive. 
 - To stabilize the debt ($\Delta b = 0$), the primary balance $p$ must be **positive** (a **primary surplus**), meaning the government must run a surplus relative to GDP to offset the growing interest costs.
 
 ### **Why the Statement is False:**
-- If $r > g$, a **primary deficit** (negative $p$) will cause debt to **increase over time** rather than stabilize.
+- If $r \ge g$, a **primary deficit** (negative $p$) will cause debt to **increase over time** rather than stabilize.
 - Therefore, a country **cannot** stabilize its debt with a primary fiscal deficit when the real interest rate exceeds real GDP growth.
 
 ### **Numerical Example:**
@@ -6708,7 +6708,7 @@ A country with a real interest rate on its government debt that exceeds its real
   This shows that debt increases.
 
 ## Conclusion:
-The statement is **false** because when $r > g$, the debt-to-GDP ratio can only stabilize with a primary **surplus**, not a deficit. A primary deficit would result in continuously rising debt.
+The statement is **false** because when $r \ge g$, the debt-to-GDP ratio can only stabilize with a primary **surplus**, not a deficit. A primary deficit would result in continuously rising debt.
 
 Go back to the content, click [here](#table-of-content).
 
@@ -7340,9 +7340,9 @@ where:
 - $NI$: Net income from abroad (e.g., dividends, interest payments)
 - $NCT$: Net current transfers (e.g., remittances)
 
-A **current account deficit** ($CA < 0$) implies that:
+A **current account deficit** ($CA \le 0$) implies that:
 $$
-X - M < 0
+X - M \le 0
 $$
 This inequality means that the value of imports ($M$) exceeds the value of exports ($X$).
 
