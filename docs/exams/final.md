@@ -3067,7 +3067,7 @@ i_t = r^* + \pi_t + \phi(\pi_t - \pi^*) + \theta(y_t - y^*)
 $$
 
 Where:
-- $r^*$: Real neutral rate of interest (also known as the "natural rate of interest")
+- $r^{*}$: Real neutral rate of interest (also known as the "natural rate of interest")
 - $\pi_t$: Current inflation rate
 - $\pi^*$: Target inflation rate
 - $y_t - y^*$: Output gap (difference between actual and potential output)
@@ -3086,7 +3086,7 @@ $$
 i_t = r^* + \pi^*
 $$
 
-This shows that the **nominal interest rate** equals the sum of the real neutral rate of interest ($r^*$) and the target inflation rate ($\pi^*$).
+This shows that the **nominal interest rate** equals the sum of the real neutral rate of interest ($r^{*}$) and the target inflation rate ($\pi^*$).
 
 ### Conclusion
 
@@ -5708,7 +5708,7 @@ This analysis addresses the issue of a Central Bank facing the **Effective Lower
 
 Consider a Central Bank constrained by the **Effective Lower Bound (ELB)**, where:
 - **Nominal interest rate** ($i$) = 0 (and cannot go negative).
-- The **neutral real interest rate** ($r^*$) is **negative** at $-2\%$ due to structural imbalances in savings and investment.
+- The **neutral real interest rate** ($r^{*}$) is **negative** at $-2\%$ due to structural imbalances in savings and investment.
 
 Given this setup:
 - The Central Bank aims to stimulate the economy by influencing the **real interest rate** ($r$), which is defined as:
@@ -5728,7 +5728,7 @@ Since the nominal interest rate $i$ is stuck at zero, achieving a negative real 
 ### A. **Difficulties in Sufficiently Stimulating Aggregate Demand (Correct)**
 
 - At the Effective Lower Bound, the Central Bank cannot lower nominal interest rates further to make real interest rates more negative.
-- When the neutral real interest rate ($r^*$) is highly negative (e.g., $-2\%$), the Central Bank's inability to reduce real rates to this level constrains its ability to sufficiently **stimulate aggregate demand**, leading to weak economic recovery.
+- When the neutral real interest rate ($r^{*}$) is highly negative (e.g., $-2\%$), the Central Bank's inability to reduce real rates to this level constrains its ability to sufficiently **stimulate aggregate demand**, leading to weak economic recovery.
 
 ### B. **Inflation Persistently Above Its Target (Incorrect)**
 
@@ -5860,7 +5860,7 @@ The primary goals of a central bank are:
 
   Where:
   - $i_t$: Nominal interest rate
-  - $r^*$: Real neutral interest rate
+  - $r^{*}$: Real neutral interest rate
   - $\pi_t - \pi^*$: Inflation gap
   - $Y_t - Y^*$: Output gap
   - $\alpha$, $\beta$: Policy weights
@@ -7014,11 +7014,11 @@ Since the central bank is committed to maintaining output at its potential level
   $$
   r = r^* + \text{expected change in exchange rate}
   $$
-  where $r^*$ is the foreign interest rate.
+  where $r^{*}$ is the foreign interest rate.
 
 ### 3. **Effects on Exchange Rate (Appreciation)**
 
-In an open economy, when the domestic interest rate rises relative to the foreign interest rate $r^*$, foreign capital inflows increase due to the higher returns on domestic assets. This capital inflow leads to:
+In an open economy, when the domestic interest rate rises relative to the foreign interest rate $r^{*}$, foreign capital inflows increase due to the higher returns on domestic assets. This capital inflow leads to:
 
 - **Increased demand for domestic currency**.
 - **Appreciation of the exchange rate**.
@@ -7907,7 +7907,7 @@ Go back to the content, click [here](#table-of-content).
 In a macroeconomics class, the following question is posed:
 
 **Question:**  
-Consider the model of saving and investment (S and I) equilibrium in the open economy with one world interest rate $r^*$. Suppose there are only two countries: the US and China. Suppose the population in China grows older and their demand for savings increases. What will happen to $r^*$ and to the US trade deficit?
+Consider the model of saving and investment (S and I) equilibrium in the open economy with one world interest rate $r^{*}$. Suppose there are only two countries: the US and China. Suppose the population in China grows older and their demand for savings increases. What will happen to $r^{*}$ and to the US trade deficit?
 
 **Options:**
 - **A.** The interest rate falls, the US trade deficit increases  
@@ -7923,7 +7923,7 @@ Consider the model of saving and investment (S and I) equilibrium in the open ec
 
 ### 1. Model of Saving and Investment in an Open Economy
 
-In an open economy, the world interest rate $r^*$ is determined by the global balance of savings and investment:
+In an open economy, the world interest rate $r^{*}$ is determined by the global balance of savings and investment:
 
 $$
 S - I = NX
@@ -7941,7 +7941,7 @@ An increase in savings in one country (e.g., China) can affect the world interes
 
 If China's population ages and their demand for savings increases:
 - China’s savings increase relative to its investment demand.
-- The global pool of savings increases, putting **downward pressure** on the world interest rate $r^*$.
+- The global pool of savings increases, putting **downward pressure** on the world interest rate $r^{*}$.
 
 $$
 r^* \downarrow \implies I_{US} \uparrow
@@ -7952,7 +7952,7 @@ $$
 ### 3. Impact on the US Trade Deficit
 
 In the US:
-- A lower world interest rate $r^*$ leads to an **increase in investment** in the US (since borrowing is cheaper).
+- A lower world interest rate $r^{*}$ leads to an **increase in investment** in the US (since borrowing is cheaper).
 - As domestic investment increases, the US requires more foreign capital to fund this, leading to an **increase in the trade deficit** (since imports rise relative to exports).
 
 ---
@@ -7960,9 +7960,9 @@ In the US:
 ### 4. Evaluation of Options
 
 - **Option A:** The interest rate falls, and the US trade deficit increases. **(This seems correct)**  
-- **Option B:** The interest rate increases, and the US trade deficit increases. **(Incorrect, as $r^*$ is expected to fall)**  
+- **Option B:** The interest rate increases, and the US trade deficit increases. **(Incorrect, as $r^{*}$ is expected to fall)**  
 - **Option C:** The interest rate falls, and the US trade deficit falls. **(Incorrect, as the trade deficit should increase)**  
-- **Option D:** The interest rate increases, and the US trade deficit falls. **(Incorrect, as $r^*$ is expected to fall)**  
+- **Option D:** The interest rate increases, and the US trade deficit falls. **(Incorrect, as $r^{*}$ is expected to fall)**  
 
 ---
 
@@ -7972,7 +7972,7 @@ The correct answer appears to be **A. The interest rate falls, and the US trade 
 ---
 
 ## Intuition:
-Aging populations in China increase their savings, driving down the world interest rate $r^*$. Lower interest rates make borrowing cheaper, causing higher investment in the US and an increase in the trade deficit due to a rise in imports relative to exports.
+Aging populations in China increase their savings, driving down the world interest rate $r^{*}$. Lower interest rates make borrowing cheaper, causing higher investment in the US and an increase in the trade deficit due to a rise in imports relative to exports.
 
 Go back to the content, click [here](#table-of-content).
 
