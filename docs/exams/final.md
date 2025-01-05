@@ -8421,9 +8421,7 @@ If one uses the exact formula, the real exchange rate (RER) decreases by 3.2% (i
 ### **1. Formula for Relative Purchasing Power Parity (PPP)**  
 Relative PPP relates the percentage change in the nominal exchange rate to the inflation rate differential between two countries. The formula for the real exchange rate (RER) change is:
 
-$$
-\text{RER}_{\text{new}} = \frac{E_{\text{new}} \times P_{\text{foreign}}}{P_{\text{domestic}}}
-$$
+$$\text{RER}_{\text{new}} = E_{\text{new}} \times P_{\text{foreign}} / P_{\text{domestic}$$
 
 Where:
 - $E_{\text{new}}$ = nominal exchange rate after depreciation
