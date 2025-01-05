@@ -3071,7 +3071,7 @@ The correct answer is **C: The real neutral rate of interest plus the target inf
 The **Taylor Rule** is an equation used to determine the appropriate nominal interest rate based on inflation and the output gap. The nominal interest rate ($i_t$) is given by:
 
 $$
-i_t = r^{*} + \pi_t + \phi(\pi_t - \pi^{*}) + \theta(y_t - y^{*})
+i_t = r^{*} + \pi_t + \phi(\pi_t - \pi^*) + \theta(y_t - y^{*})
 $$
 
 Where:
