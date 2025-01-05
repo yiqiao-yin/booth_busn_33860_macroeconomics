@@ -221,13 +221,13 @@ This analysis determines the **inflation rate** and **real increase in consumpti
 The nominal spending growth rate is calculated as:
 
 $$
-{Nominal Spending Growth Rate} = \frac{{Total Spending in 2021} - {Total Spending in 2020}}{{Total Spending in 2020}} \times 100
+\text{Nominal Spending Growth Rate} = \frac{\text{Total Spending in 2021} - \text{Total Spending in 2020}}{\text{Total Spending in 2020}} \times 100
 $$
 
 Substituting values:
 
 $$
-{Nominal Spending Growth Rate} = \frac{3520 - 3000}{3000} \times 100 \approx 17.33{ percent}
+\text{Nominal Spending Growth Rate} = \frac{3520 - 3000}{3000} \times 100 \approx 17.33\text{ percent}
 $$
 
 ### 3. Inflation Rate Calculation
@@ -242,13 +242,13 @@ To calculate the inflation rate, we first determine the consumer's spending in 2
 Using the formula:
 
 $$
-{Inflation Rate} = \frac{{Total Spending in 2021} - {Total Spending in 2021 at 2020 Prices}}{{Total Spending in 2021 at 2020 Prices}} \times 100
+\text{Inflation Rate} = \frac{\text{Total Spending in 2021} - \text{Total Spending in 2021 at 2020 Prices}}{\text{Total Spending in 2021 at 2020 Prices}} \times 100
 $$
 
 Substitute values:
 
 $$
-{Inflation Rate} = \frac{3520 - 3200}{3200} \times 100 = 10{ percent}
+\text{Inflation Rate} = \frac{3520 - 3200}{3200} \times 100 = 10\text{ percent}
 $$
 
 ### 4. Real Increase in Consumption
@@ -256,13 +256,13 @@ $$
 The real increase in consumption is calculated by subtracting the inflation rate from the nominal spending growth rate:
 
 $$
-{Real Spending Growth} = {Nominal Spending Growth} - {Inflation Rate}
+\text{Real Spending Growth} = \text{Nominal Spending Growth} - \text{Inflation Rate}
 $$
 
 Substitute values:
 
 $$
-{Real Spending Growth} = 17.33{ percent} - 10{ percent} = 7.33{ percent}
+\text{Real Spending Growth} = 17.33\text{ percent} - 10\text{ percent} = 7.33\text{ percent}
 $$
 
 ## Summary
@@ -283,26 +283,26 @@ Given:
 Savings is calculated by subtracting consumption from disposable income:
 
 $$
-{Savings} = {Disposable Income} - {Consumption}
+\text{Savings} = \text{Disposable Income} - \text{Consumption}
 $$
 
 Substitute the values:
 
 $$
-{Savings} = 200 - 150 = 50
+\text{Savings} = 200 - 150 = 50
 $$
 
 ### Step 2: Calculate Saving Rate
 The saving rate is the ratio of savings to disposable income, expressed as a percentage:
 
 $$
-{Saving Rate} = \frac{{Savings}}{{Disposable Income}} \times 100
+\text{Saving Rate} = \frac{\text{Savings}}{\text{Disposable Income}} \times 100
 $$
 
 Substitute the values:
 
 $$
-{Saving Rate} = \frac{50}{200} \times 100 = 25{ percent}
+\text{Saving Rate} = \frac{50}{200} \times 100 = 25\text{ percent}
 $$
 
 ### Answer:
@@ -444,15 +444,15 @@ The **government spending multiplier** measures how much total output ($Z$) incr
 The formula for the government spending multiplier ($M$) is:
 
 $$
-M = \frac{1}{1 - {MPC}}
+M = \frac{1}{1 - \text{MPC}}
 $$
 
 #### 3. Why a Higher MPC Increases the Multiplier
 
 From the multiplier formula, we see that:
 
-- If **MPC is high**, then $1 - {MPC}$ is smaller.
-- This makes the fraction $\frac{1}{1 - {MPC}}$ larger, meaning the multiplier is **higher**.
+- If **MPC is high**, then $1 - \text{MPC}$ is smaller.
+- This makes the fraction $\frac{1}{1 - \text{MPC}}$ larger, meaning the multiplier is **higher**.
 
 In other words, when consumers spend a larger portion of any additional income (a high MPC), each dollar of government spending circulates through the economy more intensely, amplifying the effect on total output.
 
@@ -501,7 +501,7 @@ The **money demand curve** is generally downward sloping, meaning that as the in
 Your professor’s graph likely used the variable $\frac{M}{P}$ on the x-axis. Here, $\frac{M}{P}$ represents **real money balances**:
 
 $$
-\frac{M}{P} = {Real Money Demand}
+\frac{M}{P} = \text{Real Money Demand}
 $$
 
 where:
@@ -555,12 +555,12 @@ While a formula is not strictly necessary to explain the concept of convenience 
 To mathematically represent the convenience yield ($CY$), we could use the formula:
 
 $$
-CY = Y_{{corporate}} - Y_{{Treasury}}
+CY = Y_{\text{corporate}} - Y_{\text{Treasury}}
 $$
 
 where:
-- $Y_{{corporate}}$ is the yield of a comparable corporate bond (e.g., a 10-year Aaa bond),
-- $Y_{{Treasury}}$ is the yield of a Treasury bond of the same maturity (e.g., a 10-year Treasury).
+- $Y_{\text{corporate}}$ is the yield of a comparable corporate bond (e.g., a 10-year Aaa bond),
+- $Y_{\text{Treasury}}$ is the yield of a Treasury bond of the same maturity (e.g., a 10-year Treasury).
 
 A positive convenience yield indicates that the Treasury yield is lower than the corporate yield, reflecting the liquidity and safety premium of Treasuries.
 
@@ -772,7 +772,7 @@ By adjusting the IOR, the Fed influences the **opportunity cost of holding reser
 The formula $B = C + R$ illustrates that in the ample reserves framework, the Fed can effectively control interest rates by setting the **IOR** as a floor:
 
 $$
-{Interest Rate on Reserves (IOR)} = {Effective Floor for Short-Term Rates}
+\text{Interest Rate on Reserves (IOR)} = \text{Effective Floor for Short-Term Rates}
 $$
 
 When banks receive interest on reserves, the IOR sets a benchmark rate. Banks will choose to hold reserves rather than lend at lower rates, which anchors short-term rates to the IOR. By raising or lowering the IOR, the Fed influences economic conditions like inflation and growth, without requiring frequent adjustments in the reserve supply.
@@ -860,7 +860,7 @@ The correct answer is:
 GDP, or Gross Domestic Product, is the total market value of all **final goods and services** produced within a country during a specific time period. In the United States, GDP includes production output by U.S.-based companies and other entities within U.S. borders. The components of GDP are:
 
 $$
-{GDP} = C + I + G + (X - M)
+\text{GDP} = C + I + G + (X - M)
 $$
 
 Where:
@@ -928,7 +928,7 @@ To further clarify, let’s look at the formulas for **Investment** and **Capita
 
 1. **Investment (I)** is represented as:
 
-$$I = \Delta K + {Depreciation}$$
+$$I = \Delta K + \text{Depreciation}$$
 
    where:
    - $I$ is investment in new capital,
@@ -998,13 +998,13 @@ $$
 the **marginal product of labor** is given by:
 
 $$
-{MPL} = \frac{\partial Y}{\partial N} = \alpha A K^{1-\alpha} N^{\alpha - 1}
+\text{MPL} = \frac{\partial Y}{\partial N} = \alpha A K^{1-\alpha} N^{\alpha - 1}
 $$
 
 Similarly, the **marginal product of capital** is:
 
 $$
-{MPK} = \frac{\partial Y}{\partial K} = (1 - \alpha) A K^{-\alpha} N^{\alpha}
+\text{MPK} = \frac{\partial Y}{\partial K} = (1 - \alpha) A K^{-\alpha} N^{\alpha}
 $$
 
 From these expressions, we can see that an increase in capital ($K$) raises the MPL because the term $K^{1-\alpha}$ appears in the MPL formula. Similarly, an increase in labor ($N$) raises the MPK, as $N^{\alpha}$ appears in the MPK formula.
@@ -1044,7 +1044,7 @@ where:
 The Marginal Product of Labor (MPL) represents the additional output generated by one more unit of labor, holding capital constant. For the Cobb-Douglas function, MPL is calculated as:
 
 $$
-{MPL} = \frac{\partial Y}{\partial N} = (1 - \alpha) A K^{\alpha} N^{-\alpha}
+\text{MPL} = \frac{\partial Y}{\partial N} = (1 - \alpha) A K^{\alpha} N^{-\alpha}
 $$
 
 From this formula, we see that MPL depends directly on the level of capital $K$. As $K$ increases, MPL increases as well, since $K^{\alpha}$ amplifies the output produced by each unit of labor.
@@ -1137,7 +1137,7 @@ If we represent the production function as $Y = F(K, N)$, where $Y$ is output, $
 
 1. **MPL**: $\frac{\partial Y}{\partial N}$
    
-2. **Real Wage**: $W/P = {MPL}$
+2. **Real Wage**: $W/P = \text{MPL}$
 
 In the neoclassical case with complements, an increase in $K$ leads to an increase in $\frac{\partial Y}{\partial N}$, raising both $W/P$ and $N^{*}$. This changes, however, under different assumptions.
 
@@ -1147,7 +1147,7 @@ If we represent the production function as $Y = F(K, N)$, where $Y$ is output, $
 
 1. **MPL**: $\frac{\partial Y}{\partial N}$
    
-2. **Real Wage**: $W/P = {MPL}$
+2. **Real Wage**: $W/P = \text{MPL}$
 
 In the neoclassical case with complements, an increase in $K$ leads to an increase in $\frac{\partial Y}{\partial N}$, raising both $W/P$ and $N^{*}$. This changes, however, under different assumptions.
 
@@ -1159,8 +1159,8 @@ Go back to the content, click [here](#table-of-content).
 
 Given the following values from the yield curve on October 22, 2024:
 
-- The one-year interest rate today is 4.3%, denoted as $i_{1,t} = 4.3{ percent}$.
-- The yield on a two-year zero-coupon bond is 3.95%, denoted as $i_{2,t} = 3.95{ percent}$.
+- The one-year interest rate today is 4.3%, denoted as $i_{1,t} = 4.3\text{ percent}$.
+- The yield on a two-year zero-coupon bond is 3.95%, denoted as $i_{2,t} = 3.95\text{ percent}$.
 
 Assuming investors are risk-neutral, we want to find the market's expectation of the one-year interest rate starting next year, denoted as $i_{1,t+1}^e$.
 
@@ -1206,20 +1206,20 @@ This approximation simplifies the calculation by averaging the current and expec
 
 Using the approximation formula, we can isolate $i_{1,t+1}^e$ and calculate the market's expected one-year rate starting next year.
 
-1. Substitute $i_{1,t} = 4.3{ percent}$ and $i_{2,t} = 3.95{ percent}$ into the equation:
+1. Substitute $i_{1,t} = 4.3\text{ percent}$ and $i_{2,t} = 3.95\text{ percent}$ into the equation:
 
 $$
-\frac{1}{2}(4.3{ percent}) + \frac{1}{2} i_{1,t+1}^e = 3.95 { percent}
+\frac{1}{2}(4.3\text{ percent}) + \frac{1}{2} i_{1,t+1}^e = 3.95 \text{ percent}
 $$
 
 2. Simplify and solve for $i_{1,t+1}^e$:
 
 $$
-2 \times 3.95 { percent} - 4.3 { percent} = i_{1,t+1}^e
+2 \times 3.95 \text{ percent} - 4.3 \text{ percent} = i_{1,t+1}^e
 $$
 
 $$
-i_{1,t+1}^e = 3.6 { percent}
+i_{1,t+1}^e = 3.6 \text{ percent}
 $$
 
 Thus, the market’s expectation for the one-year interest rate starting next year is **3.6%**.
@@ -1294,7 +1294,7 @@ Thus, a 1% increase in capital per worker ($K/N$) will increase output per worke
 If capital per worker increases by 10%, the percentage increase in output per worker is:
 
 $$
-0.35 \times 10{ percent} = 3.5{ percent}
+0.35 \times 10\text{ percent} = 3.5\text{ percent}
 $$
 
 ### Final Answer
@@ -1325,7 +1325,7 @@ We aim to:
 In macroeconomics, **labor income** (or wage income) represents the portion of total income in the economy that goes to labor. The **share of labor income** over total income is expressed as:
 
 $$
-\frac{{Labor Income}}{{Total Income}}
+\frac{\text{Labor Income}}{\text{Total Income}}
 $$
 
 In a perfectly competitive market:
@@ -1438,10 +1438,10 @@ Since market power allows firms to generate profits above normal returns and red
 **Answer: A. Lower**
 
 ### Summary Formula for Labor Income Share
-For a competitive market, the **labor income share** (${Labor Income Share}$) is:
+For a competitive market, the **labor income share** ($\text{Labor Income Share}$) is:
 
 $$
-{Labor Income Share} = \alpha
+\text{Labor Income Share} = \alpha
 $$
 
 With market power, however, the labor income share is expected to be **lower than $\alpha$** as firms divert a portion of total income to profits rather than to labor compensation.
@@ -1895,13 +1895,13 @@ This analysis calculates the **rate of nominal GDP growth** between 2020 and 202
 We aim to determine the rate of nominal GDP growth from 2020 to 2021. Nominal GDP is calculated as the sum of the market value of each good, where:
 
 $$
-{Nominal GDP} = \sum ({Quantity of each good} \times {Price of each good})
+\text{Nominal GDP} = \sum (\text{Quantity of each good} \times \text{Price of each good})
 $$
 
 The formula for **Nominal GDP Growth Rate** between two periods is:
 
 $$
-{Nominal GDP Growth Rate} = \frac{{Nominal GDP in 2021} - {Nominal GDP in 2020}}{{Nominal GDP in 2020}} \times 100
+\text{Nominal GDP Growth Rate} = \frac{\text{Nominal GDP in 2021} - \text{Nominal GDP in 2020}}{\text{Nominal GDP in 2020}} \times 100
 $$
 
 ### Calculations
@@ -1931,13 +1931,13 @@ $$
 Using the formula for GDP growth rate:
 
 $$
-{Nominal GDP Growth Rate} = \frac{40000 - 25000}{25000} \times 100
+\text{Nominal GDP Growth Rate} = \frac{40000 - 25000}{25000} \times 100
 $$
 
 This simplifies to:
 
 $$
-{Nominal GDP Growth Rate} = \frac{15000}{25000} \times 100 = 60{ percent}
+\text{Nominal GDP Growth Rate} = \frac{15000}{25000} \times 100 = 60\text{ percent}
 $$
 
 ### Answer
@@ -2000,21 +2000,21 @@ To calculate real GDP growth, we need to evaluate 2021 production at 2020 prices
 The formula for real GDP growth rate is:
 
 $$
-{Real GDP Growth Rate} = \frac{{Real GDP in 2021 at 2020 Prices} - {Nominal GDP in 2020}}{{Nominal GDP in 2020}} \times 100
+\text{Real GDP Growth Rate} = \frac{\text{Real GDP in 2021 at 2020 Prices} - \text{Nominal GDP in 2020}}{\text{Nominal GDP in 2020}} \times 100
 $$
 
 Substituting in the values:
 
 $$
-{Real GDP Growth Rate} = \frac{31000 - 25000}{25000} \times 100
+\text{Real GDP Growth Rate} = \frac{31000 - 25000}{25000} \times 100
 $$
 
 $$
-{Real GDP Growth Rate} = \frac{6000}{25000} \times 100
+\text{Real GDP Growth Rate} = \frac{6000}{25000} \times 100
 $$
 
 $$
-{Real GDP Growth Rate} = 24{ percent}
+\text{Real GDP Growth Rate} = 24\text{ percent}
 $$
 
 ## Conclusion
@@ -2052,7 +2052,7 @@ In a closed economy, three goods—cars, computers, and oranges—are produced. 
 The GDP deflator is a measure of the overall price level, calculated by dividing nominal GDP by real GDP and then multiplying by 100. The formula for the GDP deflator in year $t$ is:
 
 $$
-{GDP Deflator}_t = \frac{{Nominal GDP}_t}{{Real GDP}_t} \times 100
+\text{GDP Deflator}_t = \frac{\text{Nominal GDP}_t}{\text{Real GDP}_t} \times 100
 $$
 
 To find the inflation rate between 2020 and 2021, we calculate the GDP deflator for each year and then find the percentage change.
@@ -2090,25 +2090,25 @@ To find the inflation rate between 2020 and 2021, we calculate the GDP deflator 
 Since nominal and real GDP are the same in 2020 (base year), the GDP deflator is 100.
 
 $$
-{GDP Deflator}_{2020} = \frac{{Nominal GDP}\_{2020}}{{Real GDP}\_{2020}} \times 100 = \frac{25000}{25000} \times 100 = 100
+\text{GDP Deflator}_{2020} = \frac{\text{Nominal GDP}\_{2020}}{\text{Real GDP}\_{2020}} \times 100 = \frac{25000}{25000} \times 100 = 100
 $$
 
 - **2021 GDP Deflator**:
 
-$${GDP Deflator}_{2021} = \frac{{Nominal GDP}\_{2021}}{{Real GDP}\_{2021}} \times 100 = \frac{40000}{31000} \times 100 \approx 129.03$$
+$$\text{GDP Deflator}_{2021} = \frac{\text{Nominal GDP}\_{2021}}{\text{Real GDP}\_{2021}} \times 100 = \frac{40000}{31000} \times 100 \approx 129.03$$
 
 #### Step 4: Calculate the Inflation Rate Using the GDP Deflator
 
 The inflation rate is the percentage change in the GDP deflator from 2020 to 2021, calculated as:
 
 $$
-{Inflation Rate} = \frac{{GDP Deflator}\_{2021} - {GDP Deflator}\_{2020}}{{GDP Deflator}\_{2020}} \times 100
+\text{Inflation Rate} = \frac{\text{GDP Deflator}\_{2021} - \text{GDP Deflator}\_{2020}}{\text{GDP Deflator}\_{2020}} \times 100
 $$
 
 Substitute the values:
 
 $$
-{Inflation Rate} = \frac{129.03 - 100}{100} \times 100 = 29.03{ percent}
+\text{Inflation Rate} = \frac{129.03 - 100}{100} \times 100 = 29.03\text{ percent}
 $$
 
 ### Conclusion
@@ -2339,7 +2339,7 @@ However, when taxes $T$ are cut by 10, the effect on output $Y$ is smaller. This
    When $G$ increases by 10, the effect on $Y$ can be calculated as:
 
 $$
-   \Delta Y = \Delta G \times {Multiplier}
+   \Delta Y = \Delta G \times \text{Multiplier}
 $$
 
    In our previous calculation, we found that $\Delta Y = 10$ when $\Delta G = 10$.
@@ -2352,7 +2352,7 @@ $$
    - Increase in consumption due to tax cut:
 
 $$
-     \Delta C = {MPC} \times \Delta (Y - T) = 0.5 \times 10 = 5
+     \Delta C = \text{MPC} \times \Delta (Y - T) = 0.5 \times 10 = 5
 $$
 
    Thus, only 5 units of the 10-unit tax cut actually contribute to an increase in consumption $C$.
@@ -2440,7 +2440,7 @@ The opportunity cost of holding balances in a bank deposit refers to the potenti
 In economics, the opportunity cost of a decision is defined as the value of the next best alternative forgone. For example, in this scenario:
 
 $$
-{Opportunity Cost} = {Return on Next Best Alternative} - {Return on Current Bank Deposit}
+\text{Opportunity Cost} = \text{Return on Next Best Alternative} - \text{Return on Current Bank Deposit}
 $$
 
 ### Why Option A is Correct
@@ -2550,7 +2550,7 @@ In general, central bank balance sheets can be simplified as follows:
 If we consider the balance sheet equation:
 
 $$
-{Assets} = {Liabilities} + {Equity}
+\text{Assets} = \text{Liabilities} + \text{Equity}
 $$
 
 where:
@@ -2640,10 +2640,10 @@ where:
 
 1. **Nominal Interest Rate**: In a liquidity trap, the nominal interest rate ($i$) is close to zero because monetary policy cannot lower it further.
    
-2. **Inflation Rate**: If the inflation rate ($\pi$) is positive, even a nominal interest rate close to zero would result in a **negative real interest rate**. For example, if $i = 0{ percent}$ and $\pi = 2{ percent}$, then:
+2. **Inflation Rate**: If the inflation rate ($\pi$) is positive, even a nominal interest rate close to zero would result in a **negative real interest rate**. For example, if $i = 0\text{ percent}$ and $\pi = 2\text{ percent}$, then:
 
 $$
-   r = 0{ percent} - 2{ percent} = -2{ percent}
+   r = 0\text{ percent} - 2\text{ percent} = -2\text{ percent}
 $$
 
 This indicates that the real interest rate is likely to be **negative** rather than zero.
@@ -2676,13 +2676,13 @@ To find the expected interest rate for next year, we can use the **expectations 
 The formula for this is:
 
 $$
-{Two-Year Yield} = \frac{{One-Year Interest Rate Today} + {Expected Interest Rate Next Year}}{2}
+\text{Two-Year Yield} = \frac{\text{One-Year Interest Rate Today} + \text{Expected Interest Rate Next Year}}{2}
 $$
 
 Rearranging the formula to solve for the expected interest rate next year:
 
 $$
-{Expected Interest Rate Next Year} = 2 \times {Two-Year Yield} - {One-Year Interest Rate Today}
+\text{Expected Interest Rate Next Year} = 2 \times \text{Two-Year Yield} - \text{One-Year Interest Rate Today}
 $$
 
 ### Substituting Given Values
@@ -2693,13 +2693,13 @@ $$
 Now, plug in these values:
 
 $$
-{Expected Interest Rate Next Year} = 2 \times 0.03 - 0.02
+\text{Expected Interest Rate Next Year} = 2 \times 0.03 - 0.02
 $$
 
 Simplifying:
 
 $$
-{Expected Interest Rate Next Year} = 0.06 - 0.02 = 0.04
+\text{Expected Interest Rate Next Year} = 0.06 - 0.02 = 0.04
 $$
 
 Thus, the **expected interest rate for next year is 4%** (or 0.04 as a decimal).
@@ -2855,7 +2855,7 @@ The inversion signals that investors expect **central banks to lower interest ra
 Mathematically, we can represent the relationship in terms of **yield differentials** along the curve:
 
 $$
-{Yield Difference} = {Yield}\_{{Long-term}} - {Yield}\_{{Short-term}}
+\text{Yield Difference} = \text{Yield}\_{\text{Long-term}} - \text{Yield}\_{\text{Short-term}}
 $$
 
 When this **yield difference** is negative, the yield curve is inverted.
@@ -2940,7 +2940,7 @@ We need to evaluate whether this statement is **True** or **False**.
 ### 1. Understanding Output Gap
 The **output gap** is the difference between an economy's actual output ($Y_{actual}$) and its potential output ($Y_{potential}$):
 $$
-{Output Gap} = \frac{Y_{actual} - Y_{potential}}{Y_{potential}} \times 100
+\text{Output Gap} = \frac{Y_{actual} - Y_{potential}}{Y_{potential}} \times 100
 $$
 - **Negative output gap**: 
 
@@ -3211,7 +3211,7 @@ If **G** increases while **GDP, C, and I** remain unchanged, the current account
 The current account balance (CA) is given by:
 
 $$
-CA = NX = {Exports} - {Imports}
+CA = NX = \text{Exports} - \text{Imports}
 $$
 
 Where:
@@ -3327,7 +3327,7 @@ A Turkish company pays interest on a bank loan borrowed from a German bank. How 
 #### **1. Understanding Net Foreign Income (NFI)**
 Net Foreign Income (NFI) refers to the difference between **income received** from foreign investments and **income paid** to foreign investors:
 $$
-{NFI} = {Income Received from Foreigners} - {Income Paid to Foreigners}
+\text{NFI} = \text{Income Received from Foreigners} - \text{Income Paid to Foreigners}
 $$
 When a Turkish company pays interest to a foreign bank, it counts as **income paid to foreigners**. Therefore, this reduces the Net Foreign Income (NFI) for Turkey.
 
@@ -3338,7 +3338,7 @@ The **Current Account (CA)** consists of:
 - **Net Transfers**: Transfers such as remittances.
 
 $$
-{CA} = {NX} + {NFI} + {Net Transfers}
+\text{CA} = \text{NX} + \text{NFI} + \text{Net Transfers}
 $$
 
 Since the interest payment is an **outflow of income**, it **reduces NFI**. A decrease in NFI directly lowers the **Current Account balance**.
@@ -3367,7 +3367,7 @@ A U.S. national has a bank account at Deutsche Bank in Germany and uses 1 millio
 ### 1. **Net Foreign Assets (NFA) Definition**
 Net Foreign Assets (NFA) represent the difference between the foreign assets owned by residents of a country and the domestic assets owned by foreigners. It is given by:
 $$
-NFA = {Foreign Assets Owned by Domestic Residents} - {Domestic Assets Owned by Foreigners}
+NFA = \text{Foreign Assets Owned by Domestic Residents} - \text{Domestic Assets Owned by Foreigners}
 $$
 
 ### 2. **Current Account (CA) Definition**
@@ -3416,12 +3416,12 @@ A U.S. national has a bank account at Deutsche Bank in Germany and uses 1 millio
 ### **Key Concepts**
 1. **Net Foreign Assets (NFA)**:
    - Formula:
-     $$ NFA = 	ext{Foreign Assets held by Domestic Residents} - {Domestic Assets held by Foreigners} $$
+     $$ NFA = 	ext{Foreign Assets held by Domestic Residents} - \text{Domestic Assets held by Foreigners} $$
    - When foreign currency assets (such as euros in a German bank) are used for imports, the foreign asset position decreases.
 
 2. **Current Account (CA)**:
    - Formula for the current account balance:
-     $$ CA = 	ext{Exports of Goods and Services} - {Imports of Goods and Services} $$
+     $$ CA = 	ext{Exports of Goods and Services} - \text{Imports of Goods and Services} $$
    - Purchasing imported cars means an increase in imports, which worsens the current account.
 
 ### **Impact of the Transaction**
@@ -3449,7 +3449,7 @@ In 2019, the **private saving** in the U.S. was $1.5$ trillion USD, and it incre
 In macroeconomics, the **Current Account (CA) balance** is determined by the following equation:
 
 $$
-{CA} = {Private Saving} + {Public Saving} - {Investment}
+\text{CA} = \text{Private Saving} + \text{Public Saving} - \text{Investment}
 $$
 
 However, since we are asked about the **net effect** of changes in **private and public savings** only, we assume that **investment** remains constant.
@@ -3459,7 +3459,7 @@ However, since we are asked about the **net effect** of changes in **private and
 The change in private saving is:
 
 $$
-\Delta {Private Saving} = 3 - 1.5 = 1.5 { trillion USD}
+\Delta \text{Private Saving} = 3 - 1.5 = 1.5 \text{ trillion USD}
 $$
 
 ### Step 2: Change in Public Saving
@@ -3467,7 +3467,7 @@ $$
 The change in public saving is:
 
 $$
-\Delta {Public Saving} = -3 - (-1) = -2 { trillion USD}
+\Delta \text{Public Saving} = -3 - (-1) = -2 \text{ trillion USD}
 $$
 
 ### Step 3: Net Effect on the CA Balance
@@ -3475,13 +3475,13 @@ $$
 The net change in the CA balance is the sum of the changes in private and public savings:
 
 $$
-\Delta {CA} = \Delta {Private Saving} + \Delta {Public Saving}
+\Delta \text{CA} = \Delta \text{Private Saving} + \Delta \text{Public Saving}
 $$
 
 Substituting the values:
 
 $$
-\Delta {CA} = 1.5 + (-2) = -0.5 { trillion USD}
+\Delta \text{CA} = 1.5 + (-2) = -0.5 \text{ trillion USD}
 $$
 
 ### Final Answer:
@@ -3506,7 +3506,7 @@ In 2021, the Euro stock market earned a return of 27%. The EURUSD exchange rate 
 To calculate the dollar return for a U.S. investor holding European stocks, we need to consider both the return from the European stock market and the effect of the exchange rate change. The formula for calculating the dollar return is:
 
 $$
-{Dollar Return} = (1 + {Local Return}) \times (1 + {Currency Effect}) - 1
+\text{Dollar Return} = (1 + \text{Local Return}) \times (1 + \text{Currency Effect}) - 1
 $$
 
 ### Step 1: Local Return in the European Market
@@ -3520,30 +3520,30 @@ The EUR/USD exchange rate changed as follows:
 
 The currency effect is the percentage change in the value of the euro relative to the dollar:
 $$
-{Currency Effect} = \frac{{End Exchange Rate}}{{Start Exchange Rate}} - 1
+\text{Currency Effect} = \frac{\text{End Exchange Rate}}{\text{Start Exchange Rate}} - 1
 $$
 
 Substituting the values:
 $$
-{Currency Effect} = \frac{1.13}{1.22} - 1
+\text{Currency Effect} = \frac{1.13}{1.22} - 1
 $$
 $$
-{Currency Effect} \approx -0.0738 \quad {or} \quad -7.38\%
+\text{Currency Effect} \approx -0.0738 \quad \text{or} \quad -7.38\%
 $$
 
 ### Step 3: Calculate Dollar Return
 Substituting the local return and currency effect into the formula:
 $$
-{Dollar Return} = (1 + 0.27) \times (1 - 0.0738) - 1
+\text{Dollar Return} = (1 + 0.27) \times (1 - 0.0738) - 1
 $$
 $$
-{Dollar Return} \approx 1.27 \times 0.9262 - 1
+\text{Dollar Return} \approx 1.27 \times 0.9262 - 1
 $$
 $$
-{Dollar Return} \approx 1.1763 - 1
+\text{Dollar Return} \approx 1.1763 - 1
 $$
 $$
-{Dollar Return} \approx 0.1763 \quad {or} \quad 17.63\%
+\text{Dollar Return} \approx 0.1763 \quad \text{or} \quad 17.63\%
 $$
 
 ### Final Answer:
@@ -3557,7 +3557,7 @@ Go back to the content, click [here](#table-of-content).
 
 Consider the following macroeconomics question:
 
-The dollar-yen exchange rate $E_{y/{dollar}}$ (denoted as USDJPY) is 100 today and is expected to increase to 103 in a year. The annual interest rate in yen is 3%, and the annual interest rate in dollars is 1%. A risk-neutral investor must decide between two options:
+The dollar-yen exchange rate $E_{y/\text{dollar}}$ (denoted as USDJPY) is 100 today and is expected to increase to 103 in a year. The annual interest rate in yen is 3%, and the annual interest rate in dollars is 1%. A risk-neutral investor must decide between two options:
 
 A. Borrow in yen to invest in dollars.  
 B. Borrow in dollars to invest in yen.
@@ -3571,7 +3571,7 @@ Which option will the investor choose?
 The current exchange rate is $E_t = 100$ (yen per dollar), and the expected future exchange rate is $E_{t+1} = 103$. The expected percentage depreciation of the yen is:
 
 $$
-{Depreciation Rate of Yen} = \frac{E_{t+1} - E_t}{E_t} = \frac{103 - 100}{100} = 0.03 { (or 3%)}
+\text{Depreciation Rate of Yen} = \frac{E_{t+1} - E_t}{E_t} = \frac{103 - 100}{100} = 0.03 \text{ (or 3%)}
 $$
 
 This means that the yen is expected to depreciate by 3% against the dollar.
@@ -3583,14 +3583,14 @@ This means that the yen is expected to depreciate by 3% against the dollar.
   
   - **Net cost of borrowing in yen:**  
     $$
-    3\% { interest cost} - 3\% { currency depreciation} = 0\%
+    3\% \text{ interest cost} - 3\% \text{ currency depreciation} = 0\%
     $$
   - Meanwhile, the return on dollar investment is **1%**.
 
 - **Borrowing in dollars (at 1%) to invest in yen (at 3%):**  
   The yen investment yields 3%, but since the yen is expected to depreciate by 3%, the return in dollar terms is fully eroded:
   $$
-  3\% { yen return} - 3\% { currency depreciation} = 0\%
+  3\% \text{ yen return} - 3\% \text{ currency depreciation} = 0\%
   $$
 
 ### 3. Conclusion
@@ -3783,8 +3783,8 @@ This file analyzes the public debt stabilization condition in macroeconomics and
 
 We are given the following values:
 - Public Debt-to-GDP ratio: $B/Y = 50\%$
-- Real interest rate: $r = 6\% { (or 0.06)}$
-- Real GDP growth rate: $g = 4\% { (or 0.04)}$
+- Real interest rate: $r = 6\% \text{ (or 0.06)}$
+- Real GDP growth rate: $g = 4\% \text{ (or 0.04)}$
 
 The goal is to find the **primary deficit-to-GDP ratio** $\frac{G - T}{Y}$ that stabilizes the debt-to-GDP ratio at $0.5$.
 
@@ -3856,7 +3856,7 @@ In the previous macroeconomics question, we examined the consumer's real GDP gro
 - $b_t$: debt-to-GDP ratio at time $t$ (given as 50% or 0.5)
 - $g$: nominal GDP growth rate (given as 2% or 0.02)
 - $r$: interest rate on government debt
-- ${Primary Deficit}$: fiscal balance excluding interest payments, denoted as a percentage of GDP.
+- $\text{Primary Deficit}$: fiscal balance excluding interest payments, denoted as a percentage of GDP.
 
 The goal is to maintain a stable debt-to-GDP ratio, which means the debt ratio should remain at 0.5 in future periods.
 
@@ -3866,13 +3866,13 @@ The goal is to maintain a stable debt-to-GDP ratio, which means the debt ratio s
 The debt-to-GDP ratio evolves according to the equation:
 
 $$
-b_{t+1} = (1 + r - g)b_t + {Primary Deficit}
+b_{t+1} = (1 + r - g)b_t + \text{Primary Deficit}
 $$
 
 To keep the debt-to-GDP ratio constant ($b_{t+1} = b_t$), we rearrange the equation:
 
 $$
-0 = (r - g) \cdot b_t + {Primary Deficit}
+0 = (r - g) \cdot b_t + \text{Primary Deficit}
 $$
 
 ---
@@ -3881,7 +3881,7 @@ $$
 Rearranging for the primary deficit:
 
 $$
-{Primary Deficit} = -(r - g) \cdot b_t
+\text{Primary Deficit} = -(r - g) \cdot b_t
 $$
 
 ---
@@ -3894,11 +3894,11 @@ Assuming $r = 0.02$ (since it often approximates the GDP growth rate in this typ
 Substituting into the formula:
 
 $$
-{Primary Deficit} = -(0.02 - 0.02) \cdot 0.5
+\text{Primary Deficit} = -(0.02 - 0.02) \cdot 0.5
 $$
 
 $$
-{Primary Deficit} = 0
+\text{Primary Deficit} = 0
 $$
 
 ---
@@ -3986,7 +3986,7 @@ When domestic inflation is higher than in foreign countries:
 ### 3. **Implications for Trade Deficit**
 The trade deficit is defined as:
 $$
-{Trade Deficit} = {Imports} - {Exports}
+\text{Trade Deficit} = \text{Imports} - \text{Exports}
 $$
 As imports increase and exports decrease due to inflation:
 - **Imports ($M$)** increase.
@@ -4073,16 +4073,16 @@ The correct answer is **A. Spending above potential output, leading to higher in
 The output gap is the difference between **actual GDP** and **potential GDP**:
 
 $$
-{Output Gap} = {Actual GDP} - {Potential GDP}
+\text{Output Gap} = \text{Actual GDP} - \text{Potential GDP}
 $$
 
 - A **positive output gap** occurs when **actual GDP** exceeds **potential GDP**:
 
-$${Actual GDP} \ge {Potential GDP}$$
+$$\text{Actual GDP} \ge \text{Potential GDP}$$
 
 - A **negative output gap** occurs when **actual GDP** is below **potential GDP**:
 
-$$${Actual GDP} \le {Potential GDP}$$
+$$$\text{Actual GDP} \le \text{Potential GDP}$$
 
 ### **Implications of a Positive Output Gap:**
 1. **Spending Above Potential Output:**
@@ -4136,10 +4136,10 @@ A "hot" economy is typically characterized by strong demand, low unemployment, a
 
 The wage-price spiral is a classic feedback loop in macroeconomics that can fuel persistent inflation, even in the absence of productivity changes.
 
-The nominal wage increase $w$ impacts the price level $P$, which in turn affects the real wage $W_{{real}}$:
+The nominal wage increase $w$ impacts the price level $P$, which in turn affects the real wage $W_{\text{real}}$:
 
 $$
-W_{{real}} = \frac{w}{P}
+W_{\text{real}} = \frac{w}{P}
 $$
 
 In a hot economy:
@@ -4292,7 +4292,7 @@ D. Output will increase above potential, and inflation will go above target
 
    - At equilibrium:
      $$
-     Y_t = Y^{\star} \quad {and} \quad \pi_t = \pi^{\star}
+     Y_t = Y^{\star} \quad \text{and} \quad \pi_t = \pi^{\star}
      $$
 
 ### 2. **Effect of a Positive Demand Shock**
@@ -4385,7 +4385,7 @@ Options:
 
 The **current account balance** is defined as:
 $$
-{Current Account Balance (CA)} = {Net Exports (NX)} = {Exports} - {Imports}
+\text{Current Account Balance (CA)} = \text{Net Exports (NX)} = \text{Exports} - \text{Imports}
 $$
 Alternatively, using the national income accounting identity:
 $$
@@ -4406,7 +4406,7 @@ NX = Y - (C + I + G)
 $$
 Given that $Y$, $I$, and $G$ remain unchanged, a **decrease in private consumption $C$** leads to:
 $$
-NX = {constant} - (\downarrow C + {constant values for } I { and } G)
+NX = \text{constant} - (\downarrow C + \text{constant values for } I \text{ and } G)
 $$
 This means net exports $NX$ must increase to maintain equilibrium.
 
@@ -4463,7 +4463,7 @@ To understand the implications of this transaction, let's break down the key con
 The **balance of payments identity** ensures that the current account (CA) and the capital account (KA) sum to zero:
 
 $$
-CA + KA + {official reserves} = 0
+CA + KA + \text{official reserves} = 0
 $$
 
 - A **CA deficit** must be offset by an equivalent **KA surplus** (inflows of foreign capital).
@@ -4492,7 +4492,7 @@ B. NFA increases
 The **Net Foreign Asset (NFA)** position measures the difference between the value of domestic assets owned by foreigners and the value of foreign assets owned by domestic residents. It is given by:
 
 $$
-{NFA} = {Domestic Holdings of Foreign Assets} - {Foreign Holdings of Domestic Assets}
+\text{NFA} = \text{Domestic Holdings of Foreign Assets} - \text{Foreign Holdings of Domestic Assets}
 $$
 
 ### 2. Context of the Question  
@@ -4532,7 +4532,7 @@ The purchase of foreign assets (like foreign stocks) is recorded in the **financ
 ### Key Formula
 The identity for the balance of payments is:
 $$
-{Current Account} + {Financial Account} = 0
+\text{Current Account} + \text{Financial Account} = 0
 $$
 
 ### Answer Explanation
@@ -4630,23 +4630,23 @@ An **interest payment to a foreign entity** represents an **outflow of funds** u
 The current account balance is given by:
 
 $$
-{CA} = {Exports} - {Imports} + {Net Primary Income} + {Net Transfers}
+\text{CA} = \text{Exports} - \text{Imports} + \text{Net Primary Income} + \text{Net Transfers}
 $$
 
 In this case:
 - The interest payment is a **negative entry** under "Net Primary Income".
-- Since it's an outflow, it reduces the value of ${Net Primary Income}$ and therefore lowers the overall ${CA}$.
+- Since it's an outflow, it reduces the value of $\text{Net Primary Income}$ and therefore lowers the overall $\text{CA}$.
 
 ### Mathematical Representation:
 If the net primary income before the interest payment is $Y$, and the interest payment is $P$, the new net primary income becomes:
 
 $$
-Y_{{new}} = Y - P
+Y_{\text{new}} = Y - P
 $$
 
 Substituting into the current account formula:
 
-$${CA}_{{new}} = {CA}_{{old}} - P$$
+$$\text{CA}_{\text{new}} = \text{CA}_{\text{old}} - P$$
 
 ### Conclusion:
 The correct answer is:
@@ -4673,13 +4673,13 @@ To determine the correct answer, we need to evaluate the **expected value** of t
 The expected value of the lottery is calculated as:
 
 $$
-{EV} = (100 \times 0.2) + (50 \times 0.8)
+\text{EV} = (100 \times 0.2) + (50 \times 0.8)
 $$
 
 Substituting the values:
 
 $$
-{EV} = 20 + 40 = 60
+\text{EV} = 20 + 40 = 60
 $$
 
 ### Step 2: Compare the Certain Amount to the Expected Value
@@ -4705,7 +4705,7 @@ Over the past year, the Thai baht depreciated relative to the Canadian dollar by
 To compute the **return in Canadian dollars** from the baht-denominated bond, we can use the following approximation formula:
 
 $$
-{Return in Foreign Currency} = {Local Return} + {Currency Depreciation}
+\text{Return in Foreign Currency} = \text{Local Return} + \text{Currency Depreciation}
 $$
 
 ### Step 1: Assigning the Values
@@ -4716,11 +4716,11 @@ $$
 Substituting the given values into the approximation formula:
 
 $$
-{Return in Canadian Dollars} = 6\% - 4\%
+\text{Return in Canadian Dollars} = 6\% - 4\%
 $$
 
 $$
-{Return in Canadian Dollars} = 2\%
+\text{Return in Canadian Dollars} = 2\%
 $$
 
 ### Final Answer:
@@ -4748,22 +4748,22 @@ An exchange rate of EURJPY indicates how many units of JPY are required to buy 1
 The exchange rate change can be expressed as:
 
 $$
-{New Exchange Rate (EURJPY)} = 160
+\text{New Exchange Rate (EURJPY)} = 160
 $$
 $$
-{Old Exchange Rate (EURJPY)} = 190
+\text{Old Exchange Rate (EURJPY)} = 190
 $$
 
 The **percentage change** in the exchange rate is calculated as:
 
 $$
-{Percentage Change} = \frac{{New Rate} - {Old Rate}}{{Old Rate}} \times 100
+\text{Percentage Change} = \frac{\text{New Rate} - \text{Old Rate}}{\text{Old Rate}} \times 100
 $$
 
 Substituting values:
 
 $$
-{Percentage Change} = \frac{160 - 190}{190} \times 100 = -15.79\%
+\text{Percentage Change} = \frac{160 - 190}{190} \times 100 = -15.79\%
 $$
 
 A negative percentage change indicates that the JPY has strengthened against the EUR.
@@ -4786,7 +4786,7 @@ This analysis explores whether a risk-neutral investor should borrow in Chinese 
 
 ## **Restatement of the Problem**
 
-The USDCNY exchange rate today is $8$ (denoted as $E_{t} = \frac{{CNY}}{{USD}}$), meaning 1 USD equals 8 CNY. The expected exchange rate in one year is $8.8$, indicating that the dollar is expected to appreciate relative to the yuan.
+The USDCNY exchange rate today is $8$ (denoted as $E_{t} = \frac{\text{CNY}}{\text{USD}}$), meaning 1 USD equals 8 CNY. The expected exchange rate in one year is $8.8$, indicating that the dollar is expected to appreciate relative to the yuan.
 
 - **Annual interest rate in yuan**: $12\%$.
 - **Annual interest rate in dollars**: $3\%$.
@@ -4819,25 +4819,25 @@ Where:
 
 The expected depreciation of the yuan relative to the dollar:
 $$
-{Exchange Rate Change} = \frac{E_{t+1} - E_t}{E_t} \times 100
+\text{Exchange Rate Change} = \frac{E_{t+1} - E_t}{E_t} \times 100
 $$
 Substituting values:
 $$
-{Exchange Rate Change} = \frac{8.8 - 8}{8} \times 100 = 10\%
+\text{Exchange Rate Change} = \frac{8.8 - 8}{8} \times 100 = 10\%
 $$
 
 ### **Step 3: Compare Returns**
 
 1. **Return from borrowing in dollars to invest in yuan**:
    $$
-   {Net Return} = 12\% - 10\% = 2\%
+   \text{Net Return} = 12\% - 10\% = 2\%
    $$
    After accounting for expected depreciation, the net return is 2%.
 
 2. **Return from borrowing in yuan to invest in dollars**:
    The expected appreciation of the dollar relative to yuan provides an **effective gain**:
    $$
-   {Effective Gain} = 3\% + 10\% = 13\%
+   \text{Effective Gain} = 3\% + 10\% = 13\%
    $$
 
 ---
@@ -5012,7 +5012,7 @@ The correct answer is: **A. True**
 The **headline deficit** (also known as the **total deficit**) includes interest payments on existing debt, while the **primary deficit** does not. Therefore:
 
 $$
-{Total Deficit} = {Primary Deficit} + {Interest Payments on Debt}
+\text{Total Deficit} = \text{Primary Deficit} + \text{Interest Payments on Debt}
 $$
 
 Let:
@@ -5061,7 +5061,7 @@ The government is running a **primary deficit**, meaning its spending (excluding
 To understand the relationship between debt, interest rates, and GDP growth, we use the **debt accumulation equation**:
 
 $$
-\frac{d_t}{Y_t} = \frac{d_{t-1}}{Y_{t-1}} \left( \frac{1 + r_t}{1 + g_t} \right) + {primary deficit-to-GDP ratio}
+\frac{d_t}{Y_t} = \frac{d_{t-1}}{Y_{t-1}} \left( \frac{1 + r_t}{1 + g_t} \right) + \text{primary deficit-to-GDP ratio}
 $$
 
 Where:
@@ -5180,7 +5180,7 @@ Non-credible policies lead to a shift in expectations regarding the future excha
 
 This change in expectations feeds back into the interest parity condition, making depreciation more likely in the short run as well:
 $$
-{Expected Depreciation Rate} = \frac{E_e - E}{E}
+\text{Expected Depreciation Rate} = \frac{E_e - E}{E}
 $$
 If $E_e$ increases significantly, the current exchange rate $E$ must also rise, contributing to further currency weakness.
 
@@ -5239,7 +5239,7 @@ From a macroeconomic perspective, introducing a tariff can cause an increase in 
 This relationship is reflected in the equation for the **exchange rate ($E$):**  
 
 $$
-E = \frac{P^{*}}{P} \times {real exchange rate}
+E = \frac{P^{*}}{P} \times \text{real exchange rate}
 $$  
 
 where $P^{*}$ represents the foreign price level, and $P$ represents the domestic price level. A higher real exchange rate can appreciate the nominal exchange rate $E$.
@@ -5379,11 +5379,11 @@ Given the **nill output gap** and inflation **at target**, the correct answer is
 The output gap is calculated as:
 
 $$
-{Output Gap (\%)} = \frac{{Actual GDP} - {Potential GDP}}{{Potential GDP}} \times 100
+\text{Output Gap (\%)} = \frac{\text{Actual GDP} - \text{Potential GDP}}{\text{Potential GDP}} \times 100
 $$
 
 For this scenario:
-- ${Output Gap (\%)} = 0\%$, meaning actual GDP equals potential GDP.
+- $\text{Output Gap (\%)} = 0\%$, meaning actual GDP equals potential GDP.
 
 Go back to the content, click [here](#table-of-content).
 
@@ -6067,11 +6067,11 @@ The Ample Reserves regime allows banks to hold excess reserves rather than compe
 
 The interest rate the Central Bank sets on reserves influences the policy rate:
 $$
-i_{policy} = {IOR} + \varepsilon
+i_{policy} = \text{IOR} + \varepsilon
 $$
 Where:
 - $i_{policy}$ is the policy interest rate (e.g., federal funds rate).
-- ${IOR}$ is the interest on reserves.
+- $\text{IOR}$ is the interest on reserves.
 - $\varepsilon$ represents any small premium due to risk or frictions in the market.
 
 This shows how adjusting the interest on reserves allows the Central Bank to control the short-term interest rate directly.
@@ -6158,7 +6158,7 @@ The central bank’s interest-bearing reserves function like short-term liabilit
 ### **E. Potential central bank losses when interest rates are increased**  
 When the central bank raises interest rates, the interest it must pay on reserves increases. If the interest earned on its asset holdings (such as long-term bonds) does not rise as quickly, the central bank may face financial losses. The formula for net interest margin can be represented as:
 $$
-{Net Income} = {Interest Income} - {Interest Paid}
+\text{Net Income} = \text{Interest Income} - \text{Interest Paid}
 $$
 When the central bank’s **interest paid** grows faster than its **interest income**, losses occur.
 
@@ -6208,7 +6208,7 @@ Under fiscal dominance, policymakers may tolerate higher inflation because it re
 ### Macro Formula: Debt-to-GDP Ratio  
 The public debt-to-GDP ratio is defined as:
 $$
-{Debt-to-GDP Ratio} = \frac{{Public Debt}}{{Nominal GDP}}
+\text{Debt-to-GDP Ratio} = \frac{\text{Public Debt}}{\text{Nominal GDP}}
 $$
 A higher nominal GDP due to inflation can reduce the ratio, even if the absolute debt level remains unchanged.
 
@@ -6382,7 +6382,7 @@ The **current account (CA)** records a country's net exports of goods and servic
 
 In an open economy, the balance of payments (BOP) identity holds:
 $$
-{CA} + {KA} = 0
+\text{CA} + \text{KA} = 0
 $$
 where:
 - $CA$: Current Account Balance
@@ -6392,7 +6392,7 @@ where:
 When foreigners purchase domestic assets (e.g., bonds, equities, or real estate), there is a **capital inflow** to the domestic economy. This increases the **capital account surplus**. Since the BOP identity must hold, an increase in the capital account surplus must be offset by a **current account deficit** to maintain the equilibrium.
 
 $$
-{If KA} \uparrow \Rightarrow {CA} \downarrow
+\text{If KA} \uparrow \Rightarrow \text{CA} \downarrow
 $$
 
 ### Intuition:
@@ -6535,13 +6535,13 @@ For the following three questions, rank the countries (1 through 3) in order of 
 Under UIP, the expected change in the nominal exchange rate is given by:
 
 $$
-\mathbb{E}(S_{t+1} - S_t) = R^{{dom}} - R^{{foreign}}
+\mathbb{E}(S_{t+1} - S_t) = R^{\text{dom}} - R^{\text{foreign}}
 $$
 
 Where:
 - $S_t$ is the nominal exchange rate at time $t$ (domestic currency per unit of foreign currency).
-- $R^{{dom}}$ is the nominal interest rate in the domestic country.
-- $R^{{foreign}}$ is the nominal interest rate in the foreign country (here, the U.S. dollar).
+- $R^{\text{dom}}$ is the nominal interest rate in the domestic country.
+- $R^{\text{foreign}}$ is the nominal interest rate in the foreign country (here, the U.S. dollar).
 
 ---
 
@@ -6549,9 +6549,9 @@ Where:
 
 The difference between the domestic nominal interest rate ($R$) and the U.S. nominal interest rate affects the expected appreciation/depreciation against the dollar.
 
-- **UK:** $R_{{UK}} - R_{{US}} = 3.9\% - R_{{US}}$
-- **Euro Area:** $R_{{Euro}} - R_{{US}} = 2.2\% - R_{{US}}$
-- **Japan:** $R_{{Japan}} - R_{{US}} = 0\% - R_{{US}}$
+- **UK:** $R_{\text{UK}} - R_{\text{US}} = 3.9\% - R_{\text{US}}$
+- **Euro Area:** $R_{\text{Euro}} - R_{\text{US}} = 2.2\% - R_{\text{US}}$
+- **Japan:** $R_{\text{Japan}} - R_{\text{US}} = 0\% - R_{\text{US}}$
 
 ---
 
@@ -6624,22 +6624,22 @@ According to UIP, a country with **lower nominal interest rates** tends to have 
 We calculate the **real interest rate** for each country as follows:
 
 $$
-R_{{real}} = R_{{nominal}} - \pi
+R_{\text{real}} = R_{\text{nominal}} - \pi
 $$
 
 #### **UK**:
 $$
-R_{{real}}^{UK} = 3.9\% - 2.6\% = 1.3\%
+R_{\text{real}}^{UK} = 3.9\% - 2.6\% = 1.3\%
 $$
 
 #### **Euro Area**:
 $$
-R_{{real}}^{Euro} = 2.2\% - 2.3\% = -0.1\%
+R_{\text{real}}^{Euro} = 2.2\% - 2.3\% = -0.1\%
 $$
 
 #### **Japan**:
 $$
-R_{{real}}^{Japan} = 0\% - (-0.2\%) = 0.2\%
+R_{\text{real}}^{Japan} = 0\% - (-0.2\%) = 0.2\%
 $$
 
 ---
@@ -6855,16 +6855,16 @@ Net Foreign Assets (NFA) are the difference between what U.S. residents own abro
 The NFA change due to the transaction can be represented as:
 
 $$
-\Delta {NFA} = \Delta {Foreign Liabilities} - \Delta {Foreign Assets}
+\Delta \text{NFA} = \Delta \text{Foreign Liabilities} - \Delta \text{Foreign Assets}
 $$
 
 In this case:
-- $\Delta {Foreign Liabilities} = -500,000$ (since U.S. liabilities to the Italian importer decrease)
-- $\Delta {Foreign Assets} = 0$ (no new U.S. foreign asset is created)
+- $\Delta \text{Foreign Liabilities} = -500,000$ (since U.S. liabilities to the Italian importer decrease)
+- $\Delta \text{Foreign Assets} = 0$ (no new U.S. foreign asset is created)
 
 Thus:
 $$
-\Delta {NFA} = -(-500,000) = +500,000
+\Delta \text{NFA} = -(-500,000) = +500,000
 $$
 
 ### **Why Option A and C are Incorrect**
@@ -6909,20 +6909,20 @@ Assume that the interest rate on a British short-term deposit is **0%** during t
 #### **Value in August**
 If the investor had converted £100 to euros in August:
 $$
-{Value in Euros (August)} = \frac{100£}{0.84£/1€} = 119.05€
+\text{Value in Euros (August)} = \frac{100£}{0.84£/1€} = 119.05€
 $$
 
 #### **Value in September**
 If the investor waits until September to convert:
 $$
-{Value in Euros (September)} = \frac{100£}{0.90£/1€} = 111.11€
+\text{Value in Euros (September)} = \frac{100£}{0.90£/1€} = 111.11€
 $$
 
 ### 3. Calculate the Rate of Return in Euros
 
 The rate of return $r$ is given by:
 $$
-r = \frac{{Final Value} - {Initial Value}}{{Initial Value}} \times 100
+r = \frac{\text{Final Value} - \text{Initial Value}}{\text{Initial Value}} \times 100
 $$
 
 Substitute the values:
@@ -7018,7 +7018,7 @@ Since the central bank is committed to maintaining output at its potential level
 - Higher $r$ reduces consumption $C$ and investment $I$ since both are inversely related to the interest rate.
 - The open-economy interest parity condition is:
 
-  $$r = r^{*} + {expected change in exchange rate}$$
+  $$r = r^{*} + \text{expected change in exchange rate}$$
 
   where $r^{*}$ is the foreign interest rate.
 
@@ -7069,23 +7069,23 @@ If **relative Purchasing Power Parity (PPP)** holds, what should be the exchange
 ### Step 1: Formula for Relative Purchasing Power Parity (PPP)
 The relative PPP states that the exchange rate adjusts in proportion to the relative changes in price levels between two countries. The formula is:
 
-$$E_{t} = E_{0} \times \frac{{CPI}_{{foreign, t}}}{{CPI}_{{foreign, 0}}} \div \frac{{CPI}_{{domestic, t}}}{{CPI}_{{domestic, 0}}}$$
+$$E_{t} = E_{0} \times \frac{\text{CPI}_{\text{foreign, t}}}{\text{CPI}_{\text{foreign, 0}}} \div \frac{\text{CPI}_{\text{domestic, t}}}{\text{CPI}_{\text{domestic, 0}}}$$
 
 Where:
 - $E_{t}$ is the exchange rate in the final year (2023)
 - $E_{0}$ is the exchange rate in the initial year (1992)
-- ${CPI}_{{foreign}}$ is the U.S. consumer price index
-- ${CPI}_{{domestic}}$ is the Argentine consumer price index
+- $\text{CPI}_{\text{foreign}}$ is the U.S. consumer price index
+- $\text{CPI}_{\text{domestic}}$ is the Argentine consumer price index
 
 ---
 
 ### Step 2: Substituting the Values
 Given:
 - $E_{0} = 1$ peso per dollar (1992 exchange rate)
-- ${CPI}_{{Argentina, 1992}} = 100$ pesos
-- ${CPI}_{{Argentina, 2023}} = 80,000$ pesos
-- ${CPI}_{{US, 1992}} = 100$ dollars
-- ${CPI}_{{US, 2023}} = 200$ dollars
+- $\text{CPI}_{\text{Argentina, 1992}} = 100$ pesos
+- $\text{CPI}_{\text{Argentina, 2023}} = 80,000$ pesos
+- $\text{CPI}_{\text{US, 1992}} = 100$ dollars
+- $\text{CPI}_{\text{US, 2023}} = 200$ dollars
 
 Substituting into the PPP formula:
 
@@ -7104,7 +7104,7 @@ E_{2023} = \frac{2}{800}
 $$
 
 $$
-E_{2023} = 400 { pesos per dollar}
+E_{2023} = 400 \text{ pesos per dollar}
 $$
 
 ---
@@ -7142,13 +7142,13 @@ The nominal exchange rate is the number of pesos required to purchase **1 US dol
 The real exchange rate ($RER$) is adjusted for differences in inflation rates between two countries. The formula for the real exchange rate is:
 
 $$
-RER = E \times \frac{P_{{domestic}}}{P_{{foreign}}}
+RER = E \times \frac{P_{\text{domestic}}}{P_{\text{foreign}}}
 $$
 
 Where:  
 - $E$ is the nominal exchange rate (pesos per dollar).  
-- $P_{{domestic}}$ is the domestic price level (in Argentina).  
-- $P_{{foreign}}$ is the foreign price level (in the US).
+- $P_{\text{domestic}}$ is the domestic price level (in Argentina).  
+- $P_{\text{foreign}}$ is the foreign price level (in the US).
 
 If $E$ rises dramatically (from **1** to **200** pesos per dollar), then **even with inflation differences**, the overall purchasing power of the peso relative to the dollar is likely much lower. Hence, the peso **depreciated in real terms**.
 
@@ -7188,14 +7188,14 @@ Would you say that the **Relative Purchasing Power Parity (PPP)** theory:
 The **Relative PPP** theory states that the exchange rate between two currencies will adjust according to the inflation rate differences between the two countries. The formula for **Relative PPP** is:
 
 $$
-\frac{E_t}{E_0} = \frac{1 + \pi_{{domestic}}}{1 + \pi_{{foreign}}}
+\frac{E_t}{E_0} = \frac{1 + \pi_{\text{domestic}}}{1 + \pi_{\text{foreign}}}
 $$
 
 Where:
 - $E_t$ is the future exchange rate
 - $E_0$ is the current exchange rate
-- $\pi_{{domestic}}$ is the domestic inflation rate
-- $\pi_{{foreign}}$ is the foreign inflation rate (in this case, the U.S.)
+- $\pi_{\text{domestic}}$ is the domestic inflation rate
+- $\pi_{\text{foreign}}$ is the foreign inflation rate (in this case, the U.S.)
 
 ### 2. **Black Market Exchange Rate vs. Official Rate**
 The official exchange rate in 2023 is **200 pesos per dollar**, but the black market exchange rate is **400 pesos per dollar**. This large discrepancy typically occurs in economies experiencing:
@@ -7251,7 +7251,7 @@ The relative increase in the value of foreign holdings of US assets **increases 
 
 ### Formula for NFA:
 $$
-{NFA} = {Assets Owned Abroad} - {Liabilities to Foreigners}
+\text{NFA} = \text{Assets Owned Abroad} - \text{Liabilities to Foreigners}
 $$
 
 If the **liabilities to foreigners** (due to rising US stock values) increase faster than **US-owned foreign assets**, the NFA moves **downward**.
@@ -7419,17 +7419,17 @@ Suppose the U.S. is running a (headline) budget deficit of 6% of GDP and the pub
 
 The **headline budget deficit to GDP** ratio ($d$) is composed of two parts:
 1. **Primary deficit to GDP ratio** ($pd$)
-2. **Interest payments on public debt** ($i \times {Debt to GDP ratio}$)
+2. **Interest payments on public debt** ($i \times \text{Debt to GDP ratio}$)
 
 The formula is:
 $$
-d = pd + (i \times {Debt to GDP ratio})
+d = pd + (i \times \text{Debt to GDP ratio})
 $$
 Where:
 - $d$ is the headline budget deficit to GDP ratio
 - $pd$ is the primary deficit to GDP ratio
 - $i$ is the nominal interest rate
-- ${Debt to GDP ratio}$ is the ratio of public debt to GDP
+- $\text{Debt to GDP ratio}$ is the ratio of public debt to GDP
 
 ### Step 2: Substitute Known Values
 
@@ -7482,19 +7482,19 @@ How large is the deficit reduction needed to keep the debt-to-GDP ratio stable?
 The change in the debt-to-GDP ratio ($\Delta \frac{D}{Y}$) depends on the primary deficit and the difference between the nominal interest rate and the growth rate of the economy. The general formula is:
 
 $$
-\Delta \frac{D}{Y} = \frac{r - g}{1 + g} \times \frac{D}{Y} + \frac{{primary deficit}}{Y}
+\Delta \frac{D}{Y} = \frac{r - g}{1 + g} \times \frac{D}{Y} + \frac{\text{primary deficit}}{Y}
 $$
 
 Where:
 - $r$ = nominal interest rate
 - $g$ = real GDP growth rate
 - $\frac{D}{Y}$ = debt-to-GDP ratio
-- $\frac{{primary deficit}}{Y}$ = primary deficit-to-GDP ratio
+- $\frac{\text{primary deficit}}{Y}$ = primary deficit-to-GDP ratio
 
 To keep the debt-to-GDP ratio constant, $\Delta \frac{D}{Y}$ must equal zero:
 
 $$
-0 = \frac{r - g}{1 + g} \times \frac{D}{Y} + \frac{{primary deficit}}{Y}
+0 = \frac{r - g}{1 + g} \times \frac{D}{Y} + \frac{\text{primary deficit}}{Y}
 $$
 
 ### **Step 2: Calculate the Nominal Interest Rate ($r$)**
@@ -7502,7 +7502,7 @@ $$
 The nominal interest rate ($r$) is approximated as:
 
 $$
-r \approx {inflation rate} + g
+r \approx \text{inflation rate} + g
 $$
 
 Substituting the given values:
@@ -7510,7 +7510,7 @@ Substituting the given values:
 - Real GDP growth ($g$) = 1% ($0.01$)
 
 $$
-r = 0.02 + 0.01 = 0.03 { (or 3%)}
+r = 0.02 + 0.01 = 0.03 \text{ (or 3%)}
 $$
 
 ### **Step 3: Required Primary Surplus**
@@ -7518,7 +7518,7 @@ $$
 For debt-to-GDP to remain stable:
 
 $$
-\frac{r - g}{1 + g} \approx \frac{0.03 - 0.01}{1 + 0.01} = \frac{0.02}{1.01} \approx 0.0198 { (approximately 2%)}
+\frac{r - g}{1 + g} \approx \frac{0.03 - 0.01}{1 + 0.01} = \frac{0.02}{1.01} \approx 0.0198 \text{ (approximately 2%)}
 $$
 
 Thus, the required deficit reduction to stabilize the debt-to-GDP ratio is approximately **1%** of GDP, as only part of the increase in the nominal interest rate is offset by GDP growth.
@@ -7679,7 +7679,7 @@ To determine whether the rupee appreciated or depreciated, we calculate the **pe
 ### **Step 1: Formula for Percentage Change**
 The formula for the percentage change in the exchange rate is:
 $$
-{Percentage Change} = \left( \frac{E_{t+1} - E_t}{E_t} \right) \times 100
+\text{Percentage Change} = \left( \frac{E_{t+1} - E_t}{E_t} \right) \times 100
 $$
 Where:
 - $E_t$ = Exchange rate in 2012 (55 rupees per dollar)
@@ -7688,15 +7688,15 @@ Where:
 ### **Step 2: Substituting Values**
 Substituting the known values:
 $$
-{Percentage Change} = \left( \frac{65 - 55}{55} \right) \times 100
+\text{Percentage Change} = \left( \frac{65 - 55}{55} \right) \times 100
 $$
 
 ### **Step 3: Calculation**
 $$
-{Percentage Change} = \left( \frac{10}{55} \right) \times 100
+\text{Percentage Change} = \left( \frac{10}{55} \right) \times 100
 $$
 $$
-{Percentage Change} \approx 18.18\%
+\text{Percentage Change} \approx 18.18\%
 $$
 
 Since the exchange rate increased (it now takes more rupees to buy one dollar), this represents a **depreciation** of the rupee.
@@ -7743,7 +7743,7 @@ A **carry trade** is an investment strategy where an investor borrows in a low-i
 ### **Step 2: Potential Profit or Loss**
 If the exchange rate remains stable, the investor earns:
 $$
-{Net return} = (1 + i) \times 100 \, {USD equivalent at INR} - (1 + i^{*}) \times 100
+\text{Net return} = (1 + i) \times 100 \, \text{USD equivalent at INR} - (1 + i^{*}) \times 100
 $$
 
 However, in 2012, the Indian Rupee **depreciated** significantly against the US dollar, meaning the investor lost value when converting the investment back to US dollars.
@@ -7785,7 +7785,7 @@ A **carry trade** is an investment strategy where an investor borrows money in a
 
 The net gain/loss (in US dollars) can be expressed as:
 $$
-{Net Gain} = {Return on Investment} - {Cost of Borrowing} + {Currency Gains/Losses}
+\text{Net Gain} = \text{Return on Investment} - \text{Cost of Borrowing} + \text{Currency Gains/Losses}
 $$
 
 where:
@@ -7802,7 +7802,7 @@ Assume the following hypothetical data:
 
 Substituting values:
 $$
-{Net Gain} = 0 \, ({no excess return}) - 0 \, ({neutral borrowing cost}) - 13 = -13
+\text{Net Gain} = 0 \, (\text{no excess return}) - 0 \, (\text{neutral borrowing cost}) - 13 = -13
 $$
 
 ## Conclusion
@@ -7999,7 +7999,7 @@ Setser’s argument aligns well with the predictions of the open-economy macroec
 
    In mathematical terms:
    $$
-   NX = {Exports} - {Imports}
+   NX = \text{Exports} - \text{Imports}
    $$
    where a weaker exchange rate increases exports and reduces imports.
 
@@ -8037,7 +8037,7 @@ In 2020, some U.S. nationals bought foreign stocks for 10 million dollars. In Ja
 Net Foreign Assets (NFA) represent the difference between a country's external financial assets (such as foreign stocks, bonds, and investments abroad) and its liabilities (debts or investments from foreigners in domestic assets). Mathematically, NFA can be represented as:
 
 $$
-{NFA} = {Foreign Assets} - {Foreign Liabilities}
+\text{NFA} = \text{Foreign Assets} - \text{Foreign Liabilities}
 $$
 
 ### **Impact of Stock Value Change on NFA**
@@ -8077,7 +8077,7 @@ Some American citizens can invest in Europe for a return of 20% for a year. The 
 The formula for the **effective return** on a foreign investment for US nationals, taking into account the exchange rate change, is:
 
 $$
-{Effective Return} = (1 + r_f) \times \frac{S_0}{S_t} - 1
+\text{Effective Return} = (1 + r_f) \times \frac{S_0}{S_t} - 1
 $$
 
 Where:
@@ -8092,19 +8092,19 @@ Where:
 Substituting the given values into the formula:
 
 $$
-{Effective Return} = (1 + 0.20) \times \frac{0.91}{0.82} - 1
+\text{Effective Return} = (1 + 0.20) \times \frac{0.91}{0.82} - 1
 $$
 
 $$
-{Effective Return} = 1.20 \times 1.1098 - 1
+\text{Effective Return} = 1.20 \times 1.1098 - 1
 $$
 
 $$
-{Effective Return} \approx 1.33176 - 1
+\text{Effective Return} \approx 1.33176 - 1
 $$
 
 $$
-{Effective Return} \approx 0.33176 { or } 33.176\%
+\text{Effective Return} \approx 0.33176 \text{ or } 33.176\%
 $$
 
 ---
@@ -8152,7 +8152,7 @@ In August 2022, the exchange rate between the British Pound and the Euro was $GB
 To quantify the change in the value of the Pound, we use the following formula:
 
 $$
-{Percentage Change} = \frac{{New Exchange Rate} - {Old Exchange Rate}}{{Old Exchange Rate}} \times 100
+\text{Percentage Change} = \frac{\text{New Exchange Rate} - \text{Old Exchange Rate}}{\text{Old Exchange Rate}} \times 100
 $$
 
 ### 3. Substituting Values
@@ -8162,15 +8162,15 @@ $$
 Substitute into the formula:
 
 $$
-{Percentage Change} = \frac{1.11 - 1.19}{1.19} \times 100
+\text{Percentage Change} = \frac{1.11 - 1.19}{1.19} \times 100
 $$
 
 $$
-{Percentage Change} = \frac{-0.08}{1.19} \times 100
+\text{Percentage Change} = \frac{-0.08}{1.19} \times 100
 $$
 
 $$
-{Percentage Change} \approx -6.72\%
+\text{Percentage Change} \approx -6.72\%
 $$
 
 The negative sign indicates depreciation.
@@ -8210,19 +8210,19 @@ The exchange rate is defined as the amount of local currency (INR) required to p
 
 ### Mathematical Representation:
 Let $e_{t}$ represent the exchange rate at time $t$.  
-- March 2013: $e_{March} = 55 { INR/USD}$  
-- September 2013: $e_{September} = 65 { INR/USD}$  
+- March 2013: $e_{March} = 55 \text{ INR/USD}$  
+- September 2013: $e_{September} = 65 \text{ INR/USD}$  
 
 The percentage change in the exchange rate is given by:
 
 $$
-\%{ Change} = \frac{e_{September} - e_{March}}{e_{March}} \times 100
+\%\text{ Change} = \frac{e_{September} - e_{March}}{e_{March}} \times 100
 $$
 
 Substituting the values:
 
 $$
-\%{ Change} = \frac{65 - 55}{55} \times 100 = \frac{10}{55} \times 100 \approx 18.18\%
+\%\text{ Change} = \frac{65 - 55}{55} \times 100 = \frac{10}{55} \times 100 \approx 18.18\%
 $$
 
 Since the exchange rate has increased, the INR has **depreciated**.
@@ -8253,24 +8253,24 @@ If this appreciation/depreciation was correctly anticipated, and if the return o
 The **Uncovered Interest Parity (UIP)** condition states that the expected difference in returns between two countries' assets should be equal to the expected change in exchange rates between their currencies. The UIP equation is given as:
 
 $$
-(1 + i_{{India}}) = (1 + i_{{US}}) \times \frac{E_t(S_{t+1})}{S_t}
+(1 + i_{\text{India}}) = (1 + i_{\text{US}}) \times \frac{E_t(S_{t+1})}{S_t}
 $$
 
 Where:
-- $i_{{India}}$: interest rate/return on Indian asset
-- $i_{{US}}$: interest rate/return on US asset
+- $i_{\text{India}}$: interest rate/return on Indian asset
+- $i_{\text{US}}$: interest rate/return on US asset
 - $S_t$: current exchange rate (domestic currency per unit of foreign currency)
 - $E_t(S_{t+1})$: expected future exchange rate
 
 ### **Step-by-Step Calculation**
 
 1. **Given:**
-   - $i_{{US}} = 0.02$ (2% return on US asset)
+   - $i_{\text{US}} = 0.02$ (2% return on US asset)
    - Exchange rate changes imply an appreciation or depreciation of the Indian Rupee.
 
-2. **Solving for $i_{{India}}$:**
+2. **Solving for $i_{\text{India}}$:**
    $$
-   i_{{India}} = \left( (1 + 0.02) \times \frac{E_t(S_{t+1})}{S_t} \right) - 1
+   i_{\text{India}} = \left( (1 + 0.02) \times \frac{E_t(S_{t+1})}{S_t} \right) - 1
    $$
 
 3. **Plugging in exchange rate values**:
@@ -8421,24 +8421,24 @@ If one uses the exact formula, the real exchange rate (RER) decreases by 3.2% (i
 ### **1. Formula for Relative Purchasing Power Parity (PPP)**  
 Relative PPP relates the percentage change in the nominal exchange rate to the inflation rate differential between two countries. The formula for the real exchange rate (RER) change is:
 
-$${RER}_{{new}} = E_{{new}} \times P_{{foreign}} / P_{{domestic}$$
+$$\text{RER}_{\text{new}} = E_{\text{new}} \times P_{\text{foreign}} / P_{\text{domestic}$$
 
 Where:
-- $E_{{new}}$ = nominal exchange rate after depreciation
-- $P_{{foreign}}$ = foreign price index
-- $P_{{domestic}}$ = domestic price index
+- $E_{\text{new}}$ = nominal exchange rate after depreciation
+- $P_{\text{foreign}}$ = foreign price index
+- $P_{\text{domestic}}$ = domestic price index
 
 ### **2. Calculation of the Real Exchange Rate (RER)**
 
 Using the given data:
-- Exchange rate depreciation: $76\%$ (i.e., $E_{{new}} = 1.76$)
-- Foreign inflation: $10\%$ (i.e., $P_{{foreign}} = 1.10$)
-- Domestic inflation: $100\%$ (i.e., $P_{{domestic}} = 2.00$)
+- Exchange rate depreciation: $76\%$ (i.e., $E_{\text{new}} = 1.76$)
+- Foreign inflation: $10\%$ (i.e., $P_{\text{foreign}} = 1.10$)
+- Domestic inflation: $100\%$ (i.e., $P_{\text{domestic}} = 2.00$)
 
 Substitute these values into the formula:
 
 $$
-{RER}_{{new}} = \frac{1.76 \times 1.10}{2.00} = 0.968
+\text{RER}_{\text{new}} = \frac{1.76 \times 1.10}{2.00} = 0.968
 $$
 
 This shows a **decrease of 3.2%** in the real exchange rate, indicating that the domestic currency has gained purchasing power relative to foreign currency-adjusted prices.
@@ -8448,7 +8448,7 @@ This shows a **decrease of 3.2%** in the real exchange rate, indicating that the
 ### **3. First-Order Approximation vs. Exact Formula**
 - The first-order approximation assumes small changes in rates:
   $$
-  \Delta {RER} \approx \Delta E + \Delta P_{{foreign}} - \Delta P_{{domestic}}
+  \Delta \text{RER} \approx \Delta E + \Delta P_{\text{foreign}} - \Delta P_{\text{domestic}}
   $$
   - However, with large changes (like 76% and 100%), this approximation becomes less precise.
 - The exact formula reflects that the real exchange rate change is much smaller than the inflation rate and nominal depreciation rate changes, highlighting the predictive accuracy of relative PPP.
