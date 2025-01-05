@@ -3782,7 +3782,7 @@ This file analyzes the public debt stabilization condition in macroeconomics and
 ## Problem Restatement
 
 We are given the following values:
-- Public Debt-to-GDP ratio: $ \frac{B}{Y} = 50\% \text{ (or 0.5)}$
+- Public Debt-to-GDP ratio: $B/Y = 50\%$
 - Real interest rate: $r = 6\% \text{ (or 0.06)}$
 - Real GDP growth rate: $g = 4\% \text{ (or 0.04)}$
 
@@ -4292,7 +4292,7 @@ D. Output will increase above potential, and inflation will go above target
 
    - At equilibrium:
      $$
-     Y_t = Y^{*} \quad \text{and} \quad \pi_t = \pi^{*}
+     Y_t = Y^{\star} \quad \text{and} \quad \pi_t = \pi^{\star}
      $$
 
 ### 2. **Effect of a Positive Demand Shock**
@@ -4335,7 +4335,7 @@ The statement that there is always a stable tradeoff between unemployment and in
 2. **Long-Run Phillips Curve (LRPC)**:
    - According to Milton Friedman and Edmund Phelps, the long-run Phillips Curve is **vertical** at the **natural rate of unemployment** ($u^{*}$). This implies that:
      $$
-     \pi = \pi_e + \beta (u^{*} - u)
+     \pi = \pi_e + \beta (u^{\star} - u)
      $$
      where:
      - $\pi$: actual inflation
@@ -6993,7 +6993,7 @@ In a macroeconomics class, the following question is posed:
 **Question:**  
 According to the open-economy macroeconomic model seen in class, a positive shock to consumer confidence, which shifts upward the entire consumption schedule $C(Y - T, r)$, will:
 
-Assume you start at $Y^{*}$ and the central bank responds to changes in output away from $Y^{*}$.
+Assume you start at $Y^{\star}$ and the central bank responds to changes in output away from $Y^{\star}$.
 
 **Options:**
 - **A.** Reduce output and depreciate the exchange rate  
@@ -7069,9 +7069,7 @@ If **relative Purchasing Power Parity (PPP)** holds, what should be the exchange
 ### Step 1: Formula for Relative Purchasing Power Parity (PPP)
 The relative PPP states that the exchange rate adjusts in proportion to the relative changes in price levels between two countries. The formula is:
 
-$$
-E_{t} = E_{0} \times \frac{\text{CPI}_{\text{foreign, t}}}{\text{CPI}_{\text{foreign, 0}}} \div \frac{\text{CPI}_{\text{domestic, t}}}{\text{CPI}_{\text{domestic, 0}}}
-$$
+$$E_{t} = E_{0} \times \frac{\text{CPI}_{\text{foreign, t}}}{\text{CPI}_{\text{foreign, 0}}} \div \frac{\text{CPI}_{\text{domestic, t}}}{\text{CPI}_{\text{domestic, 0}}}$$
 
 Where:
 - $E_{t}$ is the exchange rate in the final year (2023)
@@ -7301,7 +7299,7 @@ If the price of the euro in yen increases, it means that more yen are needed to 
 ## Explanation of Incorrect Options
 
 ### **A. Lower inflation in Japan than in the US**  
-Lower inflation in Japan reduces the domestic price level $P$. Since the real exchange rate depends on the ratio $\frac{P}{P^{*}}$, a decrease in $P$ (assuming $P^{*}$ remains constant) leads to a **real depreciation**, not an appreciation.
+Lower inflation in Japan reduces the domestic price level $P$. Since the real exchange rate depends on the ratio $\frac{P}{P^{\star}}$, a decrease in $P$ (assuming $P^{\star}$ remains constant) leads to a **real depreciation**, not an appreciation.
 
 ### **C. A decrease in the price of the dollar in yen**  
 If the dollar becomes cheaper in yen terms, fewer yen are needed to buy one dollar. This represents an **appreciation of the yen**, making Japanese goods relatively more expensive abroad and resulting in a **real depreciation**.
@@ -7310,7 +7308,7 @@ If the dollar becomes cheaper in yen terms, fewer yen are needed to buy one doll
 
 ## Conclusion
 The correct answer is **B**: an increase in the price of the euro in yen can lead to an appreciation of Japan's real exchange rate because the relative price of Japanese goods in terms of foreign currency changes favorably for Japan.
-
+ interest rates cannot be negative, the f
 Go back to the content, click [here](#table-of-content).
 
 # Understanding the Current Account Deficit
@@ -7386,10 +7384,10 @@ Where:
 - $E_t$ represents the expectation operator at time $t$.
 
 ### **UIP Interpretation**:
-- If the domestic interest rate $i$ is **zero** and interest rates cannot be negative, the foreign interest rate $i^{*}$ must be **non-negative** (i.e., $i^{*} \geq 0$).
+- If the domestic interest rate $i$ is **zero** and interest rates cannot be negative, the foreign interest rate $i^{\star}$ must be **non-negative** (i.e., $i^{\star} \geq 0$).
 - The UIP equation becomes:
   $$
-  E_t\left(\frac{S_{t+1}}{S_t}\right) = \frac{1 + 0}{1 + i^{*}} = \frac{1}{1 + i^{*}}
+  E_t\left(\frac{S_{t+1}}{S_t}\right) = \frac{1 + 0}{1 + i^{*}} = \frac{1}{1 + i^{\star}}
   $$
 
 ### **Key Implication**:
@@ -7888,14 +7886,14 @@ If domestic inflation rises faster than foreign inflation, the nominal exchange 
 ### 3. Uncovered Interest Parity (UIP) Curve Shift
 The UIP condition:
 $$
-i - i^{*} = \frac{\mathbb{E}_t(E_{t+1}) - E_t}{E_t}
+i - i^{\star} = \frac{E_t(E_{t+1}) - E_t}{E_t}
 $$
 Where:
 - $i$ and $i^{*}$ are domestic and foreign interest rates, respectively.
-- $\mathbb{E}_t(E_{t+1})$ is the expected future exchange rate.
+- $E_t(E_{t+1})$ is the expected future exchange rate.
 
 A rise in expected inflation and a corresponding increase in devaluation expectations lead to:
-- Higher expected future depreciation: $\mathbb{E}_t(E_{t+1})$ increases.
+- Higher expected future depreciation: $E_t(E_{t+1})$ increases.
 - A leftward shift in the UIP curve, causing more depreciation of $E_t$ today.
 
 ### 4. Comparison of Scenarios
@@ -7913,7 +7911,7 @@ Go back to the content, click [here](#table-of-content).
 In a macroeconomics class, the following question is posed:
 
 **Question:**  
-Consider the model of saving and investment (S and I) equilibrium in the open economy with one world interest rate $r^{*}$. Suppose there are only two countries: the US and China. Suppose the population in China grows older and their demand for savings increases. What will happen to $r^{*}$ and to the US trade deficit?
+Consider the model of saving and investment (S and I) equilibrium in the open economy with one world interest rate $r^{\star}$. Suppose there are only two countries: the US and China. Suppose the population in China grows older and their demand for savings increases. What will happen to $r^{\star}$ and to the US trade deficit?
 
 **Options:**
 - **A.** The interest rate falls, the US trade deficit increases  
