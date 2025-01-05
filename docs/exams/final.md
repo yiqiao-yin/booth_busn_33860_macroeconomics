@@ -1099,7 +1099,7 @@ In the long run, the effects of an increase in the stock of capital $K$ on the l
 
 2. **Real Wages ($W/P$)**: In the short run, the increase in MPL due to higher capital raises real wages as firms compete for labor. In the long run, however, with full adjustments in capital and labor, the labor market might reach a new equilibrium where real wages stabilize. Additionally, adjustments in labor supply and increased labor force participation could counterbalance wage increases, resulting in smaller wage changes than initially observed.
 
-3. **Employment Level ($N^{*}$)**: With long-run adjustments, firms may reach a level where the additional capital no longer increases labor demand at the same rate as in the short run. Equilibrium employment ($N^{*}$) could stabilize or even decline if capital becomes more productive independently, reducing the need for labor. Thus, the long-run equilibrium effect on $N^{*}$ may not align with the short-run increase observed when capital initially rises.
+3. **Employment Level ($N^{*}$)**: With long-run adjustments, firms may reach a level where the additional capital no longer increases labor demand at the same rate as in the short run. Equilibrium employment ($N^{\star}$) could stabilize or even decline if capital becomes more productive independently, reducing the need for labor. Thus, the long-run equilibrium effect on $N^{\star}$ may not align with the short-run increase observed when capital initially rises.
 
 ## Analysis
 
@@ -3034,7 +3034,7 @@ This combination of **higher inflation** and **lower output** represents a **lef
 
 In a **demand-supply framework**, a negative supply shock can be represented by the following equations:
 
-- **Aggregate Supply (AS) Shift:** $ P = P_e + \lambda (Y - Y^{*}) $  
+- **Aggregate Supply (AS) Shift:** $P = P_e + \lambda (Y - Y^{\star})$
   Where:
   - $P$: Actual inflation
   - $P_e$: Expected inflation
@@ -3091,10 +3091,10 @@ The question specifies that:
 Under these conditions, the formula simplifies to:
 
 $$
-i_t = r^{*} + \pi^{*}
+i_t = r^{\star} + \pi^{\star}
 $$
 
-This shows that the **nominal interest rate** equals the sum of the real neutral rate of interest ($r^{*}$) and the target inflation rate ($\pi^{*}$).
+This shows that the **nominal interest rate** equals the sum of the real neutral rate of interest ($r^{\star}$) and the target inflation rate ($\pi^{\star}$).
 
 ### Conclusion
 
@@ -3557,7 +3557,7 @@ Go back to the content, click [here](#table-of-content).
 
 Consider the following macroeconomics question:
 
-The dollar-yen exchange rate $E_{y/\text{\$}}$ (denoted as USDJPY) is 100 today and is expected to increase to 103 in a year. The annual interest rate in yen is 3%, and the annual interest rate in dollars is 1%. A risk-neutral investor must decide between two options:
+The dollar-yen exchange rate $E_{y/\text{dollar}}$ (denoted as USDJPY) is 100 today and is expected to increase to 103 in a year. The annual interest rate in yen is 3%, and the annual interest rate in dollars is 1%. A risk-neutral investor must decide between two options:
 
 A. Borrow in yen to invest in dollars.  
 B. Borrow in dollars to invest in yen.
