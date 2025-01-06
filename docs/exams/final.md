@@ -23,9 +23,9 @@
 - [Impact of Market Power on Labor Income Share in a Production Function](#impact-of-market-power-on-labor-income-share-in-a-production-function)
 - [Equilibrium Output in a Closed Economy Macroeconomic Model](#equilibrium-output-in-a-closed-economy-macroeconomic-model)
 - [Fiscal Multiplier in a Closed Economy Macroeconomic Model](#fiscal-multiplier-in-a-closed-economy-macroeconomic-model)
-- [Effect of $c_0$ on the Fiscal Policy Multiplier](#effect-of-c_0-on-the-fiscal-policy-multiplier)
-- [Effect of an Increase in the Marginal Propensity to Consume ($c_1$) on the Fiscal Policy Multiplier](#effect-of-an-increase-in-the-marginal-propensity-to-consume-c_1-on-the-fiscal-policy-multiplier)
-- [Effect of an Increase in the Proportional Tax Rate ($t$) on the Fiscal Policy Multiplier](#effect-of-an-increase-in-the-proportional-tax-rate-t-on-the-fiscal-policy-multiplier)
+- [Effect of constant on the Fiscal Policy Multiplier](#effect-of-constant-on-the-fiscal-policy-multiplier)
+- [Effect of an Increase in the Marginal Propensity to Consume on the Fiscal Policy Multiplier](#effect-of-an-increase-in-the-marginal-propensity-to-consume-on-the-fiscal-policy-multiplier)
+- [Effect of an Increase in the Proportional Tax Rate on the Fiscal Policy Multiplier](#effect-of-an-increase-in-the-proportional-tax-rate-on-the-fiscal-policy-multiplier)
 - [Impact of Expected Inflation on the Nominal Interest Rate](#impact-of-expected-inflation-on-the-nominal-interest-rate)
 - [Nominal GDP Growth Calculation for a Closed Economy with Three Goods](#nominal-gdp-growth-calculation-for-a-closed-economy-with-three-goods)
 - [Real GDP Growth in a Closed Economy: Cars, Computers, and Oranges](#real-gdp-growth-in-a-closed-economy-cars-computers-and-oranges)
@@ -1658,7 +1658,7 @@ The fiscal multiplier in this model is **1.67**. This means that for each additi
 
 Go back to the content, click [here](#table-of-content).
 
-# Effect of $c_0$ on the Fiscal Policy Multiplier
+# Effect of constant on the Fiscal Policy Multiplier
 
 ## Problem Description
 
@@ -1712,7 +1712,7 @@ An increase in $c_0$ will not impact the fiscal multiplier, as $c_0$ does not ap
 
 Go back to the content, click [here](#table-of-content).
 
-# Effect of an Increase in the Marginal Propensity to Consume ($c_1$) on the Fiscal Policy Multiplier
+# Effect of an Increase in the Marginal Propensity to Consume on the Fiscal Policy Multiplier
 
 ## Problem Description
 
@@ -1775,7 +1775,7 @@ When the marginal propensity to consume $c_1$ increases, the fiscal multiplier b
 
 Go back to the content, click [here](#table-of-content).
 
-# Effect of an Increase in the Proportional Tax Rate ($t$) on the Fiscal Policy Multiplier
+# Effect of an Increase in the Proportional Tax Rate on the Fiscal Policy Multiplier
 
 ## Problem Description
 
@@ -4658,7 +4658,7 @@ Go back to the content, click [here](#table-of-content).
 
 ## Problem Statement
 
-If you prefer \$55 for sure to a lottery that pays $100 with probability 0.2 and $50 with probability 0.8, then you are asked to determine your risk preference. Specifically, your options are:
+If you prefer \$55 for sure to a lottery that pays \$100 with probability 0.2 and \$50 with probability 0.8, then you are asked to determine your risk preference. Specifically, your options are:
 
 A. Risk Loving  
 B. Risk Averse  
@@ -5862,7 +5862,7 @@ The primary goals of a central bank are:
 
   The Taylor Rule guides how the central bank adjusts interest rates in response to inflation and output gaps:
 
-  $$i_t = r^{*} + \pi_t + \alpha (\pi_t - \pi^{*}) + \beta (Y_t - Y^{*})$$
+  $$i_t = r^{\star} + \pi_t + \alpha (\pi_t - \pi^{*}) + \beta (Y_t - Y^{*})$$
 
   Where:
   - $i_t$: Nominal interest rate
