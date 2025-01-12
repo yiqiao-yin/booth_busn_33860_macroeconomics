@@ -4640,7 +4640,7 @@ $$
 
 Substituting into the current account formula:
 
-$$\text{CA}_{\text{new}} = \text{CA}_{\text{old}} - P$$
+$$\text{CA}_\text{new} = \text{CA}_\text{old} - P$$
 
 ### Conclusion:
 The correct answer is:
