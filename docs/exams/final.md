@@ -194,13 +194,13 @@ This analysis determines the **inflation rate** and **real increase in consumpti
 
 ### Year 2020
 | Item      | Quantity | Price |
-|-----------|----------|-------|
+|--|-|-|
 | Meals     | 100      | 20    |
 | Concerts  | 20       | 50    |
 
 ### Year 2021
 | Item      | Quantity | Price |
-|-----------|----------|-------|
+|--|-|-|
 | Meals     | 105      | 22    |
 | Concerts  | 22       | 55    |
 
@@ -1878,14 +1878,14 @@ This analysis calculates the **rate of nominal GDP growth** between 2020 and 202
 
 #### In 2020:
 | Goods     | Quantities | Prices |
-|-----------|------------|--------|
+|--||--|
 | Cars      | 10         | 2000   |
 | Computers | 4          | 1000   |
 | Oranges   | 1000       | 1      |
 
 #### In 2021:
 | Goods     | Quantities | Prices |
-|-----------|------------|--------|
+|--||--|
 | Cars      | 12         | 3000   |
 | Computers | 6          | 500    |
 | Oranges   | 1000       | 1      |
@@ -1953,14 +1953,14 @@ Consider a closed economy that produces three goods: cars, computers, and orange
 
 ### 2020 Data
 | Goods      | Quantities | Prices |
-|------------|------------|--------|
+|||--|
 | Cars       | 10         | 2000   |
 | Computers  | 4          | 1000   |
 | Oranges    | 1000       | 1      |
 
 ### 2021 Data
 | Goods      | Quantities | Prices |
-|------------|------------|--------|
+|||--|
 | Cars       | 12         | 3000   |
 | Computers  | 6          | 500    |
 | Oranges    | 1000       | 1      |
@@ -2034,7 +2034,7 @@ In a closed economy, three goods—cars, computers, and oranges—are produced. 
 **Year 2020**
 
 | Goods     | Quantities | Prices |
-|-----------|------------|--------|
+|--||--|
 | Cars      | 10         | 2000   |
 | Computers | 4          | 1000   |
 | Oranges   | 1000       | 1      |
@@ -2042,7 +2042,7 @@ In a closed economy, three goods—cars, computers, and oranges—are produced. 
 **Year 2021**
 
 | Goods     | Quantities | Prices |
-|-----------|------------|--------|
+|--||--|
 | Cars      | 12         | 3000   |
 | Computers | 6          | 500    |
 | Oranges   | 1000       | 1      |
@@ -2413,7 +2413,7 @@ Go back to the content, click [here](#table-of-content).
 
 This document addresses the concept of **opportunity cost** in the context of holding balances in a bank deposit, a common topic in macroeconomics. Opportunity cost is the benefit foregone by choosing one option over another, particularly relevant in financial decision-making.
 
----
+
 
 ## Problem Statement
 
@@ -2426,7 +2426,7 @@ B. The fact that your cash is protected from theft
 C. The opportunity to earn higher rates of return by investing in more liquid assets  
 D. The risk of not having enough money for an emergency  
 
----
+
 
 ## Answer
 
@@ -2455,7 +2455,7 @@ Holding a bank deposit generally provides safety and liquidity but often yields 
 
 - **Option D (The risk of not having enough money for an emergency)**: This option does not describe an opportunity cost; instead, it pertains to the concept of liquidity, which refers to having funds readily available in case of an emergency.
 
----
+
 
 In conclusion, the opportunity cost of holding funds in a bank deposit is best represented by the potential higher returns from less liquid assets, such as money market accounts, which is accurately described by **Option A**.
 
@@ -2933,7 +2933,7 @@ The statement to consider is:
 
 We need to evaluate whether this statement is **True** or **False**.
 
----
+
 
 ## Explanation and Answer
 
@@ -2978,7 +2978,7 @@ A negative output gap corresponds to **higher unemployment**, leading to **lower
 ### 4. Conclusion
 The statement **"A negative output gap is always associated with low levels of inflation (relative to the central bank's target)"** is **False** because inflation may not always decrease in the presence of supply shocks, cost-push inflation, or if inflation expectations remain high.
 
----
+
 
 ## Summary:
 - **Output gap** measures economic performance relative to potential.
@@ -2987,7 +2987,7 @@ The statement **"A negative output gap is always associated with low levels of i
 
 Here is the `.md` file for the question and the answer:
 
----
+
 
 Go back to the content, click [here](#table-of-content).
 
@@ -2995,7 +2995,7 @@ Go back to the content, click [here](#table-of-content).
 
 In macroeconomics, the Phillips Curve is typically graphed with **inflation** on the y-axis and **output** or **unemployment** on the x-axis. This curve illustrates the inverse relationship between inflation and unemployment (or a positive relationship between inflation and output). The problem at hand involves the impact of a **negative supply shock** on this graph.
 
----
+
 
 ## Restating the Problem
 
@@ -3011,13 +3011,13 @@ C. Shift the Phillips Curve to the left, decreasing inflation and increasing out
 
 D. Shift the Phillips Curve to the right, decreasing inflation and increasing output
 
----
+
 
 ## Answer
 
 The correct answer is **B: Shift the Phillips Curve to the left, increasing inflation and decreasing output**.
 
----
+
 
 ## Explanation
 
@@ -3028,7 +3028,7 @@ A **negative supply shock** (e.g., higher oil prices, natural disasters, or an i
 
 This combination of **higher inflation** and **lower output** represents a **leftward shift** in the Phillips Curve.
 
----
+
 
 ### Mathematical Intuition (if applicable)
 
@@ -3044,7 +3044,7 @@ In a **demand-supply framework**, a negative supply shock can be represented by 
 
 A **negative supply shock** shifts $Y^{*}$ lower (potential output falls), causing **higher inflation for any given level of $Y$**.
 
----
+
 
 ## Conclusion
 
@@ -3303,7 +3303,7 @@ The \$300 spent on French wine is recorded in **both Consumption (C)** and **Imp
 
 Here is the requested `.md` file:
 
----
+
 
 Go back to the content, click [here](#table-of-content).
 
@@ -3320,7 +3320,7 @@ A Turkish company pays interest on a bank loan borrowed from a German bank. How 
 - **B.** Reduces Net Foreign Income and the Current Account balance of Turkey
 - **C.** Has no effect on the Current Account balance of Turkey
 
----
+
 
 ### **Answer and Explanation**
 
@@ -3349,7 +3349,7 @@ Since the interest payment is an **outflow of income**, it **reduces NFI**. A de
 
 The interest payment from a Turkish company to a German bank reduces both the **Net Foreign Income (NFI)** and the **Current Account (CA)** balance, as it constitutes an income payment to foreign entities.
 
----
+
 
 ### **Conclusion**
 
@@ -3388,7 +3388,7 @@ The correct answer is **C. No.**
 ### Additional Macroeconomics Context:
 In the **balance of payments** framework, the financial account records cross-border purchases of financial assets, while the current account reflects trade and income flows. Since this is an exchange within the financial account, it does not influence the current account directly.
 
----
+
 
 ## Summary
 - **Net Foreign Assets (NFA):** No change (still 1 million euros worth of foreign assets).
@@ -3410,7 +3410,7 @@ A U.S. national has a bank account at Deutsche Bank in Germany and uses 1 millio
   1. **Net Foreign Assets (NFA)**: The difference between the assets held abroad by domestic residents and the foreign-owned assets within the country.
   2. **Current Account (CA)**: The net flow of goods, services, and financial transfers (exports minus imports).
 
----
+
 
 ## **Answer and Analysis**
 ### **Key Concepts**
@@ -3429,7 +3429,7 @@ A U.S. national has a bank account at Deutsche Bank in Germany and uses 1 millio
   - **NFA**: The foreign bank account balance decreases, reducing the net foreign assets.
   - **CA**: The purchase of imported goods (Mercedes cars) increases imports, leading to a decrease in the current account balance.
 
----
+
 
 ## **Correct Answer**
 - **C. Yes, it decreases NFA and CA of the U.S.**
@@ -3637,7 +3637,7 @@ According to UIP, an increase in the domestic interest rate $i_d$ leads to an ex
 
 When the domestic central bank raises the domestic interest rate, the domestic currency appreciates due to capital inflows driven by higher returns.
 
----
+
 
 ## Summary of Key Points
 - According to UIP, if domestic interest rates increase while foreign interest rates remain unchanged, the domestic currency appreciates.
@@ -3848,8 +3848,6 @@ In the previous macroeconomics question, we examined the consumer's real GDP gro
 
 **What primary deficit (as a percentage of GDP) is needed to maintain the debt-to-GDP ratio at 50%?**
 
----
-
 ## Solution
 
 ### Step 1: Define Variables
@@ -3859,8 +3857,6 @@ In the previous macroeconomics question, we examined the consumer's real GDP gro
 - $\text{Primary Deficit}$: fiscal balance excluding interest payments, denoted as a percentage of GDP.
 
 The goal is to maintain a stable debt-to-GDP ratio, which means the debt ratio should remain at 0.5 in future periods.
-
----
 
 ### Step 2: Formula for Debt Dynamics
 The debt-to-GDP ratio evolves according to the equation:
@@ -3875,8 +3871,6 @@ $$
 0 = (r - g) \cdot b_t + \text{Primary Deficit}
 $$
 
----
-
 ### Step 3: Rearrange for Primary Deficit
 Rearranging for the primary deficit:
 
@@ -3884,7 +3878,7 @@ $$
 \text{Primary Deficit} = -(r - g) \cdot b_t
 $$
 
----
+
 
 ### Step 4: Substitute Known Values
 Assuming $r = 0.02$ (since it often approximates the GDP growth rate in this type of scenario):
@@ -3901,7 +3895,7 @@ $$
 \text{Primary Deficit} = 0
 $$
 
----
+
 
 ### Final Answer:
 The primary deficit needed to maintain a 50% debt-to-GDP ratio is **0%** of GDP. In this case, since the interest rate matches GDP growth, no primary deficit or surplus is required to maintain the debt-to-GDP ratio.
@@ -4082,7 +4076,7 @@ $$\text{Actual GDP} \ge \text{Potential GDP}$$
 
 - A **negative output gap** occurs when **actual GDP** is below **potential GDP**:
 
-$$$\text{Actual GDP} \le \text{Potential GDP}$$
+$$\text{Actual GDP} \le \text{Potential GDP}$$
 
 ### **Implications of a Positive Output Gap:**
 1. **Spending Above Potential Output:**
@@ -4147,7 +4141,7 @@ In a hot economy:
 - $P$ rises as firms adjust prices to reflect higher costs.
 - If $w$ rises faster than productivity, it can cause sustained inflation.
 
----
+
 
 ### Why the Other Choices are Incorrect:
 
@@ -4417,7 +4411,7 @@ A decrease in private consumption reduces the overall demand for imports (since 
 ### Answer: 
 The correct option is **B. Increase**.
 
----
+
 
 ## Conclusion
 
@@ -4505,7 +4499,7 @@ Amazon is a U.S.-based company, and its stocks are part of domestic assets. When
 ### 4. Conclusion  
 The correct answer is **A. NFA decreases**.
 
----
+
 
 ## Summary of Key Points
 - Amazon stocks are domestic assets.
@@ -4774,7 +4768,7 @@ Since the yen strengthened (fewer yen are needed for the same amount of euros), 
 
 **Answer: A. Appreciated**
 
----
+
 
 Go back to the content, click [here](#table-of-content).
 
@@ -4782,7 +4776,7 @@ Go back to the content, click [here](#table-of-content).
 
 This analysis explores whether a risk-neutral investor should borrow in Chinese yuan (CNY) to invest in dollars (USD) or borrow in dollars to invest in yuan, based on the interest rates and expected exchange rate movements.
 
----
+
 
 ## **Restatement of the Problem**
 
@@ -4795,7 +4789,7 @@ We seek to determine whether a risk-neutral investor will:
 1. **Borrow in yuan to invest in dollars** or
 2. **Borrow in dollars to invest in yuan**.
 
----
+
 
 ## **Analysis**
 
@@ -4813,7 +4807,7 @@ Where:
 - $E_t = 8$ (current exchange rate),
 - $E_{t+1} = 8.8$ (expected exchange rate in one year).
 
----
+
 
 ### **Step 2: Calculate Expected Exchange Rate Return**
 
@@ -4840,7 +4834,7 @@ $$
    \text{Effective Gain} = 3\% + 10\% = 13\%
    $$
 
----
+
 
 ## **Conclusion**
 
@@ -4848,7 +4842,7 @@ A risk-neutral investor will choose to **borrow in yuan to invest in dollars**, 
 
 Answer: **A. Borrow in yuan to invest in dollars.**
 
----
+
 
 Go back to the content, click [here](#table-of-content).
 
@@ -4954,7 +4948,7 @@ B. Exchange rate appreciates, output increases (from the initial situation)
 C. Exchange rate remains constant, output increases (from the initial situation)  
 D. Exchange rate remains constant, output increases  
 
----
+
 
 ## Analysis
 
@@ -5032,7 +5026,7 @@ $$
 ### Conclusion:
 Since the total deficit includes interest payments and the primary deficit does not, the **total deficit** is always larger when the government has outstanding debt.
 
----
+
 
 ## Summary:
 - **Answer**: **A. True**
@@ -5040,7 +5034,7 @@ Since the total deficit includes interest payments and the primary deficit does 
 
 Here is the requested `.md` file for the problem and solution:
 
----
+
 
 ### **Debt-to-GDP Ratio and Primary Deficit**
 
@@ -5152,7 +5146,7 @@ In a macroeconomics class, we are asked to interpret a currency crisis using our
 
 The goal is to evaluate the impact of non-credible policies on the key macroeconomic variables and to explain the mechanisms driving a potential currency crisis.
 
----
+
 
 ## Answer
 
@@ -5172,7 +5166,7 @@ where:
 
 A decrease in $i$ makes the right-hand side negative, implying that $E$ must rise (depreciation) to maintain equality.
 
----
+
 
 ### 2. Impact of Non-Credible Policies on the Expected Exchange Rate ($E_e$)
 
@@ -5184,7 +5178,7 @@ $$
 $$
 If $E_e$ increases significantly, the current exchange rate $E$ must also rise, contributing to further currency weakness.
 
----
+
 
 ### 3. Impact of Non-Credible Policies on Government Spending ($G$)
 
@@ -5203,7 +5197,7 @@ where:
 
 Higher $G$ leads to an increase in $M$ (imports), potentially leading to a **twin deficit problem** (fiscal and current account deficits), which further weakens investor confidence.
 
----
+
 
 ### Conclusion
 
@@ -5275,7 +5269,7 @@ H. The equilibrium moves right along the Phillips Curve
 
 **Correct Answer: A, B, C**
 
----
+
 
 ## Explanation and Analysis
 
@@ -5313,7 +5307,7 @@ A **fiscal consolidation** occurs when the government reduces spending $G$. In t
 #### **H. The equilibrium moves right along the Phillips Curve** ❌
 - Fiscal consolidation causes inflation to fall, moving left along the Phillips Curve, not right.
 
----
+
 
 ## **Mathematical Representation**
 
@@ -5331,7 +5325,7 @@ $$
 $$
 - When $Y \le Y^{*}$ (i.e., output falls below potential), inflation decreases.
 
----
+
 
 ## **Final Answer**
 - Correct Statements: **A, B, C**
@@ -5404,13 +5398,13 @@ Which of the following statements are consistent with the Central Bank's goals? 
 
 The **correct answers** are **E**, **F**, and **G**.
 
----
+
 
 ## Solution Explanation
 
 To restore output and bring inflation back to target, the Central Bank typically implements **expansionary monetary policy**. Let’s explain the correct options and why they align with the economic theory.
 
----
+
 
 ### 1. **The Phillips Curve and Monetary Policy**
    The **Phillips Curve** shows the inverse relationship between unemployment and inflation. In this case:
@@ -5430,7 +5424,7 @@ To restore output and bring inflation back to target, the Central Bank typically
    - $Y^{*}$ is potential GDP.
    - $\alpha$ represents how strongly inflation responds to the output gap.
 
----
+
 
 ### 2. **Correct Choices:**
 
@@ -5443,7 +5437,7 @@ To restore output and bring inflation back to target, the Central Bank typically
    - **G. The Central Bank lowers interest rates and the equilibrium moves right along the IS curve**:  
      This describes the process of **expansionary monetary policy** in action. Lowering interest rates shifts the **IS curve** to the right, increasing equilibrium output.
 
----
+
 
 ### 3. **Why the Other Choices Are Incorrect:**
 
@@ -5459,12 +5453,12 @@ To restore output and bring inflation back to target, the Central Bank typically
    - **D. The Central Bank lowers interest rates, shifting the IS curve right**:  
      Although partially correct, this choice alone does not fully describe the dynamic relationship where the equilibrium also moves along the curve.
 
----
+
 
 ## Summary:
 The Central Bank’s goal to restore potential output and bring inflation back to target is achieved by lowering interest rates, shifting the IS curve to the right, and increasing aggregate demand. As a result, the equilibrium moves right along the Phillips Curve, reflecting the decrease in unemployment and stabilization of inflation.
 
----
+
 
 ## Final Answers:
 - **Correct Answers**: E, F, G
@@ -5543,7 +5537,7 @@ In a macroeconomics class, we are considering a scenario where the central bank 
 **F. The Demand Side Curve shifts right**  
 **G. The Central Bank lowers interest rates, shifting right the IS curve**
 
----
+
 
 ## Explanation
 
@@ -5587,7 +5581,7 @@ Where:
 ### Summary:
 The correct actions consistent with the central bank's goals are **lowering interest rates (IS curve shift right)**, a **rightward movement along the Phillips Curve** reflecting higher output, and a **shift in the demand-side curve** due to increased aggregate demand.
 
----
+
 
 ## Final Answers:
 - **Correct Options:** E, F, G
@@ -5662,7 +5656,7 @@ If output is moving in the same direction as inflation (or prices), then the mai
 
 ### Correct Answer: **A**
 
----
+
 
 ## Explanation:
 
@@ -5677,7 +5671,7 @@ In macroeconomic theory, an **inflationary shock** refers to a sudden and signif
   - A **negative supply shock** (e.g., rising costs of inputs) results in **higher prices** but **lower output**.
   - A **positive supply shock** (e.g., technological advancements) leads to **lower prices** and **higher output**.
 
----
+
 
 ### **Graphical Representation**:
 
@@ -5710,7 +5704,7 @@ Go back to the content, click [here](#table-of-content).
 
 This analysis addresses the issue of a Central Bank facing the **Effective Lower Bound (ELB)** in nominal interest rates and the consequences of this situation, particularly in terms of achieving its inflation target and stimulating aggregate demand.
 
----
+
 
 ## **Restatement of the Problem**
 
@@ -5729,7 +5723,7 @@ Given this setup:
 
 Since the nominal interest rate $i$ is stuck at zero, achieving a negative real interest rate $r = -2\%$ requires a positive expected inflation rate of $2\%$. However, in practice, when expectations of inflation remain anchored, the economy struggles to generate sufficient inflation.
 
----
+
 
 ## **Answer Explanation**
 
@@ -5750,7 +5744,7 @@ Since the nominal interest rate $i$ is stuck at zero, achieving a negative real 
 
 - Since the Central Bank cannot lower the real interest rate enough to boost demand, inflation tends to stay below its target. This situation is consistent with a deflationary spiral or disinflationary pressures.
 
----
+
 
 ## **Summary of the Correct Answers**
 
@@ -5814,7 +5808,7 @@ In a macroeconomics class, the following question is posed:
 
 The correct answer to this question is **False**.
 
----
+
 
 ## Explanation
 
@@ -5823,7 +5817,7 @@ A **supply shock** refers to an unexpected event that significantly alters the c
 - **Positive Supply Shock:** Increases supply, reducing costs and prices.
 - **Negative Supply Shock:** Reduces supply, increasing costs and prices (e.g., oil price increases).
 
----
+
 
 ### 2. Central Bank's Role and Policy Goals
 The primary goals of a central bank are:
@@ -5831,7 +5825,7 @@ The primary goals of a central bank are:
 2. **Full Employment:** Ensuring optimal levels of employment.
 3. **Economic Growth:** Supporting sustainable economic growth.
 
----
+
 
 ### 3. Why "Seeing Through" Supply Shocks May Be Risky
 - A negative supply shock increases inflation and reduces output. If the central bank does nothing and simply waits for the shock to reverse:
@@ -5839,7 +5833,7 @@ The primary goals of a central bank are:
   - Wage-price spirals may arise as workers demand higher wages due to rising prices.
   - The central bank may lose credibility as a guardian of price stability.
 
----
+
 
 ### 4. Why the Statement is False
 - **Inflation Expectations Model:**
@@ -5873,7 +5867,7 @@ The primary goals of a central bank are:
 
   If inflation rises due to a supply shock, the central bank may need to raise rates moderately to prevent expectations from spiraling out of control.
 
----
+
 
 ## Conclusion
 The correct answer is **False**. While "seeing through" a temporary supply shock may seem prudent in theory, in practice, failing to respond to inflation risks from negative supply shocks can erode credibility, fuel higher inflation expectations, and necessitate harsher measures in the future. A balanced approach, with some measured interest rate adjustment, is typically required to anchor expectations and preserve price stability.
@@ -6045,7 +6039,7 @@ Which additional policy tool is required for the Central Bank to operate in the 
 
 **Correct Answer:** **A. Paying interest on reserves**
 
----
+
 
 ## Explanation
 
@@ -6076,7 +6070,7 @@ Where:
 
 This shows how adjusting the interest on reserves allows the Central Bank to control the short-term interest rate directly.
 
----
+
 
 ## Conclusion
 
@@ -6254,14 +6248,14 @@ A small open economy is facing a speculative attack on its fixed exchange rate r
 
 **Correct Answer:** B, E, F
 
----
+
 
 ## Explanation of the Correct Answer
 
 ### **B. The IS Curve Would Shift Left**
 A speculative attack often results in a loss of investor confidence, reducing domestic investment and increasing capital outflows. As a result, domestic demand for goods and services falls, shifting the IS curve to the left. The IS curve reflects equilibrium in the goods market, so any shock that reduces domestic spending and investment leads to a leftward shift.
 
----
+
 
 ### **E. The UIP Curve Shifts Up in the Currency Market Graph**
 The uncovered interest parity (UIP) condition is given by:
@@ -6276,12 +6270,12 @@ Where:
 
 During a speculative attack, market participants anticipate a devaluation of the currency, causing the expected future exchange rate to increase. To defend the peg, the central bank must increase interest rates to maintain equilibrium, causing the UIP curve to shift **up**.
 
----
+
 
 ### **F. The Central Bank Raises Interest Rates, Moving Along Left Along the "Shifted IS" Curve**
 In response to the speculative attack, the central bank raises domestic interest rates to prevent capital outflows and stabilize the exchange rate. This results in reduced investment and consumption, causing movement along the "shifted" IS curve to the left as the economy adjusts to higher borrowing costs.
 
----
+
 
 ## Incorrect Options
 
@@ -6295,7 +6289,7 @@ A speculative attack affects capital flows and investor confidence, which typica
 
 The central bank’s defense actions during the speculative attack first cause the IS curve to shift left due to reduced investment and demand. Therefore, any subsequent movement along the IS curve happens along the new "shifted" IS curve, not the original one.
 
----
+
 
 ## Conclusion
 The correct answers (B, E, F) reflect the dynamics of a central bank’s defense of a fixed exchange rate during a speculative attack. The IS curve shifts left due to declining domestic demand, while the UIP curve shifts up due to devaluation expectations. To stabilize the exchange rate, the central bank raises interest rates, resulting in movement along the shifted IS curve as the economy adjusts to higher borrowing costs.
@@ -6321,7 +6315,7 @@ Assume the Central Bank decides to abandon its currency peg. Which of the follow
 
 **Correct Answer:** A, B, F
 
----
+
 
 ## Explanation of the Correct Answer
 
@@ -6334,7 +6328,7 @@ Abandoning the peg means the central bank is no longer constrained by the need t
 ### **F. The recession is attenuated**  
 Lower interest rates stimulate the economy by increasing aggregate demand. This attenuates the recession, as output increases due to higher consumption and investment.
 
----
+
 
 ## Incorrect Options
 
@@ -6354,7 +6348,7 @@ The IS curve does not shift unless there is a change in fiscal policy or externa
 ### **G. The UIP curve shifts up in the currency market graph**  
 While this is tempting, it is only partially correct. The **actual position along the curve** changes rather than an exogenous shift in the entire UIP curve. Therefore, it is not appropriate to say the UIP curve "shifts up" in this context.
 
----
+
 
 ## Conclusion
 The correct statements (A, B, F) reflect the key dynamics of abandoning a currency peg. The central bank's ability to lower interest rates supports higher aggregate demand, moving the economy along the IS curve and helping to mitigate the recession.
@@ -6421,7 +6415,7 @@ Is this statement **True** or **False**?
 
 **Correct Answer:** **False**
 
----
+
 
 ## Explanation
 
@@ -6449,7 +6443,7 @@ If **Japanese interest rates ($i_f$)** are lower than **U.S. interest rates ($i_
 ### **Correct Intuition:**
 A low interest rate in Japan relative to the U.S. suggests that markets anticipate an **appreciation** of the yen to offset the lower interest income from Japanese investments.
 
----
+
 
 ## Conclusion
 The statement is **False** because Uncovered Interest Parity implies that lower foreign interest rates indicate an expected future **appreciation** of the foreign currency (in this case, the yen), not a depreciation. Therefore, contrary to the claim, the yen is expected to strengthen relative to the dollar under UIP.
@@ -6516,7 +6510,7 @@ In a macroeconomics class, the following question is posed:
 Assume that **Uncovered Interest Rate Parity (UIP)** holds and use the following data:
 
 | **In Percent** | **Nominal Interest Rate (R)** | **Inflation Rate (π)** |
-|----------------|-------------------------------|-----------------------|
+|-|-|--|
 | **UK**         | 3.9%                           | 2.6%                  |
 | **Euro Area**  | 2.2%                           | 2.3%                  |
 | **Japan**      | 0%                              | -0.2%                 |
@@ -6526,7 +6520,7 @@ For the following three questions, rank the countries (1 through 3) in order of 
 **What is the UK ranking?**  
 **Correct Answer:** 3
 
----
+
 
 ## Solution and Explanation
 
@@ -6543,7 +6537,7 @@ Where:
 - $R^{\text{dom}}$ is the nominal interest rate in the domestic country.
 - $R^{\text{foreign}}$ is the nominal interest rate in the foreign country (here, the U.S. dollar).
 
----
+
 
 ### 2. **Calculate Expected Nominal Depreciation for Each Country**
 
@@ -6553,7 +6547,7 @@ The difference between the domestic nominal interest rate ($R$) and the U.S. nom
 - **Euro Area:** $R_{\text{Euro}} - R_{\text{US}} = 2.2\% - R_{\text{US}}$
 - **Japan:** $R_{\text{Japan}} - R_{\text{US}} = 0\% - R_{\text{US}}$
 
----
+
 
 ### 3. **Interpreting UIP with Inflation Rates**
 To compare across countries:
@@ -6561,7 +6555,7 @@ To compare across countries:
 - The UK’s interest rate (3.9%) is the highest of the three, indicating the **largest expected depreciation**.
 - Japan has the lowest interest rate (0%), suggesting the **smallest expected depreciation** (potential for appreciation).
 
----
+
 
 ### 4. **Ranking of Expected Nominal Appreciation Against the Dollar**
 1. **Japan** (highest expected appreciation or smallest depreciation)
@@ -6570,7 +6564,7 @@ To compare across countries:
 
 Therefore, the UK is ranked **3rd**.
 
----
+
 
 ## Summary
 According to UIP, the ranking in terms of expected nominal appreciation (smallest depreciation) against the dollar is:
@@ -6590,7 +6584,7 @@ In a macroeconomics class, we are asked to rank the United Kingdom (UK), Euro Ar
 **Data Table:**
 
 | **in percent** | **Nominal Interest Rate (R)** | **Inflation (π)** |
-|----------------|-------------------------------|------------------|
+|-|-||
 | **UK**         | 3.9%                           | 2.6%             |
 | **Euro Area**  | 2.2%                           | 2.3%             |
 | **Japan**      | 0%                              | -0.2%            |
@@ -6601,7 +6595,7 @@ Rank the countries (1 through 3) in order of **expected nominal appreciation** a
 The question specifically asks: **What is Japan’s rank?**  
 **Correct Answer:** 1
 
----
+
 
 ## Explanation and Calculation
 
@@ -6642,7 +6636,7 @@ $$
 R_{\text{real}}^{Japan} = 0\% - (-0.2\%) = 0.2\%
 $$
 
----
+
 
 ### **3. Expected Nominal Appreciation Against the Dollar**  
 
@@ -6653,7 +6647,7 @@ Countries with **lower real interest rates** are expected to have weaker currenc
 2. **UK (1.3%)**: Moderate expected appreciation.
 3. **Euro Area (-0.1%)**: Expected depreciation.
 
----
+
 
 ## **Conclusion**  
 Japan has the **highest expected nominal appreciation** against the US dollar among the three countries. Therefore, Japan is ranked **#1**.
@@ -6890,7 +6884,7 @@ Assume that the interest rate on a British short-term deposit is **0%** during t
 
 **Hint:** Consider the opportunity cost of converting pounds to euros in August versus waiting and converting them in September.
 
----
+
 
 ## Solution
 
@@ -7062,7 +7056,7 @@ If **relative Purchasing Power Parity (PPP)** holds, what should be the exchange
 
 **Correct Answer:** 400 pesos per dollar
 
----
+
 
 ## Solution
 
@@ -7077,7 +7071,7 @@ Where:
 - $\text{CPI}_{\text{foreign}}$ is the U.S. consumer price index
 - $\text{CPI}_{\text{domestic}}$ is the Argentine consumer price index
 
----
+
 
 ### Step 2: Substituting the Values
 Given:
@@ -7107,7 +7101,7 @@ $$
 E_{2023} = 400 \text{ pesos per dollar}
 $$
 
----
+
 
 ## Final Answer:
 The exchange rate in **2023** should be **400 pesos per dollar** if relative purchasing power parity holds.
@@ -7131,7 +7125,7 @@ Did the official peso appreciate or depreciate in **real** terms?
 
 **Correct Answer:** **B. Depreciated**
 
----
+
 
 ## Explanation of the Correct Answer
 
@@ -7160,7 +7154,7 @@ If $E$ rises dramatically (from **1** to **200** pesos per dollar), then **even 
 - **A. Appreciated**: Incorrect, as the peso weakened significantly relative to the dollar.  
 - **C. Stayed about the same**: Incorrect, as the nominal exchange rate changed drastically, showing a strong depreciation.
 
----
+
 
 ## Conclusion
 The peso **depreciated** in real terms from 1992 to 2023, as indicated by the significant increase in the nominal exchange rate from **1 peso per dollar** to **200 pesos per dollar**. The purchasing power of the peso relative to the dollar decreased substantially.
@@ -7232,7 +7226,7 @@ The fact that the US stock market performed better than other countries' stock m
 
 **Correct Answer:** A
 
----
+
 
 ## Explanation of the Correct Answer
 
@@ -7276,7 +7270,7 @@ Which of the following can cause an appreciation of Japan's real exchange rate?
 
 **Correct Answer:** B
 
----
+
 
 ## Explanation of the Correct Answer
 
@@ -7294,7 +7288,7 @@ Where:
 ### **B. An increase in the price of the euro in yen (Correct Answer)**  
 If the price of the euro in yen increases, it means that more yen are needed to buy one euro. This is a depreciation of the yen relative to the euro, which makes **foreign goods more expensive** in yen terms. As a result, Japanese goods become relatively cheaper abroad, leading to an appreciation of the real exchange rate for Japan.
 
----
+
 
 ## Explanation of Incorrect Options
 
@@ -7304,7 +7298,7 @@ Lower inflation in Japan reduces the domestic price level $P$. Since the real ex
 ### **C. A decrease in the price of the dollar in yen**  
 If the dollar becomes cheaper in yen terms, fewer yen are needed to buy one dollar. This represents an **appreciation of the yen**, making Japanese goods relatively more expensive abroad and resulting in a **real depreciation**.
 
----
+
 
 ## Conclusion
 The correct answer is **B**: an increase in the price of the euro in yen can lead to an appreciation of Japan's real exchange rate because the relative price of Japanese goods in terms of foreign currency changes favorably for Japan.
@@ -7728,7 +7722,7 @@ In 2012, an investor engages in a **carry trade**: borrowing $100$ US dollars at
 
 **Correct Answer:** A (the investor lost money)
 
----
+
 
 ## Explanation
 
@@ -7738,7 +7732,7 @@ A **carry trade** is an investment strategy where an investor borrows in a low-i
 - **Borrowing:** $100 USD$ at $i^{*} = 1\%$  
 - **Investment:** Convert $100 USD$ to Indian Rupees (INR) and invest in a short-term Indian bond at $i = 4\%$.
 
----
+
 
 ### **Step 2: Potential Profit or Loss**
 If the exchange rate remains stable, the investor earns:
@@ -7748,14 +7742,14 @@ $$
 
 However, in 2012, the Indian Rupee **depreciated** significantly against the US dollar, meaning the investor lost value when converting the investment back to US dollars.
 
----
+
 
 ### **Step 3: Currency Depreciation Impact**
 The key risk in a carry trade is the **exchange rate risk**. Even though the Indian bond had a higher interest rate ($4\%$), the **depreciation** of the Rupee reduced the dollar-equivalent returns. A significant depreciation in the Rupee means that the investor received fewer dollars after converting back.
 
 Thus, despite the positive interest rate differential ($4\% - 1\% = 3\%$), the exchange rate movement wiped out the potential gains, resulting in an overall **loss**.
 
----
+
 
 ## Conclusion
 The correct answer is **A**: the investor **lost money**. The depreciation of the Indian Rupee outweighed the interest rate gains, causing the carry trade to be unprofitable in this scenario.
@@ -7921,7 +7915,7 @@ Consider the model of saving and investment (S and I) equilibrium in the open ec
 
 **Correct Answer:** **Not C**. The exact correct answer needs further analysis.
 
----
+
 
 ## Analysis
 
@@ -7939,7 +7933,7 @@ where:
 
 An increase in savings in one country (e.g., China) can affect the world interest rate and global trade balances.
 
----
+
 
 ### 2. Effect of an Increase in China’s Savings
 
@@ -7951,7 +7945,7 @@ $$
 r^{*} \downarrow \implies I_{US} \uparrow
 $$
 
----
+
 
 ### 3. Impact on the US Trade Deficit
 
@@ -7959,7 +7953,7 @@ In the US:
 - A lower world interest rate $r^{*}$ leads to an **increase in investment** in the US (since borrowing is cheaper).
 - As domestic investment increases, the US requires more foreign capital to fund this, leading to an **increase in the trade deficit** (since imports rise relative to exports).
 
----
+
 
 ### 4. Evaluation of Options
 
@@ -7968,12 +7962,12 @@ In the US:
 - **Option C:** The interest rate falls, and the US trade deficit falls. **(Incorrect, as the trade deficit should increase)**  
 - **Option D:** The interest rate increases, and the US trade deficit falls. **(Incorrect, as $r^{*}$ is expected to fall)**  
 
----
+
 
 ## Final Answer:
 The correct answer appears to be **A. The interest rate falls, and the US trade deficit increases**.
 
----
+
 
 ## Intuition:
 Aging populations in China increase their savings, driving down the world interest rate $r^{*}$. Lower interest rates make borrowing cheaper, causing higher investment in the US and an increase in the trade deficit due to a rise in imports relative to exports.
@@ -8068,7 +8062,7 @@ Some American citizens can invest in Europe for a return of 20% for a year. The 
 **Correct Answers:**  
 33.17%, 30.975%, or 29.89%.
 
----
+
 
 ## Solution
 
@@ -8085,7 +8079,7 @@ Where:
 - $S_0$ = Initial exchange rate (USD/EUR) in January 2020 (0.91)
 - $S_t$ = Final exchange rate (USD/EUR) in January 2021 (0.82)
 
----
+
 
 ### Step 2: Substituting Values
 
@@ -8107,7 +8101,7 @@ $$
 \text{Effective Return} \approx 0.33176 \text{ or } 33.176\%
 $$
 
----
+
 
 ### Interpretation
 
@@ -8119,7 +8113,7 @@ $$
 Depending on rounding or slight variations in exchange rate usage, acceptable answers for the effective gain are:
 - **33.17%**, **30.975%**, or **29.89%**.
 
----
+
 
 ## Conclusion
 The investment in Europe returned 20% in euros. However, due to the strengthening euro relative to the dollar, the US investors' effective gain, when converted back to dollars, increased to **33.17%** (approximately). Depending on the level of rounding and assumptions, acceptable answers include **33.17%**, **30.975%**, or **29.89%**.
@@ -8414,7 +8408,7 @@ Following up on the ample reserves regime discussion, what can be said about the
 **Correct Answer:**  
 If one uses the exact formula, the real exchange rate (RER) decreases by 3.2% (i.e., $1.76 \times 1.10 / 2 = 0.968$). The first-order approximation is not precise since the rates are very far from zero. Given that we used an approximation for the foreign price change (10%), we observe that the relative PPP is quite accurate, as the RER change is much smaller than the change in inflation and depreciation.
 
----
+
 
 ## Explanation
 
@@ -8443,7 +8437,7 @@ $$
 
 This shows a **decrease of 3.2%** in the real exchange rate, indicating that the domestic currency has gained purchasing power relative to foreign currency-adjusted prices.
 
----
+
 
 ### **3. First-Order Approximation vs. Exact Formula**
 - The first-order approximation assumes small changes in rates:
@@ -8453,7 +8447,7 @@ This shows a **decrease of 3.2%** in the real exchange rate, indicating that the
   - However, with large changes (like 76% and 100%), this approximation becomes less precise.
 - The exact formula reflects that the real exchange rate change is much smaller than the inflation rate and nominal depreciation rate changes, highlighting the predictive accuracy of relative PPP.
 
----
+
 
 ### **4. Conclusion**
 The relative PPP holds well in this case, as the **real exchange rate only changes by -3.2%**, despite substantial changes in inflation and depreciation rates. This supports the theory’s relevance when using the exact formula rather than an approximation, especially when percentage changes are far from zero.
