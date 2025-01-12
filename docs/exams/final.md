@@ -3581,14 +3581,17 @@ This means that the yen is expected to depreciate by 3% against the dollar.
 - **Borrowing in yen (at 3%) to invest in dollars (at 1%):**  
   When borrowing in yen, an investor repays the principal plus 3% interest in yen but benefits from the 3% depreciation of the yen. Therefore, the cost of borrowing in yen is effectively neutralized due to the exchange rate depreciation.
   
-  - **Net cost of borrowing in yen:**  
+  - **Net cost of borrowing in yen:**
+
     $$
     3\% \text{ interest cost} - 3\% \text{ currency depreciation} = 0\%
     $$
+
   - Meanwhile, the return on dollar investment is **1%**.
 
 - **Borrowing in dollars (at 1%) to invest in yen (at 3%):**  
   The yen investment yields 3%, but since the yen is expected to depreciate by 3%, the return in dollar terms is fully eroded:
+
   $$
   3\% \text{ yen return} - 3\% \text{ currency depreciation} = 0\%
   $$
