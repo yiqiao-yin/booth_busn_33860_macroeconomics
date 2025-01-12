@@ -4934,9 +4934,7 @@ The question asks us to determine how the outcome changes when the Central Bank 
 A. Exchange rate appreciates, output decreases (from the initial situation)  
 B. Exchange rate appreciates, output increases (from the initial situation)  
 C. Exchange rate remains constant, output increases (from the initial situation)  
-D. Exchange rate remains constant, output increases  
-
-
+D. Exchange rate remains constant, output increases
 
 ## Analysis
 
