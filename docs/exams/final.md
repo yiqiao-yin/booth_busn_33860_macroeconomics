@@ -3557,7 +3557,7 @@ Go back to the content, click [here](#table-of-content).
 
 Consider the following macroeconomics question:
 
-The dollar-yen exchange rate $E_{y/\text{dollar}}$ (denoted as USDJPY) is 100 today and is expected to increase to 103 in a year. The annual interest rate in yen is 3%, and the annual interest rate in dollars is 1%. A risk-neutral investor must decide between two options:
+The dollar-yen exchange rate $E_{\text{yen}/\text{dollar}}$ (denoted as USDJPY) is 100 today and is expected to increase to 103 in a year. The annual interest rate in yen is 3%, and the annual interest rate in dollars is 1%. A risk-neutral investor must decide between two options:
 
 A. Borrow in yen to invest in dollars.  
 B. Borrow in dollars to invest in yen.
@@ -3571,7 +3571,7 @@ Which option will the investor choose?
 The current exchange rate is $E_t = 100$ (yen per dollar), and the expected future exchange rate is $E_{t+1} = 103$. The expected percentage depreciation of the yen is:
 
 $$
-\text{Depreciation Rate of Yen} = \frac{E_{t+1} - E_t}{E_t} = \frac{103 - 100}{100} = 0.03 \text{ (or 3%)}
+\text{Depreciation Rate of Yen} = \frac{E_{t+1} - E_t}{E_t} = \frac{103 - 100}{100} = 0.03
 $$
 
 This means that the yen is expected to depreciate by 3% against the dollar.
