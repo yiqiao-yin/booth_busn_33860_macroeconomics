@@ -5012,15 +5012,11 @@ $$
 ### Conclusion:
 Since the total deficit includes interest payments and the primary deficit does not, the **total deficit** is always larger when the government has outstanding debt.
 
-
-
 ## Summary:
 - **Answer**: **A. True**
 - The total deficit is always larger than the primary deficit for governments in debt due to the inclusion of interest payments in the total deficit.
 
 Here is the requested `.md` file for the problem and solution:
-
-
 
 ### **Debt-to-GDP Ratio and Primary Deficit**
 
