@@ -4210,6 +4210,7 @@ The Phillips Curve, which historically described an inverse relationship between
 Following the breakdown of the Phillips Curve in the 1970s, what was a key factor that led to the instability in the statistical relationship between unemployment and inflation?
 
 **Options:**
+
 A. A change in people's inflation expectations  
 B. Low levels of economic growth  
 C. A decline in productivity growth  
@@ -4410,8 +4411,6 @@ A decrease in private consumption reduces the overall demand for imports (since 
 
 ### Answer: 
 The correct option is **B. Increase**.
-
-
 
 ## Conclusion
 
