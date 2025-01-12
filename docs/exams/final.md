@@ -4773,8 +4773,6 @@ Go back to the content, click [here](#table-of-content).
 
 This analysis explores whether a risk-neutral investor should borrow in Chinese yuan (CNY) to invest in dollars (USD) or borrow in dollars to invest in yuan, based on the interest rates and expected exchange rate movements.
 
-
-
 ## **Restatement of the Problem**
 
 The USDCNY exchange rate today is $8$ (denoted as $E_{t} = \frac{\text{CNY}}{\text{USD}}$), meaning 1 USD equals 8 CNY. The expected exchange rate in one year is $8.8$, indicating that the dollar is expected to appreciate relative to the yuan.
@@ -4785,8 +4783,6 @@ The USDCNY exchange rate today is $8$ (denoted as $E_{t} = \frac{\text{CNY}}{\te
 We seek to determine whether a risk-neutral investor will:
 1. **Borrow in yuan to invest in dollars** or
 2. **Borrow in dollars to invest in yuan**.
-
-
 
 ## **Analysis**
 
@@ -4803,8 +4799,6 @@ Where:
 - $i_{CNY} = 12\%$ (interest rate in yuan),
 - $E_t = 8$ (current exchange rate),
 - $E_{t+1} = 8.8$ (expected exchange rate in one year).
-
-
 
 ### **Step 2: Calculate Expected Exchange Rate Return**
 
@@ -4838,8 +4832,6 @@ $$
 A risk-neutral investor will choose to **borrow in yuan to invest in dollars**, as the net return (13%) is higher compared to the 2% return from borrowing in dollars to invest in yuan.
 
 Answer: **A. Borrow in yuan to invest in dollars.**
-
-
 
 Go back to the content, click [here](#table-of-content).
 
@@ -4889,8 +4881,8 @@ Go back to the content, click [here](#table-of-content).
 ## Problem Statement
 Consider the Open Economy Macro Model seen in class. 
 
-**Question:**  
-What will happen to the exchange rate ($E$) and output ($Y$) if there is a shock of expansive fiscal policy (i.e., an increase in government spending $G$)?  
+**Question:** 
+What will happen to the exchange rate ($E$) and output ($Y$) if there is a shock of expansive fiscal policy (i.e., an increase in government spending $G$)? 
 Assume that the central bank accommodates the fiscal expansion (i.e., the central bank does not increase interest rates).
 
 The available options are:
@@ -4901,12 +4893,11 @@ The available options are:
 
 ## Answer
 
-### **1. Effect on Output ($Y$)**  
+### **1. Effect on Output ($Y$)** 
 An increase in government spending ($G$) leads to higher aggregate demand, causing output ($Y$) to increase.
 
 ### **2. Effect on the Exchange Rate ($E$)**  
-Since the **central bank accommodates** the fiscal expansion and keeps interest rates constant, there is no upward pressure on interest rates to attract foreign capital. The absence of capital inflows means that the exchange rate does not appreciate.  
-Additionally, in this model, the central bank’s accommodation ensures that the monetary supply is adjusted to stabilize the exchange rate, resulting in **no change in the exchange rate ($E$)**.
+Since the **central bank accommodates** the fiscal expansion and keeps interest rates constant, there is no upward pressure on interest rates to attract foreign capital. The absence of capital inflows means that the exchange rate does not appreciate. Additionally, in this model, the central bank’s accommodation ensures that the monetary supply is adjusted to stabilize the exchange rate, resulting in **no change in the exchange rate ($E$)**.
 
 ### **3. Conclusion**  
 Given that output increases while the exchange rate remains constant, the correct answer is:  
