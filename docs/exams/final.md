@@ -6173,14 +6173,10 @@ A small open economy is facing a speculative attack on its fixed exchange rate r
 
 **Correct Answer:** B, E, F
 
-
-
 ## Explanation of the Correct Answer
 
 ### **B. The IS Curve Would Shift Left**
 A speculative attack often results in a loss of investor confidence, reducing domestic investment and increasing capital outflows. As a result, domestic demand for goods and services falls, shifting the IS curve to the left. The IS curve reflects equilibrium in the goods market, so any shock that reduces domestic spending and investment leads to a leftward shift.
-
-
 
 ### **E. The UIP Curve Shifts Up in the Currency Market Graph**
 The uncovered interest parity (UIP) condition is given by:
@@ -6195,12 +6191,8 @@ Where:
 
 During a speculative attack, market participants anticipate a devaluation of the currency, causing the expected future exchange rate to increase. To defend the peg, the central bank must increase interest rates to maintain equilibrium, causing the UIP curve to shift **up**.
 
-
-
 ### **F. The Central Bank Raises Interest Rates, Moving Along Left Along the "Shifted IS" Curve**
 In response to the speculative attack, the central bank raises domestic interest rates to prevent capital outflows and stabilize the exchange rate. This results in reduced investment and consumption, causing movement along the "shifted" IS curve to the left as the economy adjusts to higher borrowing costs.
-
-
 
 ## Incorrect Options
 
@@ -6213,8 +6205,6 @@ A speculative attack affects capital flows and investor confidence, which typica
 ### **D. The Central Bank Raises Interest Rates, Moving Along Left Along the "Original IS" Curve**
 
 The central bank’s defense actions during the speculative attack first cause the IS curve to shift left due to reduced investment and demand. Therefore, any subsequent movement along the IS curve happens along the new "shifted" IS curve, not the original one.
-
-
 
 ## Conclusion
 The correct answers (B, E, F) reflect the dynamics of a central bank’s defense of a fixed exchange rate during a speculative attack. The IS curve shifts left due to declining domestic demand, while the UIP curve shifts up due to devaluation expectations. To stabilize the exchange rate, the central bank raises interest rates, resulting in movement along the shifted IS curve as the economy adjusts to higher borrowing costs.
@@ -6240,8 +6230,6 @@ Assume the Central Bank decides to abandon its currency peg. Which of the follow
 
 **Correct Answer:** A, B, F
 
-
-
 ## Explanation of the Correct Answer
 
 ### **A. The equilibrium moves right along the IS curve**  
@@ -6252,7 +6240,6 @@ Abandoning the peg means the central bank is no longer constrained by the need t
 
 ### **F. The recession is attenuated**  
 Lower interest rates stimulate the economy by increasing aggregate demand. This attenuates the recession, as output increases due to higher consumption and investment.
-
 
 
 ## Incorrect Options
@@ -6272,8 +6259,6 @@ The IS curve does not shift unless there is a change in fiscal policy or externa
 
 ### **G. The UIP curve shifts up in the currency market graph**  
 While this is tempting, it is only partially correct. The **actual position along the curve** changes rather than an exogenous shift in the entire UIP curve. Therefore, it is not appropriate to say the UIP curve "shifts up" in this context.
-
-
 
 ## Conclusion
 The correct statements (A, B, F) reflect the key dynamics of abandoning a currency peg. The central bank's ability to lower interest rates supports higher aggregate demand, moving the economy along the IS curve and helping to mitigate the recession.
@@ -6340,8 +6325,6 @@ Is this statement **True** or **False**?
 
 **Correct Answer:** **False**
 
-
-
 ## Explanation
 
 ### **Uncovered Interest Parity (UIP) Formula**
@@ -6367,8 +6350,6 @@ If **Japanese interest rates ($i_f$)** are lower than **U.S. interest rates ($i_
 
 ### **Correct Intuition:**
 A low interest rate in Japan relative to the U.S. suggests that markets anticipate an **appreciation** of the yen to offset the lower interest income from Japanese investments.
-
-
 
 ## Conclusion
 The statement is **False** because Uncovered Interest Parity implies that lower foreign interest rates indicate an expected future **appreciation** of the foreign currency (in this case, the yen), not a depreciation. Therefore, contrary to the claim, the yen is expected to strengthen relative to the dollar under UIP.
@@ -6445,8 +6426,6 @@ For the following three questions, rank the countries (1 through 3) in order of 
 **What is the UK ranking?**  
 **Correct Answer:** 3
 
-
-
 ## Solution and Explanation
 
 ### 1. **Formula for UIP (Uncovered Interest Rate Parity)**
@@ -6462,8 +6441,6 @@ Where:
 - $R^{\text{dom}}$ is the nominal interest rate in the domestic country.
 - $R^{\text{foreign}}$ is the nominal interest rate in the foreign country (here, the U.S. dollar).
 
-
-
 ### 2. **Calculate Expected Nominal Depreciation for Each Country**
 
 The difference between the domestic nominal interest rate ($R$) and the U.S. nominal interest rate affects the expected appreciation/depreciation against the dollar.
@@ -6472,15 +6449,11 @@ The difference between the domestic nominal interest rate ($R$) and the U.S. nom
 - **Euro Area:** $R_{\text{Euro}} - R_{\text{US}} = 2.2\% - R_{\text{US}}$
 - **Japan:** $R_{\text{Japan}} - R_{\text{US}} = 0\% - R_{\text{US}}$
 
-
-
 ### 3. **Interpreting UIP with Inflation Rates**
 To compare across countries:
 - Higher nominal interest rates generally correspond to higher expected depreciation.
 - The UK’s interest rate (3.9%) is the highest of the three, indicating the **largest expected depreciation**.
 - Japan has the lowest interest rate (0%), suggesting the **smallest expected depreciation** (potential for appreciation).
-
-
 
 ### 4. **Ranking of Expected Nominal Appreciation Against the Dollar**
 1. **Japan** (highest expected appreciation or smallest depreciation)
@@ -6488,8 +6461,6 @@ To compare across countries:
 3. **UK** (largest expected depreciation)
 
 Therefore, the UK is ranked **3rd**.
-
-
 
 ## Summary
 According to UIP, the ranking in terms of expected nominal appreciation (smallest depreciation) against the dollar is:
@@ -6519,8 +6490,6 @@ Rank the countries (1 through 3) in order of **expected nominal appreciation** a
 
 The question specifically asks: **What is Japan’s rank?**  
 **Correct Answer:** 1
-
-
 
 ## Explanation and Calculation
 
@@ -6561,8 +6530,6 @@ $$
 R_{\text{real}}^{Japan} = 0\% - (-0.2\%) = 0.2\%
 $$
 
-
-
 ### **3. Expected Nominal Appreciation Against the Dollar**  
 
 Countries with **lower real interest rates** are expected to have weaker currencies relative to countries with **higher real interest rates**.
@@ -6571,8 +6538,6 @@ Countries with **lower real interest rates** are expected to have weaker currenc
 1. **Japan (0.2%)**: Highest expected appreciation.
 2. **UK (1.3%)**: Moderate expected appreciation.
 3. **Euro Area (-0.1%)**: Expected depreciation.
-
-
 
 ## **Conclusion**  
 Japan has the **highest expected nominal appreciation** against the US dollar among the three countries. Therefore, Japan is ranked **#1**.
@@ -6607,7 +6572,7 @@ A country with a real interest rate on its government debt that exceeds its real
 2. **Stabilization Condition**  
    For the debt-to-GDP ratio to stabilize:
    $$
-   \Delta b = 0 \implies (r - g) b = p
+   \Delta b = 0 \Rightarrow (r - g) b = p
    $$
 
 ### **Interpretation:**
@@ -6809,8 +6774,6 @@ Assume that the interest rate on a British short-term deposit is **0%** during t
 
 **Hint:** Consider the opportunity cost of converting pounds to euros in August versus waiting and converting them in September.
 
-
-
 ## Solution
 
 ### 1. Initial Setup
@@ -6981,8 +6944,6 @@ If **relative Purchasing Power Parity (PPP)** holds, what should be the exchange
 
 **Correct Answer:** 400 pesos per dollar
 
-
-
 ## Solution
 
 ### Step 1: Formula for Relative Purchasing Power Parity (PPP)
@@ -6995,8 +6956,6 @@ Where:
 - $E_{0}$ is the exchange rate in the initial year (1992)
 - $\text{CPI}_{\text{foreign}}$ is the U.S. consumer price index
 - $\text{CPI}_{\text{domestic}}$ is the Argentine consumer price index
-
-
 
 ### Step 2: Substituting the Values
 Given:
@@ -7026,8 +6985,6 @@ $$
 E_{2023} = 400 \text{ pesos per dollar}
 $$
 
-
-
 ## Final Answer:
 The exchange rate in **2023** should be **400 pesos per dollar** if relative purchasing power parity holds.
 
@@ -7049,8 +7006,6 @@ Did the official peso appreciate or depreciate in **real** terms?
 - **C.** Stayed about the same  
 
 **Correct Answer:** **B. Depreciated**
-
-
 
 ## Explanation of the Correct Answer
 
@@ -7078,8 +7033,6 @@ If $E$ rises dramatically (from **1** to **200** pesos per dollar), then **even 
 ### Incorrect Options:
 - **A. Appreciated**: Incorrect, as the peso weakened significantly relative to the dollar.  
 - **C. Stayed about the same**: Incorrect, as the nominal exchange rate changed drastically, showing a strong depreciation.
-
-
 
 ## Conclusion
 The peso **depreciated** in real terms from 1992 to 2023, as indicated by the significant increase in the nominal exchange rate from **1 peso per dollar** to **200 pesos per dollar**. The purchasing power of the peso relative to the dollar decreased substantially.
@@ -7151,8 +7104,6 @@ The fact that the US stock market performed better than other countries' stock m
 
 **Correct Answer:** A
 
-
-
 ## Explanation of the Correct Answer
 
 Net Foreign Assets (NFA) represent the difference between a country's external financial assets and liabilities. A country’s **NFA position** is affected by changes in the valuation of its international investment positions.
@@ -7195,8 +7146,6 @@ Which of the following can cause an appreciation of Japan's real exchange rate?
 
 **Correct Answer:** B
 
-
-
 ## Explanation of the Correct Answer
 
 The real exchange rate measures the relative price of goods between two countries. It is calculated using the formula:
@@ -7213,8 +7162,6 @@ Where:
 ### **B. An increase in the price of the euro in yen (Correct Answer)**  
 If the price of the euro in yen increases, it means that more yen are needed to buy one euro. This is a depreciation of the yen relative to the euro, which makes **foreign goods more expensive** in yen terms. As a result, Japanese goods become relatively cheaper abroad, leading to an appreciation of the real exchange rate for Japan.
 
-
-
 ## Explanation of Incorrect Options
 
 ### **A. Lower inflation in Japan than in the US**  
@@ -7222,8 +7169,6 @@ Lower inflation in Japan reduces the domestic price level $P$. Since the real ex
 
 ### **C. A decrease in the price of the dollar in yen**  
 If the dollar becomes cheaper in yen terms, fewer yen are needed to buy one dollar. This represents an **appreciation of the yen**, making Japanese goods relatively more expensive abroad and resulting in a **real depreciation**.
-
-
 
 ## Conclusion
 The correct answer is **B**: an increase in the price of the euro in yen can lead to an appreciation of Japan's real exchange rate because the relative price of Japanese goods in terms of foreign currency changes favorably for Japan.
@@ -7437,7 +7382,7 @@ $$
 For debt-to-GDP to remain stable:
 
 $$
-\frac{r - g}{1 + g} \approx \frac{0.03 - 0.01}{1 + 0.01} = \frac{0.02}{1.01} \approx 0.0198 \text{ (approximately 2%)}
+\frac{r - g}{1 + g} \approx \frac{0.03 - 0.01}{1 + 0.01} = \frac{0.02}{1.01} \approx 0.0198 \text{ (approximately 2 percent)}
 $$
 
 Thus, the required deficit reduction to stabilize the debt-to-GDP ratio is approximately **1%** of GDP, as only part of the increase in the nominal interest rate is offset by GDP growth.
@@ -7647,8 +7592,6 @@ In 2012, an investor engages in a **carry trade**: borrowing $100$ US dollars at
 
 **Correct Answer:** A (the investor lost money)
 
-
-
 ## Explanation
 
 ### **Step 1: Definition of Carry Trade**
@@ -7656,8 +7599,6 @@ A **carry trade** is an investment strategy where an investor borrows in a low-i
 
 - **Borrowing:** $100 USD$ at $i^{*} = 1\%$  
 - **Investment:** Convert $100 USD$ to Indian Rupees (INR) and invest in a short-term Indian bond at $i = 4\%$.
-
-
 
 ### **Step 2: Potential Profit or Loss**
 If the exchange rate remains stable, the investor earns:
@@ -7667,14 +7608,10 @@ $$
 
 However, in 2012, the Indian Rupee **depreciated** significantly against the US dollar, meaning the investor lost value when converting the investment back to US dollars.
 
-
-
 ### **Step 3: Currency Depreciation Impact**
 The key risk in a carry trade is the **exchange rate risk**. Even though the Indian bond had a higher interest rate ($4\%$), the **depreciation** of the Rupee reduced the dollar-equivalent returns. A significant depreciation in the Rupee means that the investor received fewer dollars after converting back.
 
 Thus, despite the positive interest rate differential ($4\% - 1\% = 3\%$), the exchange rate movement wiped out the potential gains, resulting in an overall **loss**.
-
-
 
 ## Conclusion
 The correct answer is **A**: the investor **lost money**. The depreciation of the Indian Rupee outweighed the interest rate gains, causing the carry trade to be unprofitable in this scenario.
@@ -7840,8 +7777,6 @@ Consider the model of saving and investment (S and I) equilibrium in the open ec
 
 **Correct Answer:** **Not C**. The exact correct answer needs further analysis.
 
-
-
 ## Analysis
 
 ### 1. Model of Saving and Investment in an Open Economy
@@ -7858,8 +7793,6 @@ where:
 
 An increase in savings in one country (e.g., China) can affect the world interest rate and global trade balances.
 
-
-
 ### 2. Effect of an Increase in China’s Savings
 
 If China's population ages and their demand for savings increases:
@@ -7867,18 +7800,14 @@ If China's population ages and their demand for savings increases:
 - The global pool of savings increases, putting **downward pressure** on the world interest rate $r^{*}$.
 
 $$
-r^{*} \downarrow \implies I_{US} \uparrow
+r^{*} \downarrow \Rightarrow I_{US} \uparrow
 $$
-
-
 
 ### 3. Impact on the US Trade Deficit
 
 In the US:
 - A lower world interest rate $r^{*}$ leads to an **increase in investment** in the US (since borrowing is cheaper).
 - As domestic investment increases, the US requires more foreign capital to fund this, leading to an **increase in the trade deficit** (since imports rise relative to exports).
-
-
 
 ### 4. Evaluation of Options
 
@@ -7887,12 +7816,8 @@ In the US:
 - **Option C:** The interest rate falls, and the US trade deficit falls. **(Incorrect, as the trade deficit should increase)**  
 - **Option D:** The interest rate increases, and the US trade deficit falls. **(Incorrect, as $r^{*}$ is expected to fall)**  
 
-
-
 ## Final Answer:
 The correct answer appears to be **A. The interest rate falls, and the US trade deficit increases**.
-
-
 
 ## Intuition:
 Aging populations in China increase their savings, driving down the world interest rate $r^{*}$. Lower interest rates make borrowing cheaper, causing higher investment in the US and an increase in the trade deficit due to a rise in imports relative to exports.
@@ -7987,8 +7912,6 @@ Some American citizens can invest in Europe for a return of 20% for a year. The 
 **Correct Answers:**  
 33.17%, 30.975%, or 29.89%.
 
-
-
 ## Solution
 
 ### Step 1: Formula for Return on Foreign Investment in Domestic Terms
@@ -8003,8 +7926,6 @@ Where:
 - $r_f$ = Foreign return (in this case, 20% or 0.20)
 - $S_0$ = Initial exchange rate (USD/EUR) in January 2020 (0.91)
 - $S_t$ = Final exchange rate (USD/EUR) in January 2021 (0.82)
-
-
 
 ### Step 2: Substituting Values
 
@@ -8026,8 +7947,6 @@ $$
 \text{Effective Return} \approx 0.33176 \text{ or } 33.176\%
 $$
 
-
-
 ### Interpretation
 
 - The US national earned a **20% return** in euros.
@@ -8037,8 +7956,6 @@ $$
 ### Step 3: Range of Possible Answers
 Depending on rounding or slight variations in exchange rate usage, acceptable answers for the effective gain are:
 - **33.17%**, **30.975%**, or **29.89%**.
-
-
 
 ## Conclusion
 The investment in Europe returned 20% in euros. However, due to the strengthening euro relative to the dollar, the US investors' effective gain, when converted back to dollars, increased to **33.17%** (approximately). Depending on the level of rounding and assumptions, acceptable answers include **33.17%**, **30.975%**, or **29.89%**.
@@ -8333,14 +8250,14 @@ Following up on the ample reserves regime discussion, what can be said about the
 **Correct Answer:**  
 If one uses the exact formula, the real exchange rate (RER) decreases by 3.2% (i.e., $1.76 \times 1.10 / 2 = 0.968$). The first-order approximation is not precise since the rates are very far from zero. Given that we used an approximation for the foreign price change (10%), we observe that the relative PPP is quite accurate, as the RER change is much smaller than the change in inflation and depreciation.
 
-
-
 ## Explanation
 
 ### **1. Formula for Relative Purchasing Power Parity (PPP)**  
 Relative PPP relates the percentage change in the nominal exchange rate to the inflation rate differential between two countries. The formula for the real exchange rate (RER) change is:
 
-$$\text{RER}_{\text{new}} = E_{\text{new}} \times P_{\text{foreign}} / P_{\text{domestic}$$
+$$
+\text{RER}_\text{new} = E_\text{new} \times P_\text{foreign} / P_\text{domestic}
+$$
 
 Where:
 - $E_{\text{new}}$ = nominal exchange rate after depreciation
@@ -8362,8 +8279,6 @@ $$
 
 This shows a **decrease of 3.2%** in the real exchange rate, indicating that the domestic currency has gained purchasing power relative to foreign currency-adjusted prices.
 
-
-
 ### **3. First-Order Approximation vs. Exact Formula**
 - The first-order approximation assumes small changes in rates:
   $$
@@ -8371,8 +8286,6 @@ This shows a **decrease of 3.2%** in the real exchange rate, indicating that the
   $$
   - However, with large changes (like 76% and 100%), this approximation becomes less precise.
 - The exact formula reflects that the real exchange rate change is much smaller than the inflation rate and nominal depreciation rate changes, highlighting the predictive accuracy of relative PPP.
-
-
 
 ### **4. Conclusion**
 The relative PPP holds well in this case, as the **real exchange rate only changes by -3.2%**, despite substantial changes in inflation and depreciation rates. This supports the theory’s relevance when using the exact formula rather than an approximation, especially when percentage changes are far from zero.
