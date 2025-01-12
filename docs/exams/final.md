@@ -3421,7 +3421,7 @@ A U.S. national has a bank account at Deutsche Bank in Germany and uses 1 millio
 
 2. **Current Account (CA)**:
    - Formula for the current account balance:
-     $$ CA = 	ext{Exports of Goods and Services} - \text{Imports of Goods and Services} $$
+     $$ CA = \text{Exports of Goods and Services} - \text{Imports of Goods and Services} $$
    - Purchasing imported cars means an increase in imports, which worsens the current account.
 
 ### **Impact of the Transaction**
