@@ -5128,8 +5128,6 @@ In a macroeconomics class, we are asked to interpret a currency crisis using our
 
 The goal is to evaluate the impact of non-credible policies on the key macroeconomic variables and to explain the mechanisms driving a potential currency crisis.
 
-
-
 ## Answer
 
 ### 1. Impact of Non-Credible Policies on the Nominal Interest Rate ($i$)
@@ -5148,8 +5146,6 @@ where:
 
 A decrease in $i$ makes the right-hand side negative, implying that $E$ must rise (depreciation) to maintain equality.
 
-
-
 ### 2. Impact of Non-Credible Policies on the Expected Exchange Rate ($E_e$)
 
 Non-credible policies lead to a shift in expectations regarding the future exchange rate ($E_e$). If market participants believe that the government will pursue unsustainable policies, they will expect the domestic currency to depreciate in the future. This shifts $E_e$ upwards, reinforcing currency depreciation.
@@ -5159,8 +5155,6 @@ $$
 \text{Expected Depreciation Rate} = \frac{E_e - E}{E}
 $$
 If $E_e$ increases significantly, the current exchange rate $E$ must also rise, contributing to further currency weakness.
-
-
 
 ### 3. Impact of Non-Credible Policies on Government Spending ($G$)
 
@@ -5178,8 +5172,6 @@ where:
 - $M$ = imports
 
 Higher $G$ leads to an increase in $M$ (imports), potentially leading to a **twin deficit problem** (fiscal and current account deficits), which further weakens investor confidence.
-
-
 
 ### Conclusion
 
@@ -5251,8 +5243,6 @@ H. The equilibrium moves right along the Phillips Curve
 
 **Correct Answer: A, B, C**
 
-
-
 ## Explanation and Analysis
 
 ### **Step 1: Understanding Fiscal Consolidation (Negative Shock to $G$)**  
@@ -5289,8 +5279,6 @@ A **fiscal consolidation** occurs when the government reduces spending $G$. In t
 #### **H. The equilibrium moves right along the Phillips Curve** ❌
 - Fiscal consolidation causes inflation to fall, moving left along the Phillips Curve, not right.
 
-
-
 ## **Mathematical Representation**
 
 ### IS Curve Shift:
@@ -5306,8 +5294,6 @@ $$
 \pi = \pi_e + \alpha (Y - Y^{*})
 $$
 - When $Y \le Y^{*}$ (i.e., output falls below potential), inflation decreases.
-
-
 
 ## **Final Answer**
 - Correct Statements: **A, B, C**
@@ -5380,13 +5366,9 @@ Which of the following statements are consistent with the Central Bank's goals? 
 
 The **correct answers** are **E**, **F**, and **G**.
 
-
-
 ## Solution Explanation
 
 To restore output and bring inflation back to target, the Central Bank typically implements **expansionary monetary policy**. Let’s explain the correct options and why they align with the economic theory.
-
-
 
 ### 1. **The Phillips Curve and Monetary Policy**
    The **Phillips Curve** shows the inverse relationship between unemployment and inflation. In this case:
@@ -5406,8 +5388,6 @@ To restore output and bring inflation back to target, the Central Bank typically
    - $Y^{*}$ is potential GDP.
    - $\alpha$ represents how strongly inflation responds to the output gap.
 
-
-
 ### 2. **Correct Choices:**
 
    - **E. The equilibrium moves right along the Phillips Curve**:  
@@ -5418,8 +5398,6 @@ To restore output and bring inflation back to target, the Central Bank typically
    
    - **G. The Central Bank lowers interest rates and the equilibrium moves right along the IS curve**:  
      This describes the process of **expansionary monetary policy** in action. Lowering interest rates shifts the **IS curve** to the right, increasing equilibrium output.
-
-
 
 ### 3. **Why the Other Choices Are Incorrect:**
 
@@ -5435,12 +5413,8 @@ To restore output and bring inflation back to target, the Central Bank typically
    - **D. The Central Bank lowers interest rates, shifting the IS curve right**:  
      Although partially correct, this choice alone does not fully describe the dynamic relationship where the equilibrium also moves along the curve.
 
-
-
 ## Summary:
 The Central Bank’s goal to restore potential output and bring inflation back to target is achieved by lowering interest rates, shifting the IS curve to the right, and increasing aggregate demand. As a result, the equilibrium moves right along the Phillips Curve, reflecting the decrease in unemployment and stabilization of inflation.
-
-
 
 ## Final Answers:
 - **Correct Answers**: E, F, G
@@ -5519,8 +5493,6 @@ In a macroeconomics class, we are considering a scenario where the central bank 
 **F. The Demand Side Curve shifts right**  
 **G. The Central Bank lowers interest rates, shifting right the IS curve**
 
-
-
 ## Explanation
 
 When the central bank takes action to return the economy to its potential output and inflation to its target, it usually implements **expansionary monetary policy** by **lowering the interest rates**. Here’s a breakdown of the key concepts and how they align with the answer choices:
@@ -5563,8 +5535,6 @@ Where:
 ### Summary:
 The correct actions consistent with the central bank's goals are **lowering interest rates (IS curve shift right)**, a **rightward movement along the Phillips Curve** reflecting higher output, and a **shift in the demand-side curve** due to increased aggregate demand.
 
-
-
 ## Final Answers:
 - **Correct Options:** E, F, G
 
@@ -5599,7 +5569,6 @@ The correct answer is **A, C, E**. Here’s an explanation for each option:
 
 - **C. Increase in productivity ("A" in the Cobb-Douglas production function)**:  
   In the Cobb-Douglas production function:
-
   $$
   Y = A \cdot K^\alpha \cdot L^{1 - \alpha}
   $$
@@ -5638,8 +5607,6 @@ If output is moving in the same direction as inflation (or prices), then the mai
 
 ### Correct Answer: **A**
 
-
-
 ## Explanation:
 
 In macroeconomic theory, an **inflationary shock** refers to a sudden and significant change in the price level due to external or internal economic factors. There are two types of inflationary shocks:
@@ -5652,8 +5619,6 @@ In macroeconomic theory, an **inflationary shock** refers to a sudden and signif
 - Conversely, a **supply-side shock** generally causes **inverse movement** of prices and output:
   - A **negative supply shock** (e.g., rising costs of inputs) results in **higher prices** but **lower output**.
   - A **positive supply shock** (e.g., technological advancements) leads to **lower prices** and **higher output**.
-
-
 
 ### **Graphical Representation**:
 
@@ -5686,8 +5651,6 @@ Go back to the content, click [here](#table-of-content).
 
 This analysis addresses the issue of a Central Bank facing the **Effective Lower Bound (ELB)** in nominal interest rates and the consequences of this situation, particularly in terms of achieving its inflation target and stimulating aggregate demand.
 
-
-
 ## **Restatement of the Problem**
 
 Consider a Central Bank constrained by the **Effective Lower Bound (ELB)**, where:
@@ -5696,7 +5659,6 @@ Consider a Central Bank constrained by the **Effective Lower Bound (ELB)**, wher
 
 Given this setup:
 - The Central Bank aims to stimulate the economy by influencing the **real interest rate** ($r$), which is defined as:
-
   $$
   r = i - \pi^e
   $$
@@ -5704,8 +5666,6 @@ Given this setup:
   where $r$ is the real interest rate, $i$ is the nominal interest rate, and $\pi^e$ is the expected inflation.
 
 Since the nominal interest rate $i$ is stuck at zero, achieving a negative real interest rate $r = -2\%$ requires a positive expected inflation rate of $2\%$. However, in practice, when expectations of inflation remain anchored, the economy struggles to generate sufficient inflation.
-
-
 
 ## **Answer Explanation**
 
@@ -5725,8 +5685,6 @@ Since the nominal interest rate $i$ is stuck at zero, achieving a negative real 
 ### D. **Inflation Persistently Below Its Target (Correct)**
 
 - Since the Central Bank cannot lower the real interest rate enough to boost demand, inflation tends to stay below its target. This situation is consistent with a deflationary spiral or disinflationary pressures.
-
-
 
 ## **Summary of the Correct Answers**
 
@@ -5790,8 +5748,6 @@ In a macroeconomics class, the following question is posed:
 
 The correct answer to this question is **False**.
 
-
-
 ## Explanation
 
 ### 1. Definition of a Supply Shock
@@ -5799,15 +5755,11 @@ A **supply shock** refers to an unexpected event that significantly alters the c
 - **Positive Supply Shock:** Increases supply, reducing costs and prices.
 - **Negative Supply Shock:** Reduces supply, increasing costs and prices (e.g., oil price increases).
 
-
-
 ### 2. Central Bank's Role and Policy Goals
 The primary goals of a central bank are:
 1. **Price Stability:** Controlling inflation to maintain stable prices.
 2. **Full Employment:** Ensuring optimal levels of employment.
 3. **Economic Growth:** Supporting sustainable economic growth.
-
-
 
 ### 3. Why "Seeing Through" Supply Shocks May Be Risky
 - A negative supply shock increases inflation and reduces output. If the central bank does nothing and simply waits for the shock to reverse:
@@ -5815,12 +5767,9 @@ The primary goals of a central bank are:
   - Wage-price spirals may arise as workers demand higher wages due to rising prices.
   - The central bank may lose credibility as a guardian of price stability.
 
-
-
 ### 4. Why the Statement is False
 - **Inflation Expectations Model:**
   The central bank must manage inflation expectations to avoid a long-term shift in aggregate demand. Inflation expectations $\pi_e$ affect future inflation:
-  
   $$
   \pi_t = \pi_e + \lambda (Y_t - Y^{*}) + \epsilon_t
   $$
@@ -5848,8 +5797,6 @@ The primary goals of a central bank are:
   - $\alpha$, $\beta$: Policy weights
 
   If inflation rises due to a supply shock, the central bank may need to raise rates moderately to prevent expectations from spiraling out of control.
-
-
 
 ## Conclusion
 The correct answer is **False**. While "seeing through" a temporary supply shock may seem prudent in theory, in practice, failing to respond to inflation risks from negative supply shocks can erode credibility, fuel higher inflation expectations, and necessitate harsher measures in the future. A balanced approach, with some measured interest rate adjustment, is typically required to anchor expectations and preserve price stability.
@@ -6021,8 +5968,6 @@ Which additional policy tool is required for the Central Bank to operate in the 
 
 **Correct Answer:** **A. Paying interest on reserves**
 
-
-
 ## Explanation
 
 The Ample Reserves regime allows banks to hold excess reserves rather than competing for reserves in the overnight lending market. Under this framework:
@@ -6051,8 +5996,6 @@ Where:
 - $\varepsilon$ represents any small premium due to risk or frictions in the market.
 
 This shows how adjusting the interest on reserves allows the Central Bank to control the short-term interest rate directly.
-
-
 
 ## Conclusion
 
