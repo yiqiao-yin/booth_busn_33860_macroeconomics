@@ -4498,8 +4498,6 @@ Amazon is a U.S.-based company, and its stocks are part of domestic assets. When
 ### 4. Conclusion  
 The correct answer is **A. NFA decreases**.
 
-
-
 ## Summary of Key Points
 - Amazon stocks are domestic assets.
 - A price increase raises the value of foreign claims on U.S. assets.
@@ -4547,7 +4545,7 @@ Go back to the content, click [here](#table-of-content).
 
 ## Problem Statement
 
-A Canadian business sells $400,000 of maple syrup in U.S. supermarkets. In the U.S. national accounts, how do these transactions affect the following components of GDP?
+A Canadian business sells \$400,000 of maple syrup in U.S. supermarkets. In the U.S. national accounts, how do these transactions affect the following components of GDP?
 
 The potential answers are:
 1. **A.** Increase in $M$ but not in $C$.
