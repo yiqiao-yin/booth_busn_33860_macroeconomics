@@ -3416,7 +3416,7 @@ A U.S. national has a bank account at Deutsche Bank in Germany and uses 1 millio
 ### **Key Concepts**
 1. **Net Foreign Assets (NFA)**:
    - Formula:
-     $$ NFA = 	ext{Foreign Assets held by Domestic Residents} - \text{Domestic Assets held by Foreigners} $$
+     $$ NFA = \text{Foreign Assets held by Domestic Residents} - \text{Domestic Assets held by Foreigners} $$
    - When foreign currency assets (such as euros in a German bank) are used for imports, the foreign asset position decreases.
 
 2. **Current Account (CA)**:
