@@ -5019,8 +5019,6 @@ Since the total deficit includes interest payments and the primary deficit does 
 - **Answer**: **A. True**
 - The total deficit is always larger than the primary deficit for governments in debt due to the inclusion of interest payments in the total deficit.
 
-Here is the requested `.md` file for the problem and solution:
-
 ### **Debt-to-GDP Ratio and Primary Deficit**
 
 This document analyzes under what conditions the **debt-to-GDP ratio** can decrease despite the government running a **primary deficit**.
@@ -5164,9 +5162,11 @@ If $E_e$ increases significantly, the current exchange rate $E$ must also rise, 
 An increase in government spending ($G$) due to non-credible policies increases aggregate demand ($AD$) in the short run. However, in an open economy, higher $G$ can lead to an increase in imports, worsening the trade balance and putting additional downward pressure on the exchange rate.
 
 The IS equation in the open economy is:
+
 $$
 Y = C + I + G + (X - M)
 $$
+
 where:
 - $C$ = consumption
 - $I$ = investment
