@@ -3782,7 +3782,7 @@ This file analyzes the public debt stabilization condition in macroeconomics and
 ## Problem Restatement
 
 We are given the following values:
-- Public Debt-to-GDP ratio: $B/Y = 50\%$
+- Public Debt-to-GDP ratio: $D/Y = 50\%$
 - Real interest rate: $r = 6\% \text{ (or 0.06)}$
 - Real GDP growth rate: $g = 4\% \text{ (or 0.04)}$
 
@@ -3799,21 +3799,21 @@ $$r \ge g$$
 
 The general equation for the change in the debt-to-GDP ratio is:
 $$
-\frac{\Delta B}{Y} = \left(r - g\right) \frac{B}{Y} + \frac{G - T}{Y}
+\frac{\Delta D}{Y} = \left(r - g\right) \frac{D}{Y} + \frac{G - T}{Y}
 $$
 Where:
-- $\frac{\Delta B}{Y}$: Change in the debt-to-GDP ratio
+- $\frac{\Delta D}{Y}$: Change in the debt-to-GDP ratio
 - $\left(r - g\right)$: Difference between real interest rate and real GDP growth
-- $\frac{B}{Y}$: Debt-to-GDP ratio
+- $\frac{D}{Y}$: Debt-to-GDP ratio
 - $\frac{G - T}{Y}$: Primary deficit-to-GDP ratio
 
 To keep the debt-to-GDP ratio constant, $\frac{\Delta B}{Y} = 0$.
 
 ### Plugging in Known Values
 
-Set $\frac{\Delta B}{Y} = 0$ to stabilize debt:
+Set $\frac{\Delta D}{Y} = 0$ to stabilize debt:
 $$
-0 = \left(r - g\right) \frac{B}{Y} + \frac{G - T}{Y}
+0 = \left(r - g\right) \frac{D}{Y} + \frac{G - T}{Y}
 $$
 
 Substitute the known values:
