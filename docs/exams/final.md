@@ -4768,8 +4768,6 @@ Since the yen strengthened (fewer yen are needed for the same amount of euros), 
 
 **Answer: A. Appreciated**
 
-
-
 Go back to the content, click [here](#table-of-content).
 
 # **Currency Investment Decision Analysis**
@@ -4809,6 +4807,7 @@ The expected depreciation of the yuan relative to the dollar:
 $$
 \text{Exchange Rate Change} = \frac{E_{t+1} - E_t}{E_t} \times 100
 $$
+
 Substituting values:
 $$
 \text{Exchange Rate Change} = \frac{8.8 - 8}{8} \times 100 = 10\%
@@ -4827,8 +4826,6 @@ $$
    $$
    \text{Effective Gain} = 3\% + 10\% = 13\%
    $$
-
-
 
 ## **Conclusion**
 
@@ -4885,8 +4882,7 @@ Go back to the content, click [here](#table-of-content).
 Consider the Open Economy Macro Model seen in class. 
 
 **Question:** 
-What will happen to the exchange rate ($E$) and output ($Y$) if there is a shock of expansive fiscal policy (i.e., an increase in government spending $G$)? 
-Assume that the central bank accommodates the fiscal expansion (i.e., the central bank does not increase interest rates).
+What will happen to the exchange rate ($E$) and output ($Y$) if there is a shock of expansive fiscal policy (i.e., an increase in government spending $G$)? Assume that the central bank accommodates the fiscal expansion (i.e., the central bank does not increase interest rates).
 
 The available options are:
 - **A.** Exchange rate depreciates, output increases  
